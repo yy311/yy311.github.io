@@ -3,9 +3,9 @@ highlighter:      pygments
 
 # Setup
 title:            Ye Yuan
-tagline:          'Research and Stuff'
+tagline:          'Postdoc'
 description:      'I am an Assistant Professor at Nanyang Technologicial University, Singapore.'
-url:              http://yilinmo.github.io
+url:              http://yy311.github.io
 baseurl:          /
 cover_image: /public/zion.png
 
@@ -19,11 +19,12 @@ paginate_path:    "/notes/page:num"
 # List of Pages
 
 pages_list:
+ - name: Biography
+    loc: /bio.html
   - name: Research
     loc: /research.html
   - name: Teaching
     loc: /teaching.html
   - name: Publication
     loc: /publication.html
-  - name: Notes
-    loc: /notes
+ 
