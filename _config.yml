@@ -3,17 +3,17 @@ highlighter:      pygments
 
 # Setup
 title:            Ye Yuan
-tagline:          'Research and Stuff'
+# tagline:          'Research and Stuff'
 description:      'I am a Postdoc at UC Berkeley.'
-url:              http://yilinmo.github.io
+url:              http://yy311.github.io
 baseurl:          /
 cover_image: /public/zion.png
 
 author:
-name:           'Yilin Mo'
-email:            ylmo@ntu.edu.sg
+name:           'Ye Yuan'
+email:          ye.yuan@outlook.com
 
-paginate:         5
+paginate:         3
 paginate_path:    "/notes/page:num"
 
 # List of Pages
@@ -21,9 +21,6 @@ paginate_path:    "/notes/page:num"
 pages_list:
   - name: Research
     loc: /research.html
-  - name: Teaching
-    loc: /teaching.html
   - name: Publication
     loc: /publication.html
-  - name: Notes
-    loc: /notes
+
