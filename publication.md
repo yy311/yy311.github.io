@@ -5,6 +5,11 @@ title: Publication
 
 Journal Papers:
 
+
+[J15]D. Hayden, Y. Yuan and J. Gon ̧calves, Network identifiability from intrinsic noise, under review, IEEE Transactions on Automatic Control. http://arxiv.org/abs/1310.0375.
+
+[J14]Y. Yuan∗, A. Rai, E. Yeung, G. Stan, S. Warnick and J. Gonc ̧alves, A minimal realization technique for the dynamical structure function of a class of LTI systems, under review, IEEE Transactions on Control of Network Systems. http://arxiv.org/abs/1209.3808.
+
 [J13]Y. Yuan*, K. Glover and J. Gonçalves, On minimal realisations of dynamical structure functions, Automatica, 2015. http://arxiv.org/abs/1409.0072.
 
 [J12]W. Pan, Y. Yuan*, H. Sandberg, J. Gonçalves and G. Stan, Online fault diagnosis for nonlinear power systems, Automatica, 2015.
