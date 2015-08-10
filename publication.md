@@ -3,7 +3,13 @@ layout: page
 title: Publication
 ---
 
-Journal Papers:
+####Working Papers:
+Y. Yuan and Y. Mo, Security in feedback control systems: Controller design against known-plaintext attack, CDC, 2015. 
+
+Y. Yuan and S. H. Low, TBA, 2015. 
+
+
+####Journal Papers:
 
 
 [J15]D. Hayden, Y. Yuan and J. Gon ̧calves, Network identifiability from intrinsic noise, under review, IEEE Transactions on Automatic Control. http://arxiv.org/abs/1310.0375.
