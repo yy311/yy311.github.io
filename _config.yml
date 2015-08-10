@@ -23,4 +23,6 @@ pages_list:
     loc: /research.html
   - name: Publication
     loc: /publication.html
+    - name: Teaching
+    loc: /teaching.html
   
