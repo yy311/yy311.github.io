@@ -6,7 +6,7 @@ title: Publication
 ####Working Papers:
 Y. Yuan and Y. Mo, Security in feedback control systems: Controller design against known-plaintext attack, CDC, 2015. 
 
-Y. Yuan and S. H. Low, TBA, 2015. 
+<!--Y. Yuan and S. H. Low, TBA, 2015. -->
 
 
 ####Journal Papers:
