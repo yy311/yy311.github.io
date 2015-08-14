@@ -20,11 +20,11 @@ title: Publication
 
 [J12]W. Pan, Y. Yuan*, H. Sandberg, J. Gonçalves and G. Stan, Online fault diagnosis for nonlinear power systems, Automatica, Volume 55, Pages 27-36, 2015. 
 
-[J11]T. Charalambous, Y. Yuan*, T. Yang, W. Pan, C. Hadjicostis, M. Johansson, Distributed finite-time average consensus in digraphs in the presence of time-delays, to appear, IEEE Transactions on Control of Network Systems.
+[J11]T. Charalambous, Y. Yuan*, T. Yang, W. Pan, C. Hadjicostis, M. Johansson, Distributed finite-time average consensus in digraphs in the presence of time-delays, in press, IEEE Transactions on Control of Network Systems.
 
-[J10]X. Yang, Y. Yuan*, Z. Long, J. Gonçalves and P. Palmer, Robust stability analysis of active voltage control for high-power IGBT switching by Kharitonov’s theorem, to appear, IEEE Transactions on Power Electronics.
+[J10]X. Yang, Y. Yuan*, Z. Long, J. Gonçalves and P. Palmer, Robust stability analysis of active voltage control for high-power IGBT switching by Kharitonov’s theorem, in press, IEEE Transactions on Power Electronics.
 
-[J9]W. Pan, Y. Yuan*, J. Gonçalves and G. Stan, Bayesian approaches to the identification of nonlinear state-space systems, to appear, IEEE Transactions on Automatic Control.
+[J9]W. Pan, Y. Yuan*, J. Gonçalves and G. Stan, Bayesian approaches to the identification of nonlinear state-space systems, in press, IEEE Transactions on Automatic Control.
 
 [J8]X. Yang, Y. Yuan, X. Zhang and P. Palmer, Shaping high-power IGBT switching transitions by active voltage control for reduced EMI generation, in press, IEEE Transactions on Industry Applications.
 
