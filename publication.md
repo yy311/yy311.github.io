@@ -3,8 +3,8 @@ layout: page
 title: Publication
 ---
 
-####Working Papers:
-Y. Yuan and Y. Mo, Security in feedback control systems: Controller design against known-plaintext attack, CDC, 2015. 
+<!--####Working Papers:-->
+<!--Y. Yuan and Y. Mo, Security in feedback control systems: Controller design against known-plaintext attack, CDC, 2015. -->
 
 <!--Y. Yuan and S. H. Low, TBA, 2015. -->
 
@@ -12,13 +12,13 @@ Y. Yuan and Y. Mo, Security in feedback control systems: Controller design again
 ####Journal Papers:
 
 
-[J15]D. Hayden, Y. Yuan and J. Gon ̧calves, Network identifiability from intrinsic noise, under review, IEEE Transactions on Automatic Control. http://arxiv.org/abs/1310.0375.
+[J15]D. Hayden, Y. Yuan and J. Goncalves, Network identifiability from intrinsic noise, under review, IEEE Transactions on Automatic Control. http://arxiv.org/abs/1310.0375.
 
-[J14]Y. Yuan∗, A. Rai, E. Yeung, G. Stan, S. Warnick and J. Gonc ̧alves, A minimal realization technique for the dynamical structure function of a class of LTI systems, under review, IEEE Transactions on Control of Network Systems. http://arxiv.org/abs/1209.3808.
+[J14]Y. Yuan*, A. Rai, E. Yeung, G. Stan, S. Warnick and J. Goncalves, A minimal realization technique for the dynamical structure function of a class of LTI systems, accepted, IEEE Transactions on Control of Network Systems. http://arxiv.org/abs/1209.3808.
 
-[J13]Y. Yuan*, K. Glover and J. Gonçalves, On minimal realisations of dynamical structure functions, Automatica, 2015. http://arxiv.org/abs/1409.0072.
+[J13]Y. Yuan*, K. Glover and J. Gonçalves, On minimal realisations of dynamical structure functions, Automaticac Volume 55, Pages 159-164, 2015.. http://arxiv.org/abs/1409.0072.
 
-[J12]W. Pan, Y. Yuan*, H. Sandberg, J. Gonçalves and G. Stan, Online fault diagnosis for nonlinear power systems, Automatica, 2015.
+[J12]W. Pan, Y. Yuan*, H. Sandberg, J. Gonçalves and G. Stan, Online fault diagnosis for nonlinear power systems, Automatica, 2015. 
 
 [J11]T. Charalambous, Y. Yuan*, T. Yang, W. Pan, C. Hadjicostis, M. Johansson, Distributed finite-time average consensus in digraphs in the presence of time-delays, to appear, IEEE Transactions on Control of Network Systems.
 
