@@ -16,9 +16,9 @@ title: Publication
 
 [J14]Y. Yuan*, A. Rai, E. Yeung, G. Stan, S. Warnick and J. Goncalves, A minimal realization technique for the dynamical structure function of a class of LTI systems, accepted, IEEE Transactions on Control of Network Systems. http://arxiv.org/abs/1209.3808.
 
-[J13]Y. Yuan*, K. Glover and J. Gonçalves, On minimal realisations of dynamical structure functions, Automatica,c Volume 55, Pages 159-164, 2015. http://arxiv.org/abs/1409.0072.
+[J13]Y. Yuan*, K. Glover and J. Gonçalves, On minimal realisations of dynamical structure functions, Automatica, Volume 55, Pages 159-164, 2015. http://arxiv.org/abs/1409.0072.
 
-[J12]W. Pan, Y. Yuan*, H. Sandberg, J. Gonçalves and G. Stan, Online fault diagnosis for nonlinear power systems, Automatica, 2015. 
+[J12]W. Pan, Y. Yuan*, H. Sandberg, J. Gonçalves and G. Stan, Online fault diagnosis for nonlinear power systems, Automatica, Volume 55, Pages 27-36, 2015. 
 
 [J11]T. Charalambous, Y. Yuan*, T. Yang, W. Pan, C. Hadjicostis, M. Johansson, Distributed finite-time average consensus in digraphs in the presence of time-delays, to appear, IEEE Transactions on Control of Network Systems.
 
