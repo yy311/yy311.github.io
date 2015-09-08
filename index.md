@@ -9,7 +9,7 @@ Ye Yuan is currently a Post-doctoral researcher at UC Berkeley with Prof. Claire
 
 Ye has been a visiting researcher at Caltech (2011,2014,2015) with Prof. Richard Murray and Prof. Steven Low, at MIT (2013) with Prof. Munther Dahleh and Prof. Alex Megretski and at Imeprial College London (2011-2015) with Prof. Mauricio Barahona and Prof. Guy-Bart Stan. 
 
-He is the recipient of Dorothy Hodgkin Postgraduate Awards, Microsoft Research PhD Scholarship, Cambridge Overseas Scholarship (twice), Chinese Government Award for Outstanding Students Studying Abroad and Henry Lester Scholarship (four times), and a number of travel awards from Pembroke College, Cambridge Engineering Department, Microsoft Research, IEEE, EECI, Los Alamos National Lab etc..
+He is the recipient of Dorothy Hodgkin Postgraduate Awards, Microsoft Research PhD Scholarship, Cambridge Overseas Scholarship (twice), Chinese Government Award for Outstanding Students Studying Abroad and Henry Lester Scholarship.
 
 
 
@@ -24,8 +24,7 @@ University of California, Berkeley
 
 Email: yy311@berkeley.edu.
 
-<script> 
-          window.jstiming.load.tick('render');
+<script> window.jstiming.load.tick('render');
         </script> 
         <a href="http://www3.clustrmaps.com/counter/maps.php?url=http://www-control.eng.cam.ac.uk/~yy311/" id="clustrMapsLink"><img src="http://www3.clustrmaps.com/counter/index2.php?url=http://www-control.eng.cam.ac.uk/~yy311/" style="border:0px;" alt="Locations of visitors to this page" title="Locations of visitors to this page" id="clustrMapsImg" onerror="this.onerror=null; this.src='http://www2.clustrmaps.com/images/clustrmaps-back-soon.jpg'; document.getElementById('clustrMapsLink').href='http://www2.clustrmaps.com';" />
 </a>
