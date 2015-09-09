@@ -14,7 +14,7 @@ He is the recipient of Dorothy Hodgkin Postgraduate Awards, Microsoft Research P
 
 
 ####Contact:
-Ye Yuan
 307 Cory Hall 
+
 Email: yy311@berkeley.edu.
 
