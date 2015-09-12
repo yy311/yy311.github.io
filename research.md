@@ -19,7 +19,7 @@ Wei Pan (Ph.D., Bioengineering, Imperial College, 2011-) Nonlinear identificatio
 
 Peyman Gifani (Ph.D., Control Engineering, Cambridge, 2011-) Engineering design principle in synthetic biology. University of Cambridge, Wellcome Trust Senisor internship.
 
-Dr. David Hayden (Ph.D., Control Engineering, Cambridge, 2011-2015) Network reconstruction using intrinsic noises. Some company in Sillicon Valley.
+Dr. David Hayden (Ph.D., Control Engineering, Cambridge, 2011-2015) Network reconstruction using intrinsic noises. Machine Learning Researcher in London.
 
 Dr. Alberto Carignano (Ph.D., Control Engineering, Cambridge, 2011-2014) Modelling of Circadian Clocks. University of Washington, postdoc researcher.
 
