@@ -43,3 +43,4 @@ W. Pan, Y. Yuan*, L. Ljung, J. Gonçalves, and G. Stan, Identifying biochemical
 
 [J1]Y. Yuan, G. Stan, S. Warnick and J. Gonçalves , Robust dynamical network structure reconstruction, Special Issue on System Biology, Automatica, Volume 47, Issue 6, Page 1230-1235, 2011.
 
+- * Corresponding author.
