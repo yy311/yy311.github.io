@@ -12,6 +12,6 @@ Instructor: Prof. Jan Maciejowski
 
 ####Co-supervised Master Students: (4th Year Project)
 
-J. Thia, ``Distributed Kalman filtering'' (Class I), University of Cambridge
+J. Thia, ``Distributed Kalman filtering'' (1st Class honour), University of Cambridge
 
-A. Kasis, ``Modeling Huntington's disease development in patients'' (Class I), University of Cambridge
+A. Kasis, ``Modeling Huntington's disease development in patients'' (1st Class honour), University of Cambridge
