@@ -27,7 +27,7 @@ Dr. Xin Yang (Ph.D., Electrical Engineering, Cambridge, 2011-2014) Robust stabil
 
 Dr. Neave O'Clery (Ph.D., Mathematics, Imperial College, 2011-2013) Graph Theory, Complex Networks. Fulbright researcher at Harvard University.
 
-I have also been discussing reguarly with Enoch Yeung, Ania Betica (Caltech) and Qingqing Huang (MIT). 
+I have also been discussing reguarly with Enoch Yeung, Ania Baetica (Caltech) and Qingqing Huang (MIT). 
 
 [Hyper link] (http://daringfireball.net/projects/markdown/syntax)
 
