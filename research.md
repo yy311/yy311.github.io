@@ -29,6 +29,6 @@ Dr. Neave O'Clery (Ph.D., Mathematics, Imperial College, 2011-2013) Graph Theory
 
 I have also been discussing reguarly with Enoch Yeung, Ania Baetica (Caltech) and Qingqing Huang (MIT). 
 
-[Hyper link] (http://daringfireball.net/projects/markdown/syntax)
+
 
 
