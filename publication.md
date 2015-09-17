@@ -7,7 +7,7 @@ title: Publication
 
 Y. Yuan and S. H. Low, On inverse power flow problem, 2015. 
 
-Y. Yuan and Y. Mo, Security in feedback control systems: Controller design against known-plaintext attack, 2015. [PDF] (https://www.authorea.com/users/62980/articles/74733)
+Y. Yuan and [Y. Mo](http://yilinmo.github.io/), Security in feedback control systems: Controller design against known-plaintext attack, 2015. [PDF] (https://www.authorea.com/users/62980/articles/74733)
 
 
 ####Journal Papers:
