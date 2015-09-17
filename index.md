@@ -20,6 +20,9 @@ Department of EECS, UC Berkeley
 
 Email: yy311@berkeley.edu.
 
+<span class="footercued">
+Updated on 9/2015.<br />
+<span>
 <script> 
           window.jstiming.load.tick('render');
         </script> 
