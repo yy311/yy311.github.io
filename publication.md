@@ -54,4 +54,4 @@ T. Yang, Y. Yuan, K. Li, J. Goncalves and K. Johansson, Minimum-time computation
 Y. Yuan, J. Liu, R. M. Murray and J. Goncalves , Minimal-time dynamical consensus, ACC, 2012.
 
 
-* Corresponding author.
+^* Corresponding author.
