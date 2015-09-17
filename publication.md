@@ -42,7 +42,6 @@ Y. Yuan and Y. Mo, Security in feedback control systems: Controller design again
 
 [J1]Y. Yuan, G. Stan, S. Warnick and J. Gonçalves , Robust dynamical network structure reconstruction, Special Issue on System Biology, Automatica, Volume 47, Issue 6, Page 1230-1235, 2011.
 
-- ^* Corresponding author.
 
 ####Selected Conference Papers:
 
@@ -54,3 +53,5 @@ T. Yang, Y. Yuan, K. Li, J. Goncalves and K. Johansson, Minimum-time computation
 
 Y. Yuan, J. Liu, R. M. Murray and J. Goncalves , Minimal-time dynamical consensus, ACC, 2012.
 
+
+* Corresponding author.
