@@ -15,7 +15,9 @@ He is the recipient of Dorothy Hodgkin Postgraduate Awards, Microsoft Research P
 
 ####Contact:
 307 Cory Hall 
+
 Department of EECS, UC Berkeley 
+
 Email: yy311@berkeley.edu.
 
 <span class="footercued">
