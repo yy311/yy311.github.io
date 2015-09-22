@@ -16,7 +16,7 @@ Y. Yuan and [Y. Mo](http://yilinmo.github.io/), Security in feedback control sys
 
 [J14]Y. Yuan*, A. Rai, E. Yeung, G. Stan, S. Warnick and J. Goncalves, A minimal realization technique for the dynamical structure function of a class of LTI systems, to appear, IEEE Transactions on Control of Network Systems. [PDF](http://arxiv.org/abs/1209.3808)
 
-[J13]Y. Yuan*, K. Glover and J. Gonçalves, On minimal realisations of dynamical structure functions, Automatica, Volume 55, Pages 159-164, 2015. [PDF] (http://arxiv.org/abs/1409.0072)
+[J13]Y. Yuan*, K. Glover and J. Gonçalves, On minimal realisations of dynamical structure functions, Automatica, Volume 55, Pages 159-164, 2015. [PDF](http://arxiv.org/abs/1409.0072)
 
 [J12]W. Pan, Y. Yuan*, H. Sandberg, J. Gonçalves and G. Stan, Online fault diagnosis for nonlinear power systems, Automatica, Volume 55, Pages 27-36, 2015. [PDF](http://ac.els-cdn.com/S0005109815000941/1-s2.0-S0005109815000941-main.pdf?_tid=b5e10452-5cd8-11e5-aaba-00000aab0f02&acdnat=1442452333_2541d645986555cf7b4e93810a863942)
 
