@@ -3,7 +3,7 @@ highlighter:      pygments
 
 # Setup
 title:            Ye Yuan
-tagline:          'Research and Stuff'
+tagline:          'Academic Webpage'
 description:      'Researcher - Control Theory, Systems Biology and Power Systems.'
 url:              http://yy311.github.io
 baseurl:          /
