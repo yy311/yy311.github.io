@@ -28,11 +28,11 @@ Y. Yuan and [Y. Mo](http://yilinmo.github.io/), Security in feedback control sys
 
 [J8]X. Yang, Y. Yuan, X. Zhang and P. Palmer, Shaping high-power IGBT switching transitions by active voltage control for reduced EMI generation, in press, IEEE Transactions on Industry Applications.
 
-[J7]W. Kuan, A. Kasis, Y. Yuan, S. Mason, A. Lazar, R. Barker and J. Gonçalves, Modelling the natural history of H untington’s disease progression, in press, Journal of Neurology, Neurosurgery, and Psychiatry (Impact Factor: 5.6).
+[J7]W. Kuan, A. Kasis, Y. Yuan, S. Mason, A. Lazar, R. Barker and J. Gonçalves, Modelling the natural history of H untington’s disease progression, in press, Journal of Neurology, Neurosurgery, and Psychiatry (Impact Factor: 5.6).[Link](http://jnnp.bmj.com/content/86/10/1143.abstract)
 
-[J6]N. O’Clery, Y. Yuan, G. Stan and M. Barahona, Observability and coarse-graining of consensus dynamics through the External Equitable P artition, Physical Review E, Volume 88, 042805, 2013.
+[J6]N. O’Clery, Y. Yuan, G. Stan and M. Barahona, Observability and coarse-graining of consensus dynamics through the External Equitable P artition, Physical Review E, Volume 88, 042805, 2013.[PDF](http://scholar.harvard.edu/files/neaveoclery/files/pre2013.pdf?m=1384899642)
 
-[J5]Y. Yuan, G. Stan, L. Shi, M. Barahona and J. Gonçalves, Decentralised minimum-time consensus, Automatica, Volume 49, Issue 5, Page 1227-1235, 2013.
+[J5]Y. Yuan, G. Stan, L. Shi, M. Barahona and J. Gonçalves, Decentralised minimum-time consensus, Automatica, Volume 49, Issue 5, Page 1227-1235, 2013.[Link](http://www.sciencedirect.com/science/article/pii/S0005109813000794)
 
 [J4]L. Shi, Y. Yuan and J. Chen, Finite horizon LQR control with limited controller-system commu- nication, IEEE Transactions on Automatic Control, Volume 58, Issue 7, Page 1835-1841, 2013.
 
