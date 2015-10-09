@@ -9,10 +9,6 @@ Y. Yuan and S. H. Low, On inverse power flow problem, 2015.
 
 Y. Yuan and [Y. Mo](http://yilinmo.github.io/), Security in feedback control systems: Controller design against known-plaintext attack, 2015. [PDF](https://www.authorea.com/users/62980/articles/74733)
 
-W. Pan, Y. Yuan*, L. Ljung, J. Gonçalves, and G. Stan, Identifying biochemical reaction networks using heterogeneous datasets, 2015. [PDF](http://arxiv.org/abs/1509.05153)
-
-
-
 ####Journal Papers:
 
 [J15]D. Hayden, Y. Yuan and J. Goncalves, Network identifiability from intrinsic noise, under review, IEEE Transactions on Automatic Control. [PDF](http://arxiv.org/abs/1310.0375)
@@ -48,7 +44,7 @@ W. Pan, Y. Yuan*, L. Ljung, J. Gonçalves, and G. Stan, Identifying biochemical
 
 ####Selected Conference Papers:
 
-W. Pan, Y. Yuan*, L. Ljung, J. Gonçalves, and G. Stan, Identifying biochemical reaction networks using heterogeneous datasets, CDC, 2015.
+W. Pan, Y. Yuan*, L. Ljung, J. Gonçalves, and G. Stan, Identifying biochemical reaction networks using heterogeneous datasets, 2015. [PDF](http://arxiv.org/abs/1509.05153)
 
 Q. Huang, Y. Yuan*, J. Goncalves and M. A. Dahleh, H2-Based Network Volatility Measures, ACC, 2014.
 
