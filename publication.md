@@ -7,23 +7,23 @@ title: Publication
 
 Y. Yuan and S. H. Low, On inverse power flow problem, 2015. 
 
-Y. Yuan and [Y. Mo](http://yilinmo.github.io/), Security in feedback control systems: Controller design against known-plaintext attack, 2015. [PDF](https://www.authorea.com/users/62980/articles/74733)
+Y. Yuan and [Y. Mo](http://yilinmo.github.io/), [Security in feedback control systems: Controller design against known-plaintext attack](https://www.authorea.com/users/62980/articles/74733), 2015. 
 
 ####Journal Papers:
 
-[J15]D. Hayden, Y. Yuan and J. Goncalves, Network identifiability from intrinsic noise, under review, IEEE Transactions on Automatic Control. [PDF](http://arxiv.org/abs/1310.0375)
+D. Hayden, Y. Yuan and J. Goncalves, [Network identifiability from intrinsic noise](http://arxiv.org/abs/1310.0375), under review, IEEE Transactions on Automatic Control. 
 
-[J14]Y. Yuan*, A. Rai, E. Yeung, G. Stan, S. Warnick and J. Goncalves, A minimal realization technique for the dynamical structure function of a class of LTI systems, to appear, IEEE Transactions on Control of Network Systems. [PDF](http://arxiv.org/abs/1209.3808)
+Y. Yuan*, A. Rai, E. Yeung, G. Stan, S. Warnick and J. Goncalves, A minimal realization technique for the dynamical structure function of a class of LTI systems, to appear, IEEE Transactions on Control of Network Systems. [PDF](http://arxiv.org/abs/1209.3808)
 
-[J13]Y. Yuan*, K. Glover and J. Gonçalves, On minimal realisations of dynamical structure functions, Automatica, Volume 55, Pages 159-164, 2015. [PDF](http://arxiv.org/abs/1409.0072)
+Y. Yuan*, K. Glover and J. Gonçalves, [On minimal realisations of dynamical structure functions](http://arxiv.org/abs/1409.0072), Automatica, Volume 55, Pages 159-164, 2015. 
 
 [J12]W. Pan, Y. Yuan*, H. Sandberg, J. Gonçalves and G. Stan, Online fault diagnosis for nonlinear power systems, Automatica, Volume 55, Pages 27-36, 2015. [PDF](http://ac.els-cdn.com/S0005109815000941/1-s2.0-S0005109815000941-main.pdf?_tid=b5e10452-5cd8-11e5-aaba-00000aab0f02&acdnat=1442452333_2541d645986555cf7b4e93810a863942)
 
-[J11]T. Charalambous, Y. Yuan*, T. Yang, W. Pan, C. Hadjicostis, M. Johansson, Distributed finite-time average consensus in digraphs in the presence of time-delays, in press, IEEE Transactions on Control of Network Systems.[Link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7097006&punumber%3D6509490)
+[J11]T. Charalambous, Y. Yuan*, T. Yang, W. Pan, C. Hadjicostis, M. Johansson, [Distributed finite-time average consensus in digraphs in the presence of time-delays](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7097006&punumber%3D6509490), in press, IEEE Transactions on Control of Network Systems.
 
-[J10]X. Yang, Y. Yuan*, Z. Long, J. Gonçalves and P. Palmer, Robust stability analysis of active voltage control for high-power IGBT switching by Kharitonov’s theorem, in press, IEEE Transactions on Power Electronics. [Link](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7115949&tag=1)
+[J10]X. Yang, Y. Yuan*, Z. Long, J. Gonçalves and P. Palmer, [Robust stability analysis of active voltage control for high-power IGBT switching by Kharitonov’s theorem](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7115949&tag=1), in press, IEEE Transactions on Power Electronics. 
 
-[J9]W. Pan, Y. Yuan*, J. Gonçalves and G. Stan, Bayesian approaches to the identification of nonlinear state-space systems, in press, IEEE Transactions on Automatic Control.[PDF](http://arxiv.org/pdf/1408.3549v5.pdf)
+[J9]W. Pan, Y. Yuan*, J. Gonçalves and G. Stan, [Bayesian approaches to the identification of nonlinear state-space systems](http://arxiv.org/pdf/1408.3549v5.pdf), in press, IEEE Transactions on Automatic Control.
 
 [J8]X. Yang, Y. Yuan, X. Zhang and P. Palmer, Shaping high-power IGBT switching transitions by active voltage control for reduced EMI generation, in press, IEEE Transactions on Industry Applications.
 
@@ -33,7 +33,7 @@ Y. Yuan and [Y. Mo](http://yilinmo.github.io/), Security in feedback control sys
 
 [J5]Y. Yuan, G. Stan, L. Shi, M. Barahona and J. Gonçalves, Decentralised minimum-time consensus, Automatica, Volume 49, Issue 5, Page 1227-1235, 2013.[Link](http://www.sciencedirect.com/science/article/pii/S0005109813000794)
 
-[J4]L. Shi, Y. Yuan and J. Chen, Finite horizon LQR control with limited controller-system commu- nication, IEEE Transactions on Automatic Control, Volume 58, Issue 7, Page 1835-1841, 2013.
+[J4]L. Shi, Y. Yuan and J. Chen, Finite horizon LQR control with limited controller-system communication, IEEE Transactions on Automatic Control, Volume 58, Issue 7, Page 1835-1841, 2013.
 
 [J3]J. Wu, Y. Yuan, H. Zhang and L. Shi, H ow can online schedules improve communication and estimation tradeoff?, IEEE Transactions on Signal Processing, Volume 61, Number 7, Page 1625-1631, 2013.
 
