@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Teaching
 ---
 
 T.A. of 3F1: Signals and Systems, University of Cambridge  Fall 2013
