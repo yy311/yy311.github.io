@@ -2,11 +2,11 @@
 layout: page
 ---
 
-## Current Research Interests: 
+#### Current Research Interests: 
 
 On the unification of System Identification, Control Theory, Optimisation and Machine Learning with applications to the understanding and (re-)design of natural and man-made systems.
 
-## Co-supervised Students: (and where they are now.)
+#### Co-supervised Students: (and where they are now.)
 
 Yiming Li (M.Phil., Cambridge, 2015-) 
 
