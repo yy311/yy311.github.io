@@ -10,7 +10,7 @@ Department of Electrical Engineering and Computer Sciences
 
 Univerity of California, Berkeley 
 
-Host: [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/)
+Advisor: [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/)
 
 Office: 307 Cory Hall
 
