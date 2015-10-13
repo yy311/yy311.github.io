@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-Ye Yuan
+<b>Ye Yuan</b>
 
 Postdoctoral Researcher
 
