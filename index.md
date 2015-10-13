@@ -2,23 +2,21 @@
 layout: default
 title: Home
 ---
-
-
-
+Ye Yuan
+Postdoctoral Researcher, 
+Department of EECS, UC Berkeley, 
+Host: Claire Tomlin
+Office: 307 Cory Hall
+Email: yy311@berkeley.edu.
 
 ####News:
 
 
 
-####Contact:
-307 Cory Hall 
 
-Department of EECS, UC Berkeley 
-
-Email: yy311@berkeley.edu.
 
 <span class="footercued">
-Updated on 9/2015.<br />
+Updated on 10/2015.<br />
 <span>
 <script> 
           window.jstiming.load.tick('render');
