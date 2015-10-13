@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Publication
 ---
 
 ####Working Papers:
