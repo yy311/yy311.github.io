@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Biography
 ---
 
-####Biography:
 
 Ye Yuan is currently a Post-doctoral researcher in the [Hybrid Systems Lab](http://hybrid.eecs.berkeley.edu/) with Prof. [Claire Tomlin](http://eecs.berkeley.edu/~tomlin).
 
