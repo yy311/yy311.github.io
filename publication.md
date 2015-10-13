@@ -4,9 +4,11 @@ layout: page
 
 ####Working Papers:
 
-with S. H. Low, On inverse power flow problem, 2015. 
+with Steven H. Low, On inverse power flow problem, 2015. 
 
-with [Y. Mo](http://yilinmo.github.io/), [Security in feedback control systems: Controller design against known-plaintext attack](https://www.authorea.com/users/62980/articles/74733), 2015. 
+with [Yilin Mo](http://yilinmo.github.io/), [Security in feedback control systems: Controller design against known-plaintext attack](https://www.authorea.com/users/62980/articles/74733), 2015. 
+
+with Yorie Nakahira and Claire Tomlin, On identification of switching parameterized linear systems, 2015.
 
 ####Journal Papers:
 
@@ -35,10 +37,6 @@ Y. Yuan, G. Stan, L. Shi, M. Barahona and J. Gonçalves, Decentralised minimum-
 L. Shi, Y. Yuan and J. Chen, Finite horizon LQR control with limited controller-system communication, IEEE Transactions on Automatic Control, Volume 58, Issue 7, Page 1835-1841, 2013.
 
 J. Wu, Y. Yuan, H. Zhang and L. Shi, H ow can online schedules improve communication and estimation tradeoff?, IEEE Transactions on Signal Processing, Volume 61, Number 7, Page 1625-1631, 2013.
-
-
-
-
 
 E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, M. Wang, M. Berns, G. Coupland, R. Saini, M. Jaskolski, A. Webb, J. Gonçalves and S. Davis, Early Flowering4 recruitment of Early Flowering3 in the nucleus sustains the Arabidopsis circadian clock, the Plant Cell, Volume 24, No. 2, Page 428-443, 2012. (Impact Factor: 10.6)[Link](http://www.plantcell.org/content/early/2012/02/07/tpc.111.093807.abstract)
 
