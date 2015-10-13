@@ -3,10 +3,17 @@ layout: default
 title: Home
 ---
 Ye Yuan
-Postdoctoral Researcher, 
-Department of EECS, UC Berkeley, 
-Host: Claire Tomlin
+
+Postdoctoral Researcher
+
+Department of Electrical Engineering and Computer Sciences
+
+Univerity of California, Berkeley 
+
+Host: [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/)
+
 Office: 307 Cory Hall
+
 Email: yy311@berkeley.edu.
 
 ####News:
