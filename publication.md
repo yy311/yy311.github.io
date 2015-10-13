@@ -10,7 +10,7 @@ On inverse power flow problem. with [Steven H. Low](http://netlab.caltech.edu/~s
 
 On identification of switching parameterized linear systems. with [Yorie Nakahira](https://directory.caltech.edu/personnel/ynakahir) and [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/), 2015.
 
- [Identifying biochemical reaction networks using heterogeneous datasets](http://arxiv.org/abs/1509.05153). with Wei Pan,  Lennart Ljung, Jorge Gonçalves, and Guy-Bart Stan,, 2015. 
+ [Identifying biochemical reaction networks using heterogeneous datasets](http://arxiv.org/abs/1509.05153). with Wei Pan,  Lennart Ljung, Jorge Gonçalves, and Guy-Bart Stan, 2015. 
 
 
 ###Journal Papers:
