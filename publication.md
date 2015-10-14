@@ -50,9 +50,9 @@ T. Charalambous, Y. Yuan*, T. Yang, W. Pan, C. Hadjicostis, M. Johansson, [Distr
 
 N. O’Clery, Y. Yuan, G. Stan and M. Barahona, [Observability and coarse-graining of consensus dynamics through the External Equitable Partition](http://scholar.harvard.edu/files/neaveoclery/files/pre2013.pdf?m=1384899642), Physical Review E, Volume 88, 042805, 2013.
 
-L. Shi, Y. Yuan and J. Chen, Finite horizon LQR control with limited controller-system communication, IEEE Transactions on Automatic Control, Volume 58, Issue 7, Page 1835-1841, 2013.
+L. Shi, Y. Yuan and J. Chen, [Finite horizon LQR control with limited controller-system communication](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6389717), IEEE Transactions on Automatic Control, Volume 58, Issue 7, Page 1835-1841, 2013.
 
-J. Wu, Y. Yuan, H. Zhang and L. Shi, How can online schedules improve communication and estimation tradeoff?, IEEE Transactions on Signal Processing, Volume 61, Number 7, Page 1625-1631, 2013.
+J. Wu, Y. Yuan, H. Zhang and L. Shi, [How can online schedules improve communication and estimation tradeoff?](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6410050), IEEE Transactions on Signal Processing, Volume 61, Number 7, Page 1625-1631, 2013.
 
 
 ####Selected Conference Papers:
@@ -61,7 +61,7 @@ Q. Huang, Y. Yuan*, J. Goncalves and M. A. Dahleh, H2-Based Network Volatility M
 
 T. Yang, Y. Yuan, K. Li, J. Goncalves and K. Johansson, Minimum-time computation for unknown persistent disturbance in vehicle platooning, CDC, 2014.
 
-Y. Yuan, J. Liu, R. M. Murray and J. Goncalves , Minimal-time dynamical consensus, ACC, 2012.
+Y. Yuan, J. Liu, R. M. Murray and J. Goncalves , [Decentralised minimal-time dynamical consensus](http://users.cms.caltech.edu/~murray/preprints/ylmg12-acc_s.pdf), ACC, 2012.
 
 
 ^* Corresponding author.
