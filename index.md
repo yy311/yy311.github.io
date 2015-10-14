@@ -12,7 +12,7 @@ Univerity of California, Berkeley
 
 Advisor: [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/)
 
-Office: 307 Cory Hall (most of the time) or 732 Sutardja Dai Hall 
+Office: Desk 13, 307 Cory Hall (most of the time) or Desk 36, 732 Sutardja Dai Hall 
 
 Email: yy311@berkeley.edu.
 
