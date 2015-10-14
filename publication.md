@@ -10,14 +10,15 @@ On inverse power flow problem. with [Steven H. Low](http://netlab.caltech.edu/~s
 
 On identification of switching parameterized linear systems. with [Yorie Nakahira](https://directory.caltech.edu/personnel/ynakahir) and [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/), 2015.
 
- [Identifying biochemical reaction networks using heterogeneous datasets](http://arxiv.org/abs/1509.05153). with Wei Pan,  Lennart Ljung, Jorge Gonçalves, and Guy-Bart Stan, 2015. 
+ [Identifying biochemical reaction networks using heterogeneous datasets](http://arxiv.org/pdf/1509.05153v2.pdf). with Wei Pan,  Lennart Ljung, Jorge Gonçalves, and Guy-Bart Stan, 2015. 
 
 
 ###Journal Papers:
 
-<!--D. Hayden, Y. Yuan and J. Goncalves, [Network identifiability from intrinsic noise](http://arxiv.org/abs/1310.0375), under review, IEEE Transactions on Automatic Control. -->
 
 #### On System Identification and Systems Biology
+
+D. Hayden, Y. Yuan and J. Goncalves, [Network identifiability from intrinsic noise](http://arxiv.org/abs/1310.0375), under review, IEEE Transactions on Automatic Control. 
 
 Y. Yuan*, A. Rai, E. Yeung, G. Stan, S. Warnick and J. Goncalves, [A minimal realization technique for the dynamical structure function of a class of LTI systems](http://arxiv.org/abs/1209.3808), to appear, IEEE Transactions on Control of Network Systems.
 
