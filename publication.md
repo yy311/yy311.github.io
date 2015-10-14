@@ -13,10 +13,10 @@ On identification of switching parameterized linear systems. with [Yorie Nakahir
  [Identifying biochemical reaction networks using heterogeneous datasets](http://arxiv.org/pdf/1509.05153v2.pdf). with Wei Pan,  Lennart Ljung, Jorge Gonçalves, and Guy-Bart Stan, 2015. 
 
 
-###Journal Papers:
+###Journal Papers: (By topics)
 
 
-#### On System Identification and Systems Biology
+####System Identification and Systems Biomedicine 
 
 D. Hayden, Y. Yuan and J. Goncalves, [Network identifiability from intrinsic noise](http://arxiv.org/abs/1310.0375), under review, IEEE Transactions on Automatic Control. 
 
@@ -34,7 +34,7 @@ E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, M. Wang, M. Berns, G. Coupland, R. S
 
 
 
-#### On Power Systems
+####Power Systems and Power Electronics
 
 W. Pan, Y. Yuan*, H. Sandberg, J. Gonçalves and G. Stan, [Online fault diagnosis for nonlinear power systems](http://ac.els-cdn.com/S0005109815000941/1-s2.0-S0005109815000941-main.pdf?_tid=b5e10452-5cd8-11e5-aaba-00000aab0f02&acdnat=1442452333_2541d645986555cf7b4e93810a863942), Automatica, Volume 55, Pages 27-36, 2015. 
 
@@ -42,9 +42,7 @@ X. Yang, Y. Yuan*, Z. Long, J. Gonçalves and P. Palmer, [Robust stability anal
 
 X. Yang, Y. Yuan, X. Zhang and P. Palmer, Shaping high-power IGBT switching transitions by active voltage control for reduced EMI generation, in press, IEEE Transactions on Industry Applications.
 
-
-
-#### Networked Control Systems
+####Networked Control Systems
 
 Y. Yuan, G. Stan, L. Shi, M. Barahona and J. Gonçalves, [Decentralised minimum-time consensus](http://www.sciencedirect.com/science/article/pii/S0005109813000794), Automatica, Volume 49, Issue 5, Page 1227-1235, 2013.
 
@@ -55,7 +53,6 @@ N. O’Clery, Y. Yuan, G. Stan and M. Barahona, [Observability and coarse-graini
 L. Shi, Y. Yuan and J. Chen, Finite horizon LQR control with limited controller-system communication, IEEE Transactions on Automatic Control, Volume 58, Issue 7, Page 1835-1841, 2013.
 
 J. Wu, Y. Yuan, H. Zhang and L. Shi, How can online schedules improve communication and estimation tradeoff?, IEEE Transactions on Signal Processing, Volume 61, Number 7, Page 1625-1631, 2013.
-
 
 
 ####Selected Conference Papers:
