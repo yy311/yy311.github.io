@@ -4,7 +4,7 @@ title: Home
 ---
 <b>Ye Yuan</b>
 
-<p><small>CV, <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citations</a>, Statement of Research and Teaching </small></p>
+<p>CV, <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citations</a></p>
 
 <p>Postdoctoral Researcher<br  />
 Department of Electrical Engineering and Computer Sciences<br  />
@@ -12,11 +12,11 @@ Univerity of California, Berkeley <br  />
 Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire Tomlin</a></p>
 
 
-
 #### Selected Publications
 
 
 #### News:
+1. Statement of Research and Teaching
 
 
 #### Contact:
