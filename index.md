@@ -21,8 +21,8 @@ Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire Tomlin<
 
 #### Contact:
 
-Office: Desk 13, 307 Cory Hall (most of the time) or Desk 36, 732 Sutardja Dai Hall<br  />
-Email: yy311@berkeley.edu.
+<p><small>Office: Desk 13, 307 Cory Hall (most of the time) or Desk 36, 732 Sutardja Dai Hall<br  />
+Email: yy311@berkeley.edu.</small></p>
 
 
 
