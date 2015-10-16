@@ -4,14 +4,14 @@ title: Home
 ---
 <b>Ye Yuan</b>
 
-CV, Google Citation, Research Statement, Teaching Statment
+CV, [Google Citation](https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en), Research Statement, Teaching Statment
 
-<p>Postdoctoral Researcher</p>
-<p>Department of Electrical Engineering and Computer Sciences</p>
-<p>Univerity of California, Berkeley </p>
-Advisor: [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/)
-<p>Office: Desk 13, 307 Cory Hall (most of the time) or Desk 36, 732 Sutardja Dai Hall</p>
-<p>Email: yy311@berkeley.edu.</p>
+<p>Postdoctoral Researcher<br  />
+Department of Electrical Engineering and Computer Sciences<br  />
+Univerity of California, Berkeley <br  />
+Advisor: [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/)<br  />
+Office: Desk 13, 307 Cory Hall (most of the time) or Desk 36, 732 Sutardja Dai Hall<br  />
+Email: yy311@berkeley.edu.</p>
 
 
 #### Selected Publications
