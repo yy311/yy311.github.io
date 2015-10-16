@@ -9,16 +9,15 @@ CV, Google Citation, Research Statement, Teaching Statment
 <p>Postdoctoral Researcher</p>
 <p>Department of Electrical Engineering and Computer Sciences</p>
 <p>Univerity of California, Berkeley </p>
-<p>Advisor: [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/)
+Advisor: [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/)
 <p>Office: Desk 13, 307 Cory Hall (most of the time) or Desk 36, 732 Sutardja Dai Hall</p>
 <p>Email: yy311@berkeley.edu.</p>
 
 
-####Selected Publications
+#### Selected Publications
 
 
-####News:
-
+#### News:
 
 
 
