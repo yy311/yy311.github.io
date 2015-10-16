@@ -9,9 +9,8 @@ title: Home
 <p>Postdoctoral Researcher<br  />
 Department of Electrical Engineering and Computer Sciences<br  />
 Univerity of California, Berkeley <br  />
-Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire Tomlin</a><br  />
-Office: Desk 13, 307 Cory Hall (most of the time) or Desk 36, 732 Sutardja Dai Hall<br  />
-Email: yy311@berkeley.edu.</p>
+Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire Tomlin</a></p>
+
 
 
 #### Selected Publications
@@ -19,6 +18,11 @@ Email: yy311@berkeley.edu.</p>
 
 #### News:
 
+
+#### Contact:
+
+Office: Desk 13, 307 Cory Hall (most of the time) or Desk 36, 732 Sutardja Dai Hall<br  />
+Email: yy311@berkeley.edu.
 
 
 
