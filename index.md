@@ -4,7 +4,7 @@ title: Home
 ---
 <b>Ye Yuan</b>
 
-<p><small>CV, <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citation</a>, Statement of Research and Teaching </small></p>
+<p><small>CV, <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citations</a>, Statement of Research and Teaching </small></p>
 
 <p>Postdoctoral Researcher<br  />
 Department of Electrical Engineering and Computer Sciences<br  />
