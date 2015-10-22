@@ -4,11 +4,11 @@ layout: page
 
 ###Working Papers:
 
-<!--On inverse power flow problem. with [Steven H. Low](http://netlab.caltech.edu/~slow/), 2015. -->
+On inverse power flow problem. with [Steven H. Low](http://netlab.caltech.edu/~slow/) and [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/), 2015.
 
 [Security in feedback control systems: Controller design against known-plaintext attack](https://www.authorea.com/users/62980/articles/74733). with [Yilin Mo](http://yilinmo.github.io/), CDC, 2015. 
 
-On identification of switching parameterized linear systems. with [Yorie Nakahira](https://directory.caltech.edu/personnel/ynakahir) and [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/), submitted to HSCC, 2015.
+[On identification of switching parameterized linear systems](http://hybrid.eecs.berkeley.edu/~yeyuan/hscc.pdf). with [Yorie Nakahira](https://directory.caltech.edu/personnel/ynakahir) and [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/), submitted to HSCC, 2015.
 
  [Identifying biochemical reaction networks using heterogeneous datasets](http://arxiv.org/pdf/1509.05153v2.pdf). with Wei Pan,  Lennart Ljung, Jorge Gonçalves, and Guy-Bart Stan, CDC, 2015. 
 
