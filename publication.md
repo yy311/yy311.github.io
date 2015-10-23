@@ -4,7 +4,7 @@ layout: page
 
 ###Working Papers:
 
-These manuscripts will be updated from time to time. 
+<b>These manuscripts will be updated from time to time. </b>
 
 On inverse power flow problem. with [Steven H. Low](http://netlab.caltech.edu/~slow/) and [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/), 2015.
 
