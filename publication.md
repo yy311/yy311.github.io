@@ -8,7 +8,7 @@ layout: page
 
 On inverse power flow problem. with [Steven H. Low](http://netlab.caltech.edu/~slow/) and [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/), 2015.
 
-<!--On identification of switching parameterized linear systems. with [Yorie Nakahira](https://directory.caltech.edu/personnel/ynakahir) and [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/), 2015.-->
+On identification of parameterized switched linear systems. with [Yorie Nakahira](https://directory.caltech.edu/personnel/ynakahir) and [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/), 2015.
 
 
 
