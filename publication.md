@@ -8,7 +8,7 @@ layout: page
 
 On inverse power flow problem. with [Steven H. Low](http://netlab.caltech.edu/~slow/) and [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/), 2015.
 
-On identification of parameterized switched linear systems. with [Yorie Nakahira](https://directory.caltech.edu/personnel/ynakahir) and [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/), 2015.
+On identification of parameterized switched linear systems. with [Yorie Nakahira](https://directory.caltech.edu/personnel/ynakahir) and [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/), a preliminary version has been submitted to HSCC, 2015.
 
 [Security in feedback control systems: Controller design against known-plaintext attack](https://www.authorea.com/users/62980/articles/74733). with [Yilin Mo](http://yilinmo.github.io/), a preliminary version has been published in CDC, 2015. 
 
