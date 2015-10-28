@@ -16,7 +16,7 @@ Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire Tomlin<
 
 
 #### News:
-1. Statement of Research and Teaching
+
 
 
 #### Contact:
