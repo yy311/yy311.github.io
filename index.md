@@ -29,8 +29,6 @@ Email: yy311@berkeley.edu.</small></p>
 <span class="footercued">
 Updated on 10/2015.<br />
 <span>
-<script> 
-          window.jstiming.load.tick('render');
-        </script> 
-        <a href="http://www3.clustrmaps.com/counter/maps.php?url=http://www-control.eng.cam.ac.uk/~yy311/" id="clustrMapsLink"><img src="http://www3.clustrmaps.com/counter/index2.php?url=http://www-control.eng.cam.ac.uk/~yy311/" style="border:0px;" alt="Locations of visitors to this page" title="Locations of visitors to this page" id="clustrMapsImg" onerror="this.onerror=null; this.src='http://www2.clustrmaps.com/images/clustrmaps-back-soon.jpg'; document.getElementById('clustrMapsLink').href='http://www2.clustrmaps.com';" />
-</a>
+
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=7Veh&d=yguR5_G3NUuhN_gFSGtzaYE7LKn1yFCyVuc9_ytJA_o"></script>
