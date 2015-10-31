@@ -13,7 +13,7 @@ author:
 name:           'Ye Yuan'
 email:          ye.yuan@outlook.com
 
-paginate:         5
+paginate:         6
 paginate_path:    "/notes/page:num"
 
 # List of Pages
@@ -27,4 +27,6 @@ pages_list:
     loc: /publication.html
   - name: Teaching
     loc: /teaching.html
+  - name: Software
+    loc: /software.html
   
