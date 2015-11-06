@@ -12,10 +12,10 @@ Univerity of California, Berkeley <br  />
 Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire Tomlin</a></p>
 
 
-#### Selected Publications
+<!--#### Selected Publications-->
 
 
-#### News:
+<!--#### News:-->
 
 
 
