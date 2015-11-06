@@ -9,4 +9,4 @@ Prior to this, he was a Junior Research Fellow at Darwin College, University of 
 
 Ye has been a visiting researcher at Caltech (2011,2014,2015) with Prof. Richard M. Murray and Prof. Steven H. Low, at MIT (2013) with Prof. Munther A. Dahleh and Prof. Alexandre Megretski and at Imeprial College London (2011-2015) with Prof. Mauricio Barahona and Prof. Guy-Bart Stan. 
 
-He is the recipient of Dorothy Hodgkin Postgraduate Awards, Microsoft Research PhD Scholarship, Cambridge Overseas Scholarship, Chinese Government Award for Outstanding Students Studying Abroad and Henry Lester Scholarship.
+He is the recipient of Dorothy Hodgkin Postgraduate Award, Microsoft Research PhD Scholarship, Cambridge Overseas Student Award, Chinese Government Award for Outstanding Students Abroad and Henry Lester PhD Scholarship.
