@@ -38,14 +38,13 @@ E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, M. Wang, M. Berns, G. Coupland, R. S
 
 ####Power Systems, Power Electronics and Networked Systems
 
+Y. Yuan, G. Stan, L. Shi, M. Barahona and J. Gonçalves, [Decentralised minimum-time consensus](http://www.sciencedirect.com/science/article/pii/S0005109813000794), Automatica, Volume 49, Issue 5, Page 1227-1235, 2013.
 
 W. Pan, Y. Yuan*, H. Sandberg, J. Gonçalves and G. Stan, [Online fault diagnosis for nonlinear power systems](http://ac.els-cdn.com/S0005109815000941/1-s2.0-S0005109815000941-main.pdf?_tid=b5e10452-5cd8-11e5-aaba-00000aab0f02&acdnat=1442452333_2541d645986555cf7b4e93810a863942), Automatica, Volume 55, Pages 27-36, 2015. 
 
 X. Yang, Y. Yuan*, Z. Long, J. Gonçalves and P. Palmer, [Robust stability analysis of active voltage control for high-power IGBT switching by Kharitonov’s theorem](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7115949&tag=1), in press, IEEE Transactions on Power Electronics. 
 
 X. Yang, Y. Yuan, X. Zhang and P. Palmer, Shaping high-power IGBT switching transitions by active voltage control for reduced EMI generation, in press, IEEE Transactions on Industry Applications.
-
-Y. Yuan, G. Stan, L. Shi, M. Barahona and J. Gonçalves, [Decentralised minimum-time consensus](http://www.sciencedirect.com/science/article/pii/S0005109813000794), Automatica, Volume 49, Issue 5, Page 1227-1235, 2013.
 
 T. Charalambous, Y. Yuan*, T. Yang, W. Pan, C. Hadjicostis, M. Johansson, [Distributed finite-time average consensus in digraphs in the presence of time-delays](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7097006&punumber%3D6509490), in press, IEEE Transactions on Control of Network Systems.
 
