@@ -16,7 +16,7 @@ Business plan is available upon request.
 
 Certificate: 2013 CSSAUK high-level entrepreneurship challange finalist
 
-News coverage: [1000 Plan](http://www.1000plan.org/qrjh/article/39132) [China Hightech](http://www.chinahightech.com/html/1271/2013/0730/150229.html) [Zhongguancun](http://www.zgc.gov.cn/jsrctq/hwllcdt/91654.htm)
+News coverage: [1000 Plan](http://www.1000plan.org/qrjh/article/39132), [China Hightech](http://www.chinahightech.com/html/1271/2013/0730/150229.html), [Zhongguancun](http://www.zgc.gov.cn/jsrctq/hwllcdt/91654.htm)
  
 
 
