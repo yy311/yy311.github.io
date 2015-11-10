@@ -15,6 +15,15 @@ layout: page
 
 
 
+Certificate:
+
+
+
+
+News coverage: Link in 1000 Plan website
+
+
+
 
 
 
