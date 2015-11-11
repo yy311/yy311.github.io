@@ -4,7 +4,7 @@ title: Home
 ---
 <b>Ye Yuan</b>
 
-<p>CV, <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citations</a></p>
+<p><a href="https://hybrid.eecs.berkeley.edu/~yeyuan/cv_yeyuan_2015.pdf">CV, <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citations</a></p>
 
 <p>Postdoctoral Researcher<br  />
 Department of Electrical Engineering and Computer Sciences<br  />
@@ -15,8 +15,8 @@ Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire Tomlin<
 <!--#### Selected Publications-->
 
 
-<!--#### News:-->
-
+#### News:
+I am in the job market, research and teaching statements are available upon request. 
 
 
 #### Contact:
