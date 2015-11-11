@@ -17,10 +17,10 @@ Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire Tomlin<
 
 
 
-<p><b> <font color="red">I am in the job market, research and teaching statements are available upon request. </font></b></p>
+<p><font color="red">I am in the job market, research and teaching statements are available upon request. </font></p>
 
 
-#### Contact:
+<b>Contact:</b>
 
 <p><small>Office: Desk 13, 307 Cory Hall (most of the time) or Desk 36, 732 Sutardja Dai Hall<br  />
 Email: yy311@berkeley.edu.</small></p>
