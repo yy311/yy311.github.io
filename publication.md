@@ -55,7 +55,7 @@ J. Wu, Y. Yuan, H. Zhang and L. Shi, [How can online schedules improve communica
 
 ####Selected Conference Papers:
 
-Wei Pan, Y. Yuan*, Lennart Ljung, Jorge Gonçalves, and Guy-Bart Stan[Identifying biochemical reaction networks using heterogeneous datasets](http://arxiv.org/pdf/1509.05153v2.pdf), CDC, 2015. 
+Wei Pan, Y. Yuan*, Lennart Ljung, Jorge Gonçalves, and Guy-Bart Stan, [Identifying biochemical reaction networks using heterogeneous datasets](http://arxiv.org/pdf/1509.05153v2.pdf), CDC, 2015. 
 
 W. Pan, Y. Yuan, A. Scootla and G. Stan, Inference of switched biochemical reaction networks using sparse Bayesian learning, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, 2014. (Oral Presentation)
 
