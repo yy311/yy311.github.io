@@ -17,7 +17,7 @@ Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire Tomlin<
 
 
 
-<p><font color="red">I am in the job market, research and teaching statements are available upon request. </font></p>
+<!--<p><font color="red">I am in the job market, research and teaching statements are available upon request. </font></p>-->
 
 
 <b>Contact:</b>
