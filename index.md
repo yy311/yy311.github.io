@@ -8,7 +8,7 @@ title: Home
 
 <p>Postdoctoral Researcher<br  />
 Department of Electrical Engineering and Computer Sciences<br  />
-Univerity of California, Berkeley <br  />
+University of California, Berkeley <br  />
 Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire J. Tomlin</a></p>
 
 
