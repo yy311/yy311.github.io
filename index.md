@@ -12,7 +12,9 @@ University of California, Berkeley <br  />
 Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire J. Tomlin</a></p>
 
 
-<!--#### Selected Publications-->
+#### News
+
+Jan 2015, D. Hayden, Y. Yuan and J. Gonçalves, “Network identifiability from intrinsic noise,” was accepted by IEEE Transactions on Automatic Control. 
 
 
 
