@@ -14,7 +14,8 @@ Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire J. Toml
 
 <b>News:</b>
 
-<p>[Jan 20, 2016] Our paper: “Network identifiability from intrinsic noise,” was accepted by IEEE Transactions on Automatic Control. </p>
+
+<p><small>[Jan 20, 2016] Our paper: “Network identifiability from intrinsic noise,” was accepted by IEEE Transactions on Automatic Control. </small></p>
 
 
 
