@@ -2,7 +2,7 @@
 layout: page
 ---
 
-###Working journal Papers:
+<h3>Working journal Papers:</h3>
 
 <b>These manuscripts will be updated from time to time. </b>
 
@@ -14,10 +14,9 @@ On inverse power flow problem part II: Simulation results for distribution syste
 
 
 
-###Journal Papers: (By topics)
+<h3>Journal Papers: (By topics)</h3>
 
-
-####System Identification, Machine Learning and Systems Biomedicine 
+<h4>System Identification, Machine Learning and Systems Biomedicine </h4>
 
 Y. Yuan, A. Rai, E. Yeung, G. Stan, S. Warnick and J. Goncalves, [A minimal realization technique for the dynamical structure function of a class of LTI systems](http://arxiv.org/abs/1209.3808), to appear, IEEE Transactions on Control of Network Systems.
 
@@ -35,7 +34,7 @@ E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, M. Wang, M. Berns, G. Coupland, R. S
 
 
 
-####Power Systems, Power Electronics and Networked Systems
+<h4>Power Systems, Power Electronics and Networked Systems:</h4>
 
 Y. Yuan, G. Stan, L. Shi, M. Barahona and J. Gonçalves, [Decentralised minimum-time consensus](http://www.sciencedirect.com/science/article/pii/S0005109813000794), Automatica, Volume 49, Issue 5, Page 1227-1235, 2013.
 
@@ -54,7 +53,7 @@ L. Shi, Y. Yuan and J. Chen, [Finite horizon LQR control with limited controller
 J. Wu, Y. Yuan, H. Zhang and L. Shi, [How can online schedules improve communication and estimation tradeoff?](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6410050), IEEE Transactions on Signal Processing, Volume 61, Number 7, Page 1625-1631, 2013.
 
 
-####Selected Conference Papers:
+<h3>Selected Conference Papers:</h3>
 
 Y. Yuan and Y. Mo, [Security in feedback control systems: Controller design against known-plaintext attack](https://www.authorea.com/users/62980/articles/74733), CDC, 2015. 
 
