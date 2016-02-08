@@ -6,7 +6,9 @@ layout: page
 
 <b>These manuscripts will be updated from time to time. </b>
 
-On inverse power flow problem. with [Steven H. Low](http://netlab.caltech.edu/~slow/) and [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/), 2016.
+On inverse power flow problem part I: formulatio and algorithms. with [Steven H. Low](http://netlab.caltech.edu/~slow/) and [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/), 2016.
+
+On inverse power flow problem part II: Simulation results for distribution systems. with [Omid Ardakanian](http://blizzard.cs.uwaterloo.ca/~oardakan/), [Steven H. Low](http://netlab.caltech.edu/~slow/) and [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/),
 
 [On identification of parameterized switched linear systems](https://hybrid.eecs.berkeley.edu/~yeyuan/switchedid.pdf). with [Yorie Nakahira](https://directory.caltech.edu/personnel/ynakahir), [Yilin Mo](http://yilinmo.github.io/) and [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/), Preprint, 2016. Code is available upon request. 
 
