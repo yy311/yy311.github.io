@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<h3>Working journal Papers:</h3>
+<h3>Working Papers:</h3>
 
 <b>These manuscripts will be updated from time to time. </b>
 
