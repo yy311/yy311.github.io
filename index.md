@@ -12,10 +12,10 @@ University of California, Berkeley <br  />
 Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire J. Tomlin</a></p>
 
 
-<b>News:</b>
+<!--<b>News:</b>-->
 
 
-<p><small>[Jan 20, 2016] Our paper: “Network identifiability from intrinsic noise,” was accepted by IEEE Transactions on Automatic Control. </small></p>
+<!--<p><small>[Jan 20, 2016] Our paper: “Network identifiability from intrinsic noise,” was accepted by IEEE Transactions on Automatic Control. </small></p>-->
 
 
 
@@ -25,13 +25,14 @@ Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire J. Toml
 
 <b>Contact:</b>
 
-<p><small>Office: Desk 13, 307 Cory Hall (most of the time) or Desk 36, 732 Sutardja Dai Hall<br  />
+<p><small>Office: Desk 13, 307 Cory Hall <br  />
+<!--(most of the time) or Desk 36, 732 Sutardja Dai Hall<br  />-->
 Email: yy311@berkeley.edu.</small></p>
 
 
 
 <span class="footercued">
-Updated on 10/2015.<br />
+Updated on 2/2016.<br />
 <span>
 
 
