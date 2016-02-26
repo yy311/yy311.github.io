@@ -2,7 +2,7 @@
 layout: page
 ---
 
-You need [CVX]() to run the following code examples.
+You need [CVX](http://cvxr.com/cvx/) to run the following code examples.
 
 1. Matlab code for Y. Yuan, Y. Nakahira, and C. Tomlin, On identification of parameterized switched linear systems. [download](http://hybrid.eecs.berkeley.edu/~yeyuan/id0.zip)
 
