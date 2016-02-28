@@ -10,7 +10,7 @@ On inverse power flow problem part I: formulation and algorithms. with [Steven H
 
 On inverse power flow problem part II: Simulation results for distribution systems. with [Omid Ardakanian](http://blizzard.cs.uwaterloo.ca/~oardakan/), [Alexandra von Meier](https://www.eecs.berkeley.edu/Faculty/Homepages/vonmeier.html), [Steven H. Low](http://netlab.caltech.edu/~slow/) and [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/), 2016.
 
-On identification of parameterized switched linear systems. with [Yorie Nakahira](https://directory.caltech.edu/personnel/ynakahir), and [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/), submitted to CCC 2016. [extended version](https://hybrid.eecs.berkeley.edu/~yeyuan/switchedid.pdf) and [code](https://yy311.github.io/software.html) 
+On identification of parameterized switched linear systems. with [Yorie Nakahira](https://directory.caltech.edu/personnel/ynakahir), and [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/), submitted to CCC 2016. [Extended version](https://hybrid.eecs.berkeley.edu/~yeyuan/switchedid.pdf) and [Code](https://yy311.github.io/software.html). 
 
 
 
