@@ -6,7 +6,7 @@ layout: page
 
 <b>These manuscripts will be updated from time to time. </b>
 
-Project <b> X </b>. (More information will be posted soon, I hope!)
+Project <b> X </b> on optimization theory (More information will be posted soon, I hope!)
 
 On inverse power flow problem part I: formulation and algorithms. with [Steven H. Low](http://netlab.caltech.edu/~slow/) and [Claire Tomlin](http://www.eecs.berkeley.edu/~tomlin/), 2016.
 
