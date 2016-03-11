@@ -23,7 +23,7 @@ pages_list:
     loc: /bio.html
   - name: Research
     loc: /research.html
-  - name: Publication
+  - name: Publications
     loc: /publication.html
   - name: Teaching
     loc: /teaching.html
