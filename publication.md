@@ -6,7 +6,7 @@ layout: page
 
 <b>These manuscripts will be updated from time to time. </b>
 
-Project <b> X </b> on optimization theory (More information will be posted soon, I hope!) with [Mu Li](http://www.cs.cmu.edu/~muli/), [Benjamin Recht](http://www.eecs.berkeley.edu/~brecht/) and [Claire J. Tomlin](http://www.eecs.berkeley.edu/~tomlin/).
+On powerball method. with [Mu Li](http://www.cs.cmu.edu/~muli/), [Benjamin Recht](http://www.eecs.berkeley.edu/~brecht/) and [Claire J. Tomlin](http://www.eecs.berkeley.edu/~tomlin/).
 
 On inverse power flow problem: Part I & II. with [Omid Ardakanian](http://blizzard.cs.uwaterloo.ca/~oardakan/), [Alexandra von Meier](https://www.eecs.berkeley.edu/Faculty/Homepages/vonmeier.html), [Steven H. Low](http://netlab.caltech.edu/~slow/) and [Claire J. Tomlin](http://www.eecs.berkeley.edu/~tomlin/).
 
