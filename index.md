@@ -18,7 +18,7 @@ Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire J. Toml
 <!--<p><small>[Jan 20, 2016] Our paper: “Network identifiability from intrinsic noise,” was accepted by IEEE Transactions on Automatic Control. </small></p>-->
 
 
-<p> <b>Working Paper</b> On Powerball Method. (Posted: 3/14/16) Arxiv, code. </p>
+<p> <b>Working Paper</b> On Powerball Method. (Posted: 3/14/16) arxiv, code. </p>
 
 <!--<p><font color="red">I am in the job market, research and teaching statements are available upon request. </font></p>-->
 
