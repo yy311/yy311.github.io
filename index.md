@@ -7,7 +7,7 @@ title: Home
 <p><a href="https://hybrid.eecs.berkeley.edu/~yeyuan/cv_yeyuan_2015.pdf">CV, <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citations</a></p>
 
 <p>Postdoctoral Researcher<br  />
-<a href="http://hybrid.eecs.berkeley.edu/">Hybrid Systems Lab</a> and <a href="http://bair.berkeley.edu/students.html">Berkeley Artificial Intelligence Research Lab</a><br  />
+<a href="http://hybrid.eecs.berkeley.edu/people.html">Hybrid Systems Lab</a> and <a href="http://bair.berkeley.edu/students.html">Berkeley Artificial Intelligence Research Lab</a><br  />
 Department of Electrical Engineering and Computer Sciences<br  />
 University of California, Berkeley <br  />
 Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire J. Tomlin</a></p>
