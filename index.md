@@ -21,10 +21,6 @@ Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire J. Toml
 
 <p> <b>Working Paper:</b> On the Powerball Method. (Posted: 3/23/16) <a href="http://arxiv.org/abs/1603.07421"> arxiv</a>, <a href="https://github.com/mli/powerball"> code</a>. </p>
 
-<p><small> We propose a new method to accelerate the convergence of
-  optimization algorithms. This method adds a power coefficient $\gamma\in(0,1)$
-  to the gradient during optimization. We call this the Powerball method after the well-known Heavy-ball method \cite{heavyball}. We prove that the Powerball method can achieve $\epsilon$ accuracy for strongly convex functions by using $O\left((1-\gamma)^{-1}\epsilon^{\gamma-1}\right)$ iterations. We also demonstrate that the Powerball method provides a $10$-fold speed up of the convergence of both gradient descent and L-BFGS on multiple real datasets.</small></p>
-
 <!--<p><font color="red">I am in the job market, research and teaching statements are available upon request. </font></p>-->
 
 
