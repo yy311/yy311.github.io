@@ -6,9 +6,9 @@ layout: page
 
 <b>These manuscripts will be updated from time to time. </b>
 
-On the Powerball Method. with Mu Li and Claire J. Tomlin <a href="http://arxiv.org/abs/1603.07421"> arxiv</a>, <a href="https://github.com/mli/powerball"> code</a>. 
+On the Powerball Method. with Mu Li and Claire J. Tomlin, 2016. <a href="http://arxiv.org/abs/1603.07421"> arxiv</a> and <a href="https://github.com/mli/powerball"> code</a>. 
 
-On identification of parameterized switched linear systems. with [Yorie Nakahira](https://directory.caltech.edu/personnel/ynakahir), and [Claire J. Tomlin](http://www.eecs.berkeley.edu/~tomlin/), CCC 2016. [Extended version](https://hybrid.eecs.berkeley.edu/~yeyuan/switchedid.pdf) and [Code](https://yy311.github.io/software.html). 
+On identification of parameterized switched linear systems. with [Yorie Nakahira](https://directory.caltech.edu/personnel/ynakahir), and [Claire J. Tomlin](http://www.eecs.berkeley.edu/~tomlin/), CCC 2016. [Extended version](https://hybrid.eecs.berkeley.edu/~yeyuan/switchedid.pdf) and [code](https://yy311.github.io/software.html). 
 
 
 On inverse power flow problem: Part I & II. with [Omid Ardakanian](http://blizzard.cs.uwaterloo.ca/~oardakan/), [Alexandra von Meier](https://www.eecs.berkeley.edu/Faculty/Homepages/vonmeier.html), [Steven H. Low](http://netlab.caltech.edu/~slow/) and [Claire J. Tomlin](http://www.eecs.berkeley.edu/~tomlin/).
