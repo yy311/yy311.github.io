@@ -20,7 +20,7 @@ Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire J. Toml
 
 
 
-<!--<p><font color="red">I am in the job market, research and teaching statements are available upon request. </font></p>-->
+<p><font color="red"> I will be joining Huazhong UST as a full professor this fall, a postdoc position is available in my group [Info](http://hybrid.). </font>
 
 
 <b>Contact:</b>
