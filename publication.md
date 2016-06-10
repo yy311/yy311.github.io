@@ -6,7 +6,7 @@ layout: page
 
 <b>These manuscripts will be updated from time to time. </b>
 
-On the Powerball Method. with Mu Li and Claire J. Tomlin. <a href="http://arxiv.org/abs/1603.07421"> arxiv</a> (3/23/16) and <a href="https://github.com/mli/powerball"> code</a>. 
+On the Powerball Method. with Mu Li and Claire J. Tomlin. <a href="http://arxiv.org/abs/1603.07421"> arxiv</a> (6/16) and <a href="https://hybrid.eecs.berkeley.edu/~yeyuan/pb.zip"> corrected code</a>. 
 
 On identification of parameterized switched linear systems. with [Yorie Nakahira](https://directory.caltech.edu/personnel/ynakahir), and [Claire J. Tomlin](http://www.eecs.berkeley.edu/~tomlin/), CCC 2016. [Extended version](https://hybrid.eecs.berkeley.edu/~yeyuan/switchedid.pdf) (4/23/16) and [code](https://yy311.github.io/software.html). 
 
