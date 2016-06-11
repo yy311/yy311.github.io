@@ -8,10 +8,8 @@ layout: page
 
 On the Powerball Method. with Mu Li and Claire J. Tomlin. <a href="http://arxiv.org/abs/1603.07421"> arxiv</a> (6/16) and <a href="https://hybrid.eecs.berkeley.edu/~yeyuan/pb.zip"> corrected code</a>. 
 
-On identification of parameterized switched linear systems. with [Yorie Nakahira](https://directory.caltech.edu/personnel/ynakahir), and [Claire J. Tomlin](http://www.eecs.berkeley.edu/~tomlin/), CCC 2016. [Extended version](https://hybrid.eecs.berkeley.edu/~yeyuan/switchedid.pdf) (4/23/16) and [code](https://yy311.github.io/software.html). 
 
-
-On inverse power flow problem: Part I & II. with [Omid Ardakanian](http://blizzard.cs.uwaterloo.ca/~oardakan/), [Alexandra von Meier](https://www.eecs.berkeley.edu/Faculty/Homepages/vonmeier.html), [Steven H. Low](http://netlab.caltech.edu/~slow/) and [Claire J. Tomlin](http://www.eecs.berkeley.edu/~tomlin/).
+On the inverse power flow problem. with [Omid Ardakanian](http://blizzard.cs.uwaterloo.ca/~oardakan/), [Alexandra von Meier](https://www.eecs.berkeley.edu/Faculty/Homepages/vonmeier.html), [Steven H. Low](http://netlab.caltech.edu/~slow/) and [Claire J. Tomlin](http://www.eecs.berkeley.edu/~tomlin/).
 
 
 
@@ -55,6 +53,9 @@ J. Wu, Y. Yuan, H. Zhang and L. Shi, [How can online schedules improve communica
 
 
 <h3>Selected Conference Papers:</h3>
+
+Y. Yuan, Y. Nakahira and C. Tomlin, On identification of parameterized switched linear systems, CCC 2016. [Extended version](https://hybrid.eecs.berkeley.edu/~yeyuan/switchedid.pdf) and [code](https://yy311.github.io/software.html). 
+
 
 Y. Yuan and Y. Mo, [Security in feedback control systems: Controller design against known-plaintext attack](https://www.authorea.com/users/62980/articles/74733), CDC, 2015. 
 
