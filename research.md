@@ -7,6 +7,11 @@ layout: page
 On the unification of System Identification, Control Theory, Optimization and Machine Learning with applications to the understanding and (re-)design of natural and man-made systems. In particular, I have been working on the hyrbid dynamical systems identification problem and focusing on biology and power systems as motivating applications. 
 
 
+
+#### Group: 
+
+
+
 #### Co-supervised Students: (and where they are now.)
 
 Yiming Li (M.Phil., Cambridge, 2015-) 
