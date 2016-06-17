@@ -4,7 +4,7 @@ title: Home
 ---
 <b>Ye Yuan</b>
 
-<p><a href="https://hybrid.eecs.berkeley.edu/~yeyuan/cv_yeyuan_2015.pdf">CV, <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citations</a></p>
+<p><a href="https://hybrid.eecs.berkeley.edu/~yeyuan/cv_yeyuan_2015.pdf">CV, <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citation</a></p>
 
 <p>Postdoctoral Researcher<br  />
 <a href="http://hybrid.eecs.berkeley.edu/people.html">Hybrid Systems Lab</a> and <a href="http://bair.berkeley.edu/students.html">Berkeley Artificial Intelligence Research Lab</a><br  />
