@@ -25,14 +25,14 @@ Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire J. Toml
 
 <b>Contact:</b>
 
-<p><small>Office: 307 Cory Hall <br  />
+<p><small>Office: 337 Cory Hall <br  />
 <!--(most of the time) or Desk 36, 732 Sutardja Dai Hall<br  />-->
 Email: yy311@berkeley.edu.</small></p>
 
 
 
 <span class="footercued">
-Updated on 3/2016.<br />
+Updated on 6/2016.<br />
 <span>
 
 
