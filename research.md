@@ -8,8 +8,13 @@ On the unification of System Identification, Control Theory, Optimization and Ma
 
 
 
-#### Group: 
+#### Group at Huazhong UST: 
 
+Postdoc: Xiuting Liu (PhD Maths Hust, 2016-)
+
+PhD: Ruijuan Chen, Zuowei Ping
+
+Master: Xiuchuan Tang, Minglu Li, Xiaoquan Tang
 
 
 #### Co-supervised Students: (and where they are now.)
