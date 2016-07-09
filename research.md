@@ -12,7 +12,7 @@ In particular, I have been focusing on applications such as systems biology and 
 
 #### Group at Huazhong UST: 
 
-Postdoc: Xiuting Liu (PhD Maths Hust, 2016-)
+Postdoc: Xiuting Li (PhD Maths Hust, 2016-)
 
 PhD: Ruijuan Chen, Zuowei Ping
 
