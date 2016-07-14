@@ -4,9 +4,7 @@ layout: page
 
 #### Current Research Interests: 
 
-On the unification of System Identification, Control Theory, Optimization and Machine Learning with applications to the understanding and (re-)design of natural and man-made systems. 
-
-In particular, I have been focusing on applications such as systems biology and power systems. 
+On the unification of System Identification, Control, Optimization and Machine Learning with applications to the understanding and (re-)design of natural and man-made systems. In particular, I have been focusing on applications such as biology and power systems. 
 
 
 
