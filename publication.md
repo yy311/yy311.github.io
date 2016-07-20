@@ -15,7 +15,7 @@ On the inverse power flow problem. with [Omid Ardakanian](http://blizzard.cs.uwa
 
 <h3>Journal Papers: (By topics)</h3>
 
-<h4>System Identification, Machine Learning and Systems Biomedicine </h4>
+<h4>System Identification</h4>
 
 Y. Yuan, A. Rai, E. Yeung, G. Stan, S. Warnick and J. Goncalves, [A minimal realization technique for the dynamical structure function of a class of LTI systems](http://arxiv.org/abs/1209.3808), to appear, IEEE Transactions on Control of Network Systems.
 
@@ -27,13 +27,15 @@ W. Pan, Y. Yuan*, J. Gonçalves and G. Stan, [Bayesian approaches to the identi
 
 D. Hayden, Y. Yuan and J. Goncalves, [Network identifiability from intrinsic noise](http://arxiv.org/abs/1310.0375), accepted, IEEE Transactions on Automatic Control. 
 
+
+<h4>Biology</h4>
 W. Kuan, A. Kasis, Y. Yuan, S. Mason, A. Lazar, R. Barker and J. Gonçalves,[ Modelling the natural history of Huntington’s disease progression](http://jnnp.bmj.com/content/86/10/1143.abstract), Journal of Neurology, Neurosurgery, and Psychiatry, 2015. (Impact Factor: 5.6).
 
 E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, M. Wang, M. Berns, G. Coupland, R. Saini, M. Jaskolski, A. Webb, J. Gonçalves and S. Davis, [Early Flowering4 recruitment of Early Flowering3 in the nucleus sustains the Arabidopsis circadian clock](http://www.plantcell.org/content/early/2012/02/07/tpc.111.093807.abstract), the Plant Cell, Volume 24, No. 2, Page 428-443, 2012. (Impact Factor: 10.6)
 
 
 
-<h4>Power Systems, Power Electronics and Networked Systems:</h4>
+<h4>Cyber-physical Systems:</h4>
 
 Y. Yuan, G. Stan, L. Shi, M. Barahona and J. Gonçalves, [Decentralised minimum-time consensus](http://www.sciencedirect.com/science/article/pii/S0005109813000794), Automatica, Volume 49, Issue 5, Page 1227-1235, 2013.
 
