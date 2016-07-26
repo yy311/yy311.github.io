@@ -22,7 +22,7 @@ Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire J. Toml
 
 <p><font color="red"> I will be joining Huazhong University of Science and Technology as a full professor under the support of Chinese 1000 Young Talent Plan grant this fall, multiple postdoc positions are available in my group. <a href="https://hybrid.eecs.berkeley.edu/~yeyuan/postdoc.pdf"> [Detailed information]</a>. </font></p>
 
-<p> <font color="red">2016/8 New:</font> There is another postdoc position in my group working on the interface of deep learning and control with application to robotics, starting as soon as possible. To apply, please send your cv and ask your referees to send letters directly to ye.yuan@outlook.com</p>
+<p> <font color="red">2016/8 New:</font> There is another postdoc position in my group working on the interface of deep learning and control with application to robotics, starting as soon as possible. To apply, please send your cv and reference letters directly to ye.yuan@outlook.com</p>
 
 
 <b>Contact:</b>
