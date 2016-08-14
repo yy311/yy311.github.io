@@ -6,11 +6,11 @@ title: Home
 
 <a href="https://hybrid.eecs.berkeley.edu/~yeyuan/cv_yeyuan_2015.pdf">CV, <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citation</a>
 
-<p>Postdoctoral Researcher<br  />
-<a href="http://hybrid.eecs.berkeley.edu/people.html">Hybrid Systems Lab</a> and <a href="http://bair.berkeley.edu/students.html">Berkeley Artificial Intelligence Research Lab</a><br  />
-Department of Electrical Engineering and Computer Sciences<br  />
-University of California, Berkeley <br  />
-Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire J. Tomlin</a></p>
+<!--<p>Postdoctoral Researcher<br  />-->
+<!--<a href="http://hybrid.eecs.berkeley.edu/people.html">Hybrid Systems Lab</a> and <a href="http://bair.berkeley.edu/students.html">Berkeley Artificial Intelligence Research Lab</a><br  />-->
+<!--Department of Electrical Engineering and Computer Sciences<br  />-->
+<!--University of California, Berkeley <br  />-->
+<!--Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire J. Tomlin</a></p>-->
 
 
 <!--<b>News:</b>-->
@@ -25,11 +25,11 @@ Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire J. Toml
 <p> <font color="red">2016/8 New:</font> There is another postdoc position in my group working on the interface of deep learning and control with application to robotics, starting as soon as possible. To apply, please send your cv and reference letters directly to ye.yuan@outlook.com</p>
 
 
-<b>Contact:</b>
+<!--<b>Contact:</b>-->
 
-<p><small>Office: 337 Cory Hall <br  />
+<!--<p><small>Office: 337 Cory Hall <br  />-->
 <!--(most of the time) or Desk 36, 732 Sutardja Dai Hall<br  />-->
-Email: yy311@berkeley.edu.</small></p>
+<!--Email: yy311@berkeley.edu.</small></p>-->
 
 
 
