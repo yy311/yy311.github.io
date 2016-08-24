@@ -7,7 +7,8 @@ title: Home
 <a href="https://hybrid.eecs.berkeley.edu/~yeyuan/cv_yeyuan_2015.pdf">CV, <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citation</a>
 
 <p>Professor and Director<br  />
-Data Science Lab, School of Automation, Huazhong University of Science and Technology 
+Data Science Lab, School of Automation,<br  /> 
+Huazhong University of Science and Technology </p>
 <!--Department of Electrical Engineering and Computer Sciences<br  />-->
 <!--University of California, Berkeley <br  />-->
 <!--Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire J. Tomlin</a></p>-->
