@@ -6,8 +6,8 @@ title: Home
 
 <a href="https://hybrid.eecs.berkeley.edu/~yeyuan/cv_yeyuan_2015.pdf">CV, <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citation</a>
 
-<!--<p>Postdoctoral Researcher<br  />-->
-<!--<a href="http://hybrid.eecs.berkeley.edu/people.html">Hybrid Systems Lab</a> and <a href="http://bair.berkeley.edu/students.html">Berkeley Artificial Intelligence Research Lab</a><br  />-->
+<p>Professor and Director<br  />
+Data Science Lab, School of Automation, Huazhong University of Science and Technology 
 <!--Department of Electrical Engineering and Computer Sciences<br  />-->
 <!--University of California, Berkeley <br  />-->
 <!--Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire J. Tomlin</a></p>-->
@@ -20,7 +20,7 @@ title: Home
 
 
 
-<p><font color="red"> I will be joining Huazhong University of Science and Technology as a full professor under the support of Chinese 1000 Young Talent Plan grant this fall, multiple postdoc positions are available in my group. <a href="https://hybrid.eecs.berkeley.edu/~yeyuan/postdoc.pdf"> [Detailed information]</a>. </font></p>
+<p><font color="red"> Multiple postdoc positions are available in my group. <a href="https://hybrid.eecs.berkeley.edu/~yeyuan/postdoc.pdf"> [Detailed information]</a>. </font></p>
 
 <p> <font color="red">2016/8 New:</font> There is another postdoc position in my group working on the interface of deep learning and control with application to robotics, starting as soon as possible. To apply, please send your cv and reference letters directly to ye.yuan@outlook.com</p>
 
@@ -34,7 +34,7 @@ title: Home
 
 
 <span class="footercued">
-Updated on 6/2016.<br />
+Updated on 8/2016.<br />
 <span>
 
 
