@@ -24,7 +24,7 @@ Y. Yuan, K. Glover and J. Gonçalves, [On minimal realisations of dynamical str
 
 Y. Yuan, G. Stan, S. Warnick and J. Gonçalves , [Robust dynamical network structure reconstruction](http://www.sciencedirect.com/science/article/pii/S0005109811001828), Special Issue on System Biology, Automatica, Volume 47, Issue 6, Page 1230-1235, 2011.
 
-W. Pan, Y. Yuan*, J. Gonçalves and G. Stan, [Bayesian approaches to the identification of nonlinear state-space systems](http://arxiv.org/pdf/1408.3549v5.pdf), IEEE Transactions on Automatic Control, 2016.
+W. Pan, Y. Yuan*, J. Gonçalves and G. Stan*, [Bayesian approaches to the identification of nonlinear state-space systems](http://arxiv.org/pdf/1408.3549v5.pdf), IEEE Transactions on Automatic Control, 2016.
 
 D. Hayden, Y. Yuan* and J. Goncalves, [Network identifiability from intrinsic noise](http://arxiv.org/abs/1310.0375), accepted, IEEE Transactions on Automatic Control. 
 
