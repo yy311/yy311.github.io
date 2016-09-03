@@ -23,7 +23,6 @@ Huazhong University of Science and Technology </p>
 
 <p><font color="red"> Multiple postdoc positions are available in my group. <a href="https://hybrid.eecs.berkeley.edu/~yeyuan/postdoc.pdf"> [Detailed information]</a>. </font></p>
 
-<p> <font color="red">2016/8 New:</font> There is another postdoc position in my group working on the interface of deep learning and control with application to robotics, starting as soon as possible. To apply, please send your cv and reference letters directly to ye.yuan@outlook.com</p>
 
 
 <!--<b>Contact:</b>-->
