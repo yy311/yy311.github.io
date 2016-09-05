@@ -25,16 +25,16 @@ Huazhong University of Science and Technology </p>
 
 
 
-<!--<b>Contact:</b>-->
+<b>Contact:</b>
 
-<!--<p><small>Office: 337 Cory Hall <br  />-->
-<!--(most of the time) or Desk 36, 732 Sutardja Dai Hall<br  />-->
-<!--Email: yy311@berkeley.edu.</small></p>-->
+<p><small>Office: 315, South-1 Building (Nan-1 Lou) <br  />
+Phone: +86 - 137 2019 5408 <br  />
+Email: ye.yuan@outlook.com.</small></p>
 
 
 
 <span class="footercued">
-Updated on 8/2016.<br />
+Updated on 9/2016.<br />
 <span>
 
 
