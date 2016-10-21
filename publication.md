@@ -8,7 +8,7 @@ layout: page
 
 On the Powerball Method. with Mu Li and Claire J. Tomlin. <a href="https://hybrid.eecs.berkeley.edu/~yeyuan/pblatest.pdf"> manuscript</a> and <a href="https://hybrid.eecs.berkeley.edu/~yeyuan/pb.zip"> code</a>. (updated on 9/2016)
 
-On the inverse power flow problem, part I. with [Omid Ardakanian](http://blizzard.cs.uwaterloo.ca/~oardakan/), [Steven H. Low](http://netlab.caltech.edu/~slow/) and [Claire J. Tomlin](http://www.eecs.berkeley.edu/~tomlin/).
+On the inverse power flow problem, part I. with [Omid Ardakanian](http://blizzard.cs.uwaterloo.ca/~oardakan/), [Steven H. Low](http://netlab.caltech.edu/~slow/) and [Claire J. Tomlin](http://www.eecs.berkeley.edu/~tomlin/). 
 
 On the inverse power flow problem, part II. with [Omid Ardakanian](http://blizzard.cs.uwaterloo.ca/~oardakan/), [Alexandra von Meier](https://www.eecs.berkeley.edu/Faculty/Homepages/vonmeier.html), [Roel Dobbe](https://people.eecs.berkeley.edu/~dobbe/), [Steven H. Low](http://netlab.caltech.edu/~slow/) and [Claire J. Tomlin](http://www.eecs.berkeley.edu/~tomlin/).
 
@@ -38,6 +38,8 @@ J. Wu, Y. Yuan, H. Zhang and L. Shi, [How can online schedules improve communica
 
 
 <h4>Cyber-physical Systems:</h4>
+
+Y. Yuan, H. Zhang, Y. Wu, T. Zhu and H. Ding, Bayesian learning-based model predictive vibration control for thin-walled workpiece machining processes, accepted and to appear, IEEE Transactions on Mechatronics.
 
 E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, M. Wang, M. Berns, G. Coupland, R. Saini, M. Jaskolski, A. Webb, J. Gonçalves and S. Davis, [Early Flowering4 recruitment of Early Flowering3 in the nucleus sustains the Arabidopsis circadian clock](http://www.plantcell.org/content/early/2012/02/07/tpc.111.093807.abstract), the Plant Cell, Volume 24, No. 2, Page 428-443, 2012. (Impact Factor: 10.6)
 
