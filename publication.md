@@ -6,12 +6,9 @@ layout: page
 
 <b>These manuscripts will be updated from time to time. </b>
 
-On the Powerball Method. with Mu Li and Claire J. Tomlin. <a href="https://hybrid.eecs.berkeley.edu/~yeyuan/pblatest.pdf"> manuscript</a> and <a href="https://hybrid.eecs.berkeley.edu/~yeyuan/pb.zip"> code</a>. (updated on 9/2016)
+On the Powerball Method. with Mu Li and Claire J. Tomlin. <a href="https://hybrid.eecs.berkeley.edu/~yeyuan/pb.zip"> code</a>. Arxiv: 1603.07421. 
 
-On the inverse power flow problem, part I. with [Omid Ardakanian](http://blizzard.cs.uwaterloo.ca/~oardakan/), [Steven H. Low](http://netlab.caltech.edu/~slow/) and [Claire J. Tomlin](http://www.eecs.berkeley.edu/~tomlin/). 
-
-On the inverse power flow problem, part II. with [Omid Ardakanian](http://blizzard.cs.uwaterloo.ca/~oardakan/), [Alexandra von Meier](https://www.eecs.berkeley.edu/Faculty/Homepages/vonmeier.html), [Roel Dobbe](https://people.eecs.berkeley.edu/~dobbe/), [Steven H. Low](http://netlab.caltech.edu/~slow/) and [Claire J. Tomlin](http://www.eecs.berkeley.edu/~tomlin/).
-
+On the inverse power flow problem. with [Omid Ardakanian](http://blizzard.cs.uwaterloo.ca/~oardakan/), [Steven H. Low](http://netlab.caltech.edu/~slow/) and [Claire J. Tomlin](http://www.eecs.berkeley.edu/~tomlin/). Arxiv: 1610.06631
 
 
 <h3>Journal Papers: (By topics)</h3>
@@ -59,7 +56,6 @@ N. O’Clery, Y. Yuan, G. Stan and M. Barahona, [Observability and coarse-graini
 <h3>Selected Conference Papers:</h3>
 
 Y. Yuan, Y. Nakahira and C. Tomlin, On identification of parameterized switched linear systems, CCC 2016. [Extended version](https://hybrid.eecs.berkeley.edu/~yeyuan/switchedid.pdf) and [code](https://yy311.github.io/software.html). 
-
 
 Y. Yuan and Y. Mo, [Security in feedback control systems: Controller design against known-plaintext attack](https://www.authorea.com/users/62980/articles/74733), CDC, 2015. 
 
