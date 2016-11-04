@@ -6,9 +6,9 @@ layout: page
 
 <b>These manuscripts will be updated from time to time. </b>
 
-On the Powerball Method. with Mu Li and Claire J. Tomlin. <a href="https://hybrid.eecs.berkeley.edu/~yeyuan/pb.zip"> code</a>. Arxiv: 1603.07421. 
+On the Powerball Method. <a href="https://hybrid.eecs.berkeley.edu/~yeyuan/pb.zip"> code</a>. arxiv: 1603.07421. 
 
-On the inverse power flow problem. with [Omid Ardakanian](http://blizzard.cs.uwaterloo.ca/~oardakan/), [Steven H. Low](http://netlab.caltech.edu/~slow/) and [Claire J. Tomlin](http://www.eecs.berkeley.edu/~tomlin/). Arxiv: 1610.06631
+On the Inverse Power Flow Problem. arxiv: 1610.06631
 
 
 <h3>Journal Papers: (By topics)</h3>
