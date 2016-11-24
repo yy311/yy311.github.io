@@ -4,7 +4,7 @@ title: Home
 ---
 <b>Ye Yuan</b>
 
-<a href="https://hybrid.eecs.berkeley.edu/~yeyuan/cv_yeyuan_2015.pdf">CV, <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citation</a>
+<a href="https://hybrid.eecs.berkeley.edu/~yeyuan/cv_yeyuan_2016.pdf">CV, <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citation</a>
 
 <p>Professor and Director<br  />
 Data Science Lab, School of Automation,<br  /> 
