@@ -12,9 +12,9 @@ On the unification of System Identification, Control, Optimization and Machine L
 
 Postdocs: Xiuting Li (PhD Maths Hust, 2016-)
 
-PhDs: Ruijuan Chen, Zuowei Ping, Yunlong Dong, Guijun Ma
+PhDs: Ruijuan Chen, Zuowei Ping, Yunlong Dong, Guijun Ma, Junlin Li, Xiuchuan Tang
 
-Masters: Xiuchuan Tang, Minglu Li, Xiaoquan Tang, Xiangdi Liu, Beitong Zhou, Guorui Shen, Jingjing Hong, Xueqi Dai
+Masters: Minglu Li, Xiaoquan Tang, Xiangdi Liu, Beitong Zhou, Guorui Shen, Jingjing Hong, Xueqi Dai
 
 Long-term Visitors: Frank Jiang (9.2016 - 10.2016, UC Berkeley), Wei Pan (8.2016 - 9.2016, Imperial College)
 
