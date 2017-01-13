@@ -28,8 +28,7 @@ Huazhong University of Science and Technology </p>
 <b>Contact:</b>
 
 <p><small>Office: 315, South-1 Building (Nan-1 Lou) <br  />
-Phone: +86 - 137 2019 5408 <br  />
-Email: ye.yuan@outlook.com.</small></p>
+Email: yye@hust.edu.cn</small></p>
 
 
 
