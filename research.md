@@ -7,6 +7,15 @@ layout: page
 On the unification of System Identification, Control, Optimization and Machine Learning with applications to the understanding and (re-)design of natural and man-made systems. In particular, I have been focusing on applications such as biology, robotics and power systems. 
 
 
+#### Testbed in my lab: 
+
+Quadrotors (Vicon Motion Capture System, Crazyflie 2.0)
+
+Robots (UR3, Kinect)
+
+Hypersim 
+
+GPU cluster (Nvidia 1080)
 
 #### Group at Huazhong UST: 
 
