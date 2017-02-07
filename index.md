@@ -10,7 +10,7 @@ title: Home
 Data Science Lab, School of Automation,<br  /> 
 Huazhong University of Science and Technology </p>
 
-<p><font color="red"> I am always looking for highly-motivated Postdocs and visiting researchers with a strong mathematical background and interests in theory and applications. There are a number of programs that support postdocs and visiting researchers at HUST. Please email me for more information if you are interested. </font></p>
+<p><font color="blue"> <small> I am always looking for highly-motivated Postdocs and visiting researchers with a strong mathematical background and interests in theory and applications. There are a number of programs that support postdocs and visiting researchers at HUST. Please email me for more information if you are interested. </small></font></p>
 
 <b>Contact:</b>
 
