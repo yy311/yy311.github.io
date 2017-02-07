@@ -9,28 +9,13 @@ title: Home
 <p>Professor and Director<br  />
 Data Science Lab, School of Automation,<br  /> 
 Huazhong University of Science and Technology </p>
-<!--Department of Electrical Engineering and Computer Sciences<br  />-->
-<!--University of California, Berkeley <br  />-->
-<!--Advisor: <a href="http://www.eecs.berkeley.edu/~tomlin">Professor Claire J. Tomlin</a></p>-->
 
-
-<!--<b>News:</b>-->
-
-
-<!--<p><small>[Jan 20, 2016] Our paper: “Network identifiability from intrinsic noise,” was accepted by IEEE Transactions on Automatic Control. </small></p>-->
-
-
-
-<p><font color="red"> I am always looking for highly-motivated Postdocs and visiting researchers with a strong mathematical background and interests in theory and applications. Please email me directly if you are interested. </font></p>
-
-
+<p><font color="red"> I am always looking for highly-motivated Postdocs and visiting researchers with a strong mathematical background and interests in theory and applications. There are a number of programs that support postdocs and visiting researchers at HUST. Please email me for more information if you are interested. </font></p>
 
 <b>Contact:</b>
 
 <p><small>Office: 315, South-1 Building (Nan-1 Lou) <br  />
 Email: yye@hust.edu.cn</small></p>
-
-
 
 <span class="footercued">
 Updated on 9/2016.<br />
