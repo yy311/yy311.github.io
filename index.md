@@ -21,7 +21,7 @@ Huazhong University of Science and Technology </p>
 
 
 
-<p><font color="red"> Multiple postdoc positions are available in my group. <a href="https://hybrid.eecs.berkeley.edu/~yeyuan/postdoc.pdf"> [Detailed information]</a>. </font></p>
+<p><font color="red"> I am always looking for highly-motivated Postdocs and visiting researchers with a strong mathematical background and interests in theory and applications. Please email me directly if you are interested. </font></p>
 
 
 
