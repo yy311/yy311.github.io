@@ -6,8 +6,9 @@ title: Home
 
 <a href="https://hybrid.eecs.berkeley.edu/~yeyuan/cv_yeyuan_2016.pdf">CV, <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citation</a>
 
-<p>Professor and Director<br  />
+<p>Professor of Control Theory and Director<br  />
 Data Science Lab, School of Automation,<br  /> 
+State Key Lab of Digital Manufacturing Equipment and Technology,<br  /> 
 Huazhong University of Science and Technology </p>
 
 <p><font color="blue"> <small> I am always looking for highly-motivated Postdocs and visiting researchers with a strong mathematical background and similar research interests. There are a number of programs that support postdocs and visiting researchers at HUST. Please email me for more information if you are interested. </small></font></p>
