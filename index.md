@@ -6,8 +6,8 @@ title: Home
 
 <a href="https://hybrid.eecs.berkeley.edu/~yeyuan/cv_yeyuan_2016.pdf">CV, <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citation</a>
 
-<p>Professor of Control Theory and Director<br  />
-Data Science Lab, School of Automation,<br  /> 
+<p>Professor of Control Theory<br  />
+School of Automation,<br  /> 
 State Key Lab of Digital Manufacturing Equipment and Technology,<br  /> 
 Huazhong University of Science and Technology </p>
 
