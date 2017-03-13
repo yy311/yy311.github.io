@@ -10,8 +10,6 @@ On the Powerball Method. <a href="https://hybrid.eecs.berkeley.edu/~yeyuan/pb.zi
 
 On the Inverse Power Flow Problem. https://arxiv.org/abs/1610.06631
 
-On identification of parameterized switched linear systems. [Extended version](https://hybrid.eecs.berkeley.edu/~yeyuan/switchedid.pdf) and [code](https://yy311.github.io/software.html). 
-
 
 
 <h3>Journal Papers: (By topics)</h3>
@@ -57,8 +55,6 @@ N. O’Clery, Y. Yuan, G. Stan and M. Barahona, [Observability and coarse-graini
 
 
 <h3>Selected Conference Papers:</h3>
-
-Y. Yuan and Y. Mo, [Security in feedback control systems: Controller design against known-plaintext attack](https://www.authorea.com/users/62980/articles/74733), CDC, 2015. 
 
 W. Pan, Y. Yuan*, L. Ljung, J. Gonçalves, and G. Stan, [Identifying biochemical reaction networks using heterogeneous datasets](http://arxiv.org/pdf/1509.05153v2.pdf), CDC, 2015. 
 
