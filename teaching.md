@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+<h4>Courses taught</h4>
 
 System Identification, Huazhong UST Spring 2017
 
@@ -15,7 +16,7 @@ T.A.of 3F2: Systems and Control, University of Cambridge Spring 2012
 Instructor: Prof. Jan Maciejowski
 
 
-<h4>Co-supervised Master Students: </h4>
+<h4>Co-supervised Master thesis: </h4>
 
 J. Thia, ``Distributed Kalman filtering'' (1st Class honour), University of Cambridge
 
