@@ -16,8 +16,6 @@ On the Inverse Power Flow Problem. https://arxiv.org/abs/1610.06631
 
 <h4>System Identification, learning and control theory</h4>
 
-Y. Yuan, A. Rai, E. Yeung, G. Stan, S. Warnick and J. Goncalves, [A minimal realization technique for the dynamical structure function of a class of LTI systems](http://arxiv.org/abs/1209.3808), to appear, IEEE Transactions on Control of Network Systems.
-
 Y. Yuan, K. Glover and J. Gonçalves, [On minimal realisations of dynamical structure functions](http://arxiv.org/abs/1409.0072), Automatica, Volume 55, Pages 159-164, 2015. 
 
 Y. Yuan, G. Stan, S. Warnick and J. Gonçalves , [Robust dynamical network structure reconstruction](http://www.sciencedirect.com/science/article/pii/S0005109811001828), Special Issue on System Biology, Automatica, Volume 47, Issue 6, Page 1230-1235, 2011.
@@ -25,6 +23,8 @@ Y. Yuan, G. Stan, S. Warnick and J. Gonçalves , [Robust dynamical network stru
 Y. Yuan, G. Stan, L. Shi, M. Barahona and J. Gonçalves, [Decentralised minimum-time consensus](http://www.sciencedirect.com/science/article/pii/S0005109813000794), Automatica, Volume 49, Issue 5, Page 1227-1235, 2013.
 
 W. Pan, Y. Yuan, J. Gonçalves and G. Stan, [Bayesian approaches to the identification of nonlinear state-space systems](http://arxiv.org/pdf/1408.3549v5.pdf), IEEE Transactions on Automatic Control, 2016.
+
+Y. Yuan, A. Rai, E. Yeung, G. Stan, S. Warnick and J. Goncalves, [A minimal realization technique for the dynamical structure function of a class of LTI systems](http://arxiv.org/abs/1209.3808), to appear, IEEE Transactions on Control of Network Systems.
 
 D. Hayden, Y. Yuan* and J. Goncalves, [Network identifiability from intrinsic noise](http://arxiv.org/abs/1310.0375), IEEE Transactions on Automatic Control, 2017. 
 
@@ -50,8 +50,6 @@ X. Yang, Y. Yuan*, Z. Long, J. Gonçalves and P. Palmer, [Robust stability anal
 X. Yang, Y. Yuan, X. Zhang and P. Palmer, Shaping high-power IGBT switching transitions by active voltage control for reduced EMI generation, IEEE Transactions on Industry Applications, 2015.
 
 N. O’Clery, Y. Yuan, G. Stan and M. Barahona, [Observability and coarse-graining of consensus dynamics through the External Equitable Partition](http://scholar.harvard.edu/files/neaveoclery/files/pre2013.pdf?m=1384899642), Physical Review E, Volume 88, 042805, 2013.
-
-
 
 
 <h3>Selected Conference Papers:</h3>
