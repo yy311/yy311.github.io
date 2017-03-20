@@ -14,7 +14,7 @@ On the Inverse Power Flow Problem. https://arxiv.org/abs/1610.06631
 
 <h3>Journal Papers: (By topics)</h3>
 
-<h4>System Identification, learning and control theory</h4>
+<h4>System Identification and Control Theory</h4>
 
 Y. Yuan, K. Glover and J. Gonçalves, [On minimal realisations of dynamical structure functions](http://arxiv.org/abs/1409.0072), Automatica, Volume 55, Pages 159-164, 2015. 
 
@@ -35,9 +35,9 @@ L. Shi, Y. Yuan and J. Chen, [Finite horizon LQR control with limited controller
 J. Wu, Y. Yuan, H. Zhang and L. Shi, [How can online schedules improve communication and estimation tradeoff?](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6410050), IEEE Transactions on Signal Processing, Volume 61, Number 7, Page 1625-1631, 2013.
 
 
-<h4>Cyber-physical Systems:</h4>
+<h4>Applitions to Cyber-physical Systems:</h4>
 
-Y. Yuan, H. Zhang, Y. Wu, T. Zhu and H. Ding, Bayesian learning-based model predictive vibration control for thin-walled workpiece machining processes, accepted and to appear, IEEE Transactions on Mechatronics.
+Y. Yuan, H. Zhang, Y. Wu, T. Zhu and H. Ding, [Bayesian learning-based model predictive vibration control for thin-walled workpiece machining processes](http://ieeexplore.ieee.org/document/7676308/), IEEE/ASME Transactions on Mechatronics, Volume: 22, Issue: 1, Page 509 - 520, 2017.
 
 E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, M. Wang, M. Berns, G. Coupland, R. Saini, M. Jaskolski, A. Webb, J. Gonçalves and S. Davis, [Early Flowering4 recruitment of Early Flowering3 in the nucleus sustains the Arabidopsis circadian clock](http://www.plantcell.org/content/early/2012/02/07/tpc.111.093807.abstract), the Plant Cell, Volume 24, No. 2, Page 428-443, 2012. (Impact Factor: 10.6)
 
@@ -50,12 +50,5 @@ X. Yang, Y. Yuan*, Z. Long, J. Gonçalves and P. Palmer, [Robust stability anal
 X. Yang, Y. Yuan, X. Zhang and P. Palmer, Shaping high-power IGBT switching transitions by active voltage control for reduced EMI generation, IEEE Transactions on Industry Applications, 2015.
 
 N. O’Clery, Y. Yuan, G. Stan and M. Barahona, [Observability and coarse-graining of consensus dynamics through the External Equitable Partition](http://scholar.harvard.edu/files/neaveoclery/files/pre2013.pdf?m=1384899642), Physical Review E, Volume 88, 042805, 2013.
-
-
-<h3>Selected Conference Papers:</h3>
-
-W. Pan, Y. Yuan*, L. Ljung, J. Gonçalves, and G. Stan, [Identifying biochemical reaction networks using heterogeneous datasets](http://arxiv.org/pdf/1509.05153v2.pdf), CDC, 2015. 
-
-Y. Yuan, J. Liu, R. M. Murray and J. Goncalves , [Decentralised minimal-time dynamical consensus](http://users.cms.caltech.edu/~murray/preprints/ylmg12-acc_s.pdf), ACC, 2012.
 
 ^* Corresponding author.
