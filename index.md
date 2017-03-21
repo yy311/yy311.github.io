@@ -16,6 +16,7 @@ Huazhong University of Science and Technology </p>
 <b>Contact:</b>
 
 <p><small>Office: 315, South-1 Building (Nan-1 Lou) <br  />
+Lab: 116, South-1 Building (Nan-1 Lou) <br  />
 Email: yye@hust.edu.cn</small></p>
 
 <span class="footercued">
