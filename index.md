@@ -4,10 +4,10 @@ title: Home
 ---
 <b>Ye Yuan</b>
 
-<a href="https://hybrid.eecs.berkeley.edu/~yeyuan/cv_yeyuan_2016.pdf">CV, <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citation</a>
+<a href="https://hybrid.eecs.berkeley.edu/~yeyuan/cv_yeyuan_2016.pdf">CV
+<!-- <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citation</a> -->
 
-<p>Professor of Control Theory<br  />
-School of Automation,<br  /> 
+<p>Professor of Control Theory, School of Automation,<br  /> 
 State Key Lab of Digital Manufacturing Equipment and Technology,<br  /> 
 Huazhong University of Science and Technology </p>
 
@@ -20,7 +20,7 @@ Lab: 116, South-1 Building (Nan-1 Lou) <br  />
 Email: yye@hust.edu.cn</small></p>
 
 <span class="footercued">
-Updated on 9/2016.<br />
+Updated on 4/2017.<br />
 <span>
 
 
