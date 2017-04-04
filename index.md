@@ -4,7 +4,6 @@ title: Home
 ---
 <b>Ye Yuan</b>
 
-<a href="https://hybrid.eecs.berkeley.edu/~yeyuan/cv_yeyuan_2016.pdf">CV</a>
 <!-- <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citation</a> -->
 
 <p>Professor of Control Theory, School of Automation,<br  /> 
