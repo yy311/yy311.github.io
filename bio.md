@@ -9,6 +9,6 @@ Prior to this, he was a Post-doctoral researcher in the [Hybrid Systems Lab](htt
 
 Ye has been a visiting researcher at Caltech (2011,2014,2015) with Prof. Richard M. Murray and Prof. Steven H. Low, at MIT (2013) with Prof. Munther A. Dahleh and Prof. Alexandre Megretski and at Imeprial College London (2011-2015) with Prof. Mauricio Barahona and Prof. Guy-Bart Stan. 
 
-He is the recipient of Dorothy Hodgkin Postgraduate Award, Microsoft Research PhD Scholarship, Cambridge Overseas Student Award, Chinese Government Award for Outstanding Students Abroad and Henry Lester PhD Scholarship.
+He is the recipient of China National Recruitment Program of 1000 Talented Young Scholars, Dorothy Hodgkin Postgraduate Award, Microsoft Research PhD Scholarship, Cambridge Overseas Student Award, Chinese Government Award for Outstanding Students Abroad and Henry Lester PhD Scholarship.
 
 
