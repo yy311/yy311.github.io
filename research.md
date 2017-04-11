@@ -34,7 +34,7 @@ Yiming Li (M.Phil., Cambridge, 2015-)
 
 Zuogong Yue (Ph.D., LCSB, 2014-) Granger causality, dynamical structure functions.
 
-Dr. Wei Pan (Ph.D., Bioengineering, Imperial College, 2011-2015) Nonlinear identification using sparse Bayesian learning. Some hedge fund in London.
+Dr. Wei Pan (Ph.D., Bioengineering, Imperial College, 2011-2015) Nonlinear identification using sparse Bayesian learning. DJI Shenzhen.
 
 Dr. Peyman Gifani (Ph.D., Control Engineering, Cambridge, 2011-2015) Engineering design principle in synthetic biology. University of Cambridge, Wellcome Trust Senisor internship.
 
