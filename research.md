@@ -7,7 +7,7 @@ layout: page
 On the unification of System Identification, Control, Optimization and Machine Learning with applications to the understanding and (re-)design of natural and man-made systems. In particular, I have been focusing on applications such as biology, robotics and power systems. 
 
 
-#### Testbed in my lab - Huazhong AI Research (HAIR) Lab: 
+#### Testbed in my lab:
 
 Quadrotors (Vicon Motion Capture System, Crazyflie 2.0)
 
@@ -25,7 +25,7 @@ PhDs: Ruijuan Chen, Zuowei Ping, Yunlong Dong, Guijun Ma, Junlin Li, Xiuchuan Ta
 
 Masters: Minglu Li, Xiaoquan Tang, Xiangdi Liu, Beitong Zhou, Guorui Shen, Jingjing Hong, Xueqi Dai
 
-Long-term Visitors: Frank Jiang (9.2016 - 10.2016, UC Berkeley), Wei Pan (8.2016 - 9.2016, Imperial College)
+Long-term Visitors: Prof. Jun Liu (5.2017 - 6.2017, Waterloo), Frank Jiang (9.2016 - 10.2016, UC Berkeley), Dr. Wei Pan (8.2016 - 9.2016, Imperial College)
 
 
 #### Previously Co-supervised Students: (and where they are now.)
