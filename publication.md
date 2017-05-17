@@ -39,6 +39,8 @@ J. Wu, Y. Yuan, H. Zhang and L. Shi, [How can online schedules improve communica
 
 Y. Yuan, H. Zhang, Y. Wu, T. Zhu and H. Ding, [Bayesian learning-based model predictive vibration control for thin-walled workpiece machining processes](http://ieeexplore.ieee.org/document/7676308/), IEEE/ASME Transactions on Mechatronics, Volume: 22, Issue: 1, Page 509 - 520, 2017.
 
+H. Zhang, G. Ren, Y. Wu, H. Sun, J. Huang, Z. Yin and Y. Yuan, [Electrospinning sedimentary microstructure feedback control by tuning substrate linear machine velocity](http://ieeexplore.ieee.org/document/7927490/), IEEE Transactions on Industrial Electronics, to appear.
+
 E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, M. Wang, M. Berns, G. Coupland, R. Saini, M. Jaskolski, A. Webb, J. Gonçalves and S. Davis, [Early Flowering4 recruitment of Early Flowering3 in the nucleus sustains the Arabidopsis circadian clock](http://www.plantcell.org/content/early/2012/02/07/tpc.111.093807.abstract), the Plant Cell, Volume 24, No. 2, Page 428-443, 2012. (Impact Factor: 10.6)
 
 W. Pan, Y. Yuan*, H. Sandberg, J. Gonçalves and G. Stan, [Online fault diagnosis for nonlinear power systems](http://ac.els-cdn.com/S0005109815000941/1-s2.0-S0005109815000941-main.pdf?_tid=b5e10452-5cd8-11e5-aaba-00000aab0f02&acdnat=1442452333_2541d645986555cf7b4e93810a863942), Automatica, Volume 55, Pages 27-36, 2015. 
