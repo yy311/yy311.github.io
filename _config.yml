@@ -4,7 +4,7 @@ highlighter:      pygments
 # Setup
 title:            Ye Yuan
 tagline:          'Academic Webpage'
-description:      'Researcher - Control Theory, Robotics, Cyber-Physical Systems.'
+description:      'Researcher - Control, Leanring, Cyber-Physical Systems.'
 url:              http://yy311.github.io
 baseurl:          /
 cover_image:  yeyuan.jpg
