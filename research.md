@@ -25,8 +25,11 @@ PhDs: Ruijuan Chen, Zuowei Ping, Yunlong Dong, Guijun Ma, Junlin Li, Xiuchuan Ta
 
 Masters: Minglu Li, Xiaoquan Tang, Xiangdi Liu, Beitong Zhou, Guorui Shen, Jingjing Hong, Xueqi Dai
 
-Long-term Visitors: Prof. Jun Liu (5.2017 - 6.2017, Waterloo), Frank Jiang (9.2016 - 10.2016, UC Berkeley), Dr. Wei Pan (8.2016 - 9.2016, Imperial College)
+Long-term Visitors: Prof. Tao Yang(6.2017 - 7.2017, UNT), Prof. Jun Liu (5.2017 - 6.2017, Waterloo), Frank Jiang (9.2016 - 10.2016, UC Berkeley), Dr. Wei Pan (8.2016 - 9.2016, Imperial College)
 
+#### Group Alumni: (and where they are now.)
+
+Class of 2017: Xuejun Wang (CMU), Yuzhen Liu(Tsinghua), Jiazhou Qin(UCSD), Haowei Xiang(Umich)
 
 #### Previously Co-supervised Students: (and where they are now.)
 
