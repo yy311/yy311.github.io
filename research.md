@@ -4,7 +4,7 @@ layout: page
 
 #### Current Research Interests: 
 
-On the unification of System Identification, Control, Optimization and Machine Learning with applications to the understanding and (re-)design of natural and man-made systems. In particular, I have been focusing on applications such as biology, robotics and power systems. 
+On the unification of System Identification, Control, Optimization and Machine Learning with applications to the understanding and (re-)design of natural and man-made systems. In particular, I have been focusing on applications such as robotics, biology and power systems. 
 
 
 #### Testbed in my lab:
@@ -19,7 +19,7 @@ GPU cluster (Nvidia 1080)
 
 #### Group at Huazhong UST: 
 
-Postdocs: Xiuting Li (PhD Maths Hust, 2016-)
+Postdocs: Dr. Xiuting Li (PhD Maths HUST, 2016-), Dr. Wei He (PhD Power HUST, 2017-)
 
 PhDs: Ruijuan Chen, Zuowei Ping, Yunlong Dong, Guijun Ma, Junlin Li, Xiuchuan Tang
 
@@ -29,7 +29,7 @@ Long-term Visitors: Prof. Tao Yang(6.2017 - 7.2017, UNT), Prof. Jun Liu (5.2017 
 
 #### Group Alumni: (and where they are now.)
 
-Class of 2017: Xuejun Wang (CMU), Yuzhen Liu(Tsinghua), Jiazhou Qin(UCSD), Haowei Xiang(Umich)
+Class of 2017: Xuejun Wang (CMU), Yuzhen Liu(Tsinghua), Jiazhou Qin(UCSD), Haowei Xiang(UMICH)
 
 #### Previously Co-supervised Students: (and where they are now.)
 
@@ -48,8 +48,6 @@ Dr. Alberto Carignano (Ph.D., Control Engineering, Cambridge, 2011-2014) Modelli
 Dr. Xin Yang (Ph.D., Electrical Engineering, Cambridge, 2011-2014) Robust stability analysis and design for IGBT. NUDT lecturer.
 
 Dr. Neave O'Clery (Ph.D., Mathematics, Imperial College, 2011-2013) Graph Theory, Complex Networks. Fulbright researcher at Harvard University.
-
-<!--I have also been discussing reguarly with Enoch Yeung, Ania Baetica (Caltech) and Qingqing Huang (MIT). -->
 
 
 
