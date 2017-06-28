@@ -39,7 +39,7 @@ J. Wu, Y. Yuan, H. Zhang and L. Shi, [How can online schedules improve communica
 
 <h4>Applitions to Cyber-physical Systems:</h4>
 
-Y. Yuan, H. Zhang, Y. Wu, T. Zhu and H. Ding, [Bayesian learning-based model predictive vibration control for thin-walled workpiece machining processes](http://ieeexplore.ieee.org/document/7676308/), IEEE/ASME Transactions on Mechatronics, Volume: 22, Issue: 1, Page 509 - 520, 2017.
+Y. Yuan, H. Zhang, Y. Wu, T. Zhu and H. Ding, [Bayesian learning-based model predictive vibration control for thin-walled workpiece machining processes](http://ieeexplore.ieee.org/document/7676308/), IEEE/ASME Transactions on Mechatronics, Volume: 22, Issue: 1, Page 509 - 520, 2017. 
 
 H. Zhang, G. Ren, Y. Wu, H. Sun, J. Huang, Z. Yin and Y. Yuan, [Electrospinning sedimentary microstructure feedback control by tuning substrate linear machine velocity](http://ieeexplore.ieee.org/document/7927490/), IEEE Transactions on Industrial Electronics, to appear.
 
@@ -47,12 +47,12 @@ E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, M. Wang, M. Berns, G. Coupland, R. S
 
 W. Pan, Y. Yuan*, H. Sandberg, J. Gonçalves and G. Stan, [Online fault diagnosis for nonlinear power systems](http://ac.els-cdn.com/S0005109815000941/1-s2.0-S0005109815000941-main.pdf?_tid=b5e10452-5cd8-11e5-aaba-00000aab0f02&acdnat=1442452333_2541d645986555cf7b4e93810a863942), Automatica, Volume 55, Pages 27-36, 2015. 
 
-W. Kuan, A. Kasis, Y. Yuan, S. Mason, A. Lazar, R. Barker and J. Gonçalves,[ Modelling the natural history of Huntington’s disease progression](http://jnnp.bmj.com/content/86/10/1143.abstract), Journal of Neurology, Neurosurgery, and Psychiatry, 2015. (Impact Factor: 5.6).
+W. Kuan, A. Kasis, Y. Yuan, S. Mason, A. Lazar, R. Barker and J. Gonçalves,[ Modelling the natural history of Huntington’s disease progression](http://jnnp.bmj.com/content/86/10/1143.abstract), Journal of Neurology, Neurosurgery, and Psychiatry, 2015. 
 
-X. Yang, Y. Yuan*, Z. Long, J. Gonçalves and P. Palmer, [Robust stability analysis of active voltage control for high-power IGBT switching by Kharitonov’s theorem](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7115949&tag=1), IEEE Transactions on Power Electronics, 2015.
+X. Yang, Y. Yuan*, Z. Long, J. Gonçalves and P. Palmer, [Robust stability analysis of active voltage control for high-power IGBT switching by Kharitonov’s theorem](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7115949&tag=1), IEEE Transactions on Power Electronics, 2015. 
 
-X. Yang, Y. Yuan, X. Zhang and P. Palmer, Shaping high-power IGBT switching transitions by active voltage control for reduced EMI generation, IEEE Transactions on Industry Applications, 2015.
+X. Yang, Y. Yuan, X. Zhang and P. Palmer, Shaping high-power IGBT switching transitions by active voltage control for reduced EMI generation, IEEE Transactions on Industry Applications, 2015. 
 
 N. O’Clery, Y. Yuan, G. Stan and M. Barahona, [Observability and coarse-graining of consensus dynamics through the External Equitable Partition](http://scholar.harvard.edu/files/neaveoclery/files/pre2013.pdf?m=1384899642), Physical Review E, Volume 88, 042805, 2013.
 
- - * Corresponding author.
+ ^* Corresponding author.
