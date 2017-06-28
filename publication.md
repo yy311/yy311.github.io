@@ -6,7 +6,7 @@ layout: page
 
 <b>These manuscripts will be updated from time to time. </b>
 
-On the Powerball Method. <a href="https://hybrid.eecs.berkeley.edu/~yeyuan/pb.zip"> code</a>. https://arxiv.org/abs/1603.07421
+Data-driven Discovery of Cyber-physical Systems. 
 
 On the Inverse Power Flow Problem. https://arxiv.org/abs/1610.06631
 
@@ -15,6 +15,8 @@ On the Inverse Power Flow Problem. https://arxiv.org/abs/1610.06631
 <h3>Journal Papers: (By topics)</h3>
 
 <h4>System Identification and Control Theory</h4>
+
+Y. Yuan, M. Li, J. Liu and C. Tomlin, [On the Powerball Method.](https://arxiv.org/abs/1603.07421), submitted. 
 
 Y. Yuan, K. Glover and J. Gonçalves, [On minimal realisations of dynamical structure functions](http://arxiv.org/abs/1409.0072), Automatica, Volume 55, Pages 159-164, 2015. 
 
