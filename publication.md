@@ -55,4 +55,4 @@ X. Yang, Y. Yuan, X. Zhang and P. Palmer, Shaping high-power IGBT switching tran
 
 N. O’Clery, Y. Yuan, G. Stan and M. Barahona, [Observability and coarse-graining of consensus dynamics through the External Equitable Partition](http://scholar.harvard.edu/files/neaveoclery/files/pre2013.pdf?m=1384899642), Physical Review E, Volume 88, 042805, 2013.
 
-^* Corresponding author.
+* Corresponding author.
