@@ -24,18 +24,17 @@ Y. Yuan, G. Stan, S. Warnick and J. Gonçalves , [Robust dynamical network stru
 
 Y. Yuan, G. Stan, L. Shi, M. Barahona and J. Gonçalves, [Decentralised minimum-time consensus](http://www.sciencedirect.com/science/article/pii/S0005109813000794), Automatica, Volume 49, Issue 5, Page 1227-1235, 2013.
 
+D. Hayden, Y. Yuan* and J. Goncalves, [Network identifiability from intrinsic noise](http://arxiv.org/abs/1310.0375), IEEE Transactions on Automatic Control, 2017. 
+
 W. Pan, Y. Yuan, J. Gonçalves and G. Stan, [Bayesian approaches to the identification of nonlinear state-space systems](http://arxiv.org/pdf/1408.3549v5.pdf), IEEE Transactions on Automatic Control, 2016.
 
-Y. Yuan, A. Rai, E. Yeung, G. Stan, S. Warnick and J. Goncalves, [A minimal realization technique for the dynamical structure function of a class of LTI systems](http://arxiv.org/abs/1209.3808), to appear, IEEE Transactions on Control of Network Systems.
-
-D. Hayden, Y. Yuan* and J. Goncalves, [Network identifiability from intrinsic noise](http://arxiv.org/abs/1310.0375), IEEE Transactions on Automatic Control, 2017. 
+Y. Yuan, A. Rai, E. Yeung, G. Stan, S. Warnick and J. Goncalves, [A minimal realization technique for the dynamical structure function of a class of LTI systems](http://arxiv.org/abs/1209.3808), IEEE Transactions on Control of Network Systems, 2017.
 
 T. Charalambous, Y. Yuan*, T. Yang, W. Pan, C. Hadjicostis, M. Johansson, [Distributed finite-time average consensus in digraphs in the presence of time-delays](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7097006&punumber%3D6509490), in press, IEEE Transactions on Control of Network Systems.
 
 L. Shi, Y. Yuan and J. Chen, [Finite horizon LQR control with limited controller-system communication](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6389717), IEEE Transactions on Automatic Control, Volume 58, Issue 7, Page 1835-1841, 2013.
 
 N. O’Clery, Y. Yuan, G. Stan and M. Barahona, [Observability and coarse-graining of consensus dynamics through the External Equitable Partition](http://scholar.harvard.edu/files/neaveoclery/files/pre2013.pdf?m=1384899642), Physical Review E, Volume 88, 042805, 2013.
-
 
 J. Wu, Y. Yuan, H. Zhang and L. Shi, [How can online schedules improve communication and estimation tradeoff?](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6410050), IEEE Transactions on Signal Processing, Volume 61, Number 7, Page 1625-1631, 2013.
 
