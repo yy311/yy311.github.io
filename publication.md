@@ -4,8 +4,6 @@ layout: page
 
 <h3>Working Papers:</h3>
 
-<b>These manuscripts will be updated from time to time. </b>
-
 Data-driven Discovery of Cyber-physical Systems. 
 
 On the Inverse Power Flow Problem. https://arxiv.org/abs/1610.06631
