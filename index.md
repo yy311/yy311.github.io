@@ -14,7 +14,8 @@ Huazhong University of Science and Technology </p>
 
 
 <b>News:</b>
-Aug. 2017 — Our paper “Event Detection and Localization in Distribution Grids with Phasor Measurement Units” won the best conference paper prize at the IEEE Power Energy Society General Meeting'17.
+
+<p><small>Aug. 2017 — Our paper “Event Detection and Localization in Distribution Grids with Phasor Measurement Units” won the best conference paper prize at the IEEE Power Energy Society General Meeting'17.</small></p>
 
 
 
