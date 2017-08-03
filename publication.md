@@ -60,6 +60,16 @@ E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, M. Wang, M. Berns, G. Coupland, R. S
 
 W. Kuan, A. Kasis, Y. Yuan, S. Mason, A. Lazar, R. Barker and J. Gonçalves,[ Modelling the natural history of Huntington’s disease progression](http://jnnp.bmj.com/content/86/10/1143.abstract), Journal of Neurology, Neurosurgery, and Psychiatry, 2015. 
 
+<h3>Selected Conference Papers:</h3>
 
+O. Ardakanian, Y. Yuan*, R. Dobbe, A. von Meier, S. Low and C. Tomlin, “Event detection and localization in distribution grids with phasor measurement units,” IEEE PES General Meeting, 2017. (Best Conference Paper)
+
+Y. Yuan, Y. Nakahira and C. Tomlin, “On identification of switching parameterized linear systems,” 35th Chinese Control Conference, 2016.
+
+Y. Yuan and Y. Mo, “Security in feedback control systems: controller design against known-plaintext attack,” in Proceedings of 54th IEEE Conference on Decision and Control, 2015.
+
+Y. Yuan, J. Liu, R. M. Murray and J. Gon ̧calves, “Minimal-time dynamical consensus,” in Proceedings of IEEE American Control Conference, 2012.
+
+Y. Yuan and L. Shi, “Minimum sensor duty cycle with guaranteed estimator performance,” IEEE International Conference on Information and Automation, 2012. (Best Paper Award, Finalist)
 
  ^* Corresponding author.
