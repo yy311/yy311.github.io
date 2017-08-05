@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-Ye Yuan (<a href="https://hybrid.eecs.berkeley.edu/~yeyuan/cv_yeyuan_2016.pdf">Curriculum Vitae</a>) is a Professor of Control Theory, at School of Automation, Huazhong University of Science and Technology. 
+Ye Yuan (<a href="https://hybrid.eecs.berkeley.edu/~yeyuan/cv_yeyuan_2016.pdf">Curriculum Vitae</a>) has been a full Professor of Control Theory, at School of Automation, Huazhong University of Science and Technology since 2016. 
 
 Prior to this, he was a Post-doctoral researcher in the [Hybrid Systems Lab](http://hybrid.eecs.berkeley.edu/), UC Berkeley with Prof. [Claire J. Tomlin](http://eecs.berkeley.edu/~tomlin), a Junior Research Fellow at Darwin College, University of Cambridge. He received his B. Eng. (Valedictorian) under the supervision of Prof. Yugeng Xi from Department of Automation, Shanghai Jiao Tong University in 7.2008 and M. Phil., Ph.D. from Control Group, Department of Engineering, University of Cambridge in 9.2009, 2.2012 under the supervision of Prof. [Jorge M. Goncalves](http://wwwen.uni.lu/lcsb/people/jorge_goncalves). He has been holding visiting researcher positions at California Institute of Technology, Massachusetts Institute of Technology, and Imperial College London. 
 
