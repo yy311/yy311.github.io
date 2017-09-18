@@ -14,7 +14,9 @@ On the Inverse Power Flow Problem. https://arxiv.org/abs/1610.06631
 
 <h4>System Identification and Control Theory</h4>
 
-Y. Yuan, M. Li, J. Liu and C. Tomlin, [On the Powerball Method](https://arxiv.org/abs/1603.07421), submitted. 
+W. Pan, Y. Yuan*, L. Ljung, J. Gonçalves and G. Stan, Identification of nonlinear state-space systems from heterogeneous dataset, IEEE Transactions on Control of Network Systems, to appear, 2017.
+
+Y. Yuan, M. Li, J. Liu and C. Tomlin, [On the powerball method](https://arxiv.org/abs/1603.07421), submitted. 
 
 Y. Yuan, K. Glover and J. Gonçalves, [On minimal realisations of dynamical structure functions](http://arxiv.org/abs/1409.0072), Automatica, Volume 55, Pages 159-164, 2015. 
 
@@ -63,8 +65,6 @@ W. Kuan, A. Kasis, Y. Yuan, S. Mason, A. Lazar, R. Barker and J. Gonçalves,[ M
 <h3>Selected Conference Papers:</h3>
 
 O. Ardakanian, Y. Yuan*, R. Dobbe, A. von Meier, S. Low and C. Tomlin, “Event detection and localization in distribution grids with phasor measurement units,” IEEE PES General Meeting, 2017. (Best Conference Paper)
-
-Y. Yuan, Y. Nakahira and C. Tomlin, “On identification of switching parameterized linear systems,” 35th Chinese Control Conference, 2016.
 
 Y. Yuan and Y. Mo, “Security in feedback control systems: controller design against known-plaintext attack,” in Proceedings of 54th IEEE Conference on Decision and Control, 2015.
 
