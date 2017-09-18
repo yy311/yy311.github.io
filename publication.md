@@ -8,7 +8,7 @@ layout: page
 
 W. Pan, Y. Yuan*, L. Ljung, J. Gonçalves and G. Stan, Identification of nonlinear state-space systems from heterogeneous datasets, IEEE Transactions on Control of Network Systems, to appear, 2017.
 
-Y. Yuan, M. Li, J. Liu and C. Tomlin, [On the powerball method](https://arxiv.org/abs/1603.07421), submitted. 
+Y. Yuan, M. Li, J. Liu and C. Tomlin, [On the powerball method for optimization](https://arxiv.org/abs/1603.07421), submitted, Automatica, 2017. 
 
 Y. Yuan, K. Glover and J. Gonçalves, [On minimal realisations of dynamical structure functions](http://arxiv.org/abs/1409.0072), Automatica, Volume 55, Pages 159-164, 2015. 
 
