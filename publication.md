@@ -2,19 +2,11 @@
 layout: page
 ---
 
-<h3>Working Papers:</h3>
-
-Data-driven Discovery of Cyber-physical Systems. 
-
-On the Inverse Power Flow Problem. https://arxiv.org/abs/1610.06631
-
-
-
 <h3>Journal Papers: (By topics)</h3>
 
 <h4>System Identification and Control Theory</h4>
 
-W. Pan, Y. Yuan*, L. Ljung, J. Gonçalves and G. Stan, Identification of nonlinear state-space systems from heterogeneous dataset, IEEE Transactions on Control of Network Systems, to appear, 2017.
+W. Pan, Y. Yuan*, L. Ljung, J. Gonçalves and G. Stan, Identification of nonlinear state-space systems from heterogeneous datasets, IEEE Transactions on Control of Network Systems, to appear, 2017.
 
 Y. Yuan, M. Li, J. Liu and C. Tomlin, [On the powerball method](https://arxiv.org/abs/1603.07421), submitted. 
 
