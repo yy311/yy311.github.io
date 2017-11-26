@@ -21,9 +21,9 @@ GPU cluster (Nvidia 1080)
 
 Postdocs: Dr. Xiuting Li (PhD Maths HUST, 2016-), Dr. Wei He (PhD Power HUST, 2017-)
 
-PhDs: Ruijuan Chen, Zuowei Ping, Yunlong Dong, Guijun Ma, Junlin Li, Xiuchuan Tang
+PhDs: Ruijuan Chen, Zuowei Ping, Yunlong Dong, Guijun Ma, Junlin Li, Xiuchuan Tang, Tan Shen
 
-Masters: Minglu Li, Xiaoquan Tang, Xiangdi Liu, Beitong Zhou, Guorui Shen, Jingjing Hong, Xueqi Dai
+Masters: Minglu Li, Xiaoquan Tang, Xiangdi Liu, Beitong Zhou, Guorui Shen, Jingjing Hong, Xueqi Dai, Linan Deng, Pengchao Hu, Peixin Tan, Xiankang Liu
 
 Long-term Visitors: Prof. Tao Yang(6.2017 - 7.2017, UNT), Prof. Jun Liu (5.2017 - 6.2017, Waterloo), Frank Jiang (9.2016 - 10.2016, UC Berkeley), Dr. Wei Pan (8.2016 - 9.2016, Imperial College)
 
