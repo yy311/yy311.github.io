@@ -8,7 +8,6 @@ layout: page
 
 [On the inverse power flow problem](https://arxiv.org/abs/1610.06631), 2017. 
 
-
 <h3>Journal Papers: (By topics)</h3>
 
 <h4>System Identification and Control Theory</h4>
