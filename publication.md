@@ -13,7 +13,7 @@ layout: page
 
 <h4>System Identification and Control Theory</h4>
 
-W. Pan, Y. Yuan*, L. Ljung, J. Gonçalves and G. Stan, Identification of nonlinear state-space systems from heterogeneous datasets, IEEE Transactions on Control of Network Systems, to appear, 2017.
+W. Pan, Y. Yuan*, L. Ljung, J. Gonçalves and G. Stan, [Identification of nonlinear state-space systems from heterogeneous datasets](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8055630), IEEE Transactions on Control of Network Systems, to appear, 2017.
 
 Y. Yuan, K. Glover and J. Gonçalves, [On minimal realisations of dynamical structure functions](http://arxiv.org/abs/1409.0072), Automatica, Volume 55, Pages 159-164, 2015. 
 
@@ -51,7 +51,7 @@ W. Pan, Y. Yuan*, H. Sandberg, J. Gonçalves and G. Stan, [Online fault diagnos
 
 X. Yang, Y. Yuan*, Z. Long, J. Gonçalves and P. Palmer, [Robust stability analysis of active voltage control for high-power IGBT switching by Kharitonov’s theorem](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7115949&tag=1), IEEE Transactions on Power Electronics, 2015. 
 
-X. Yang, Y. Yuan, X. Zhang and P. Palmer, Shaping high-power IGBT switching transitions by active voltage control for reduced EMI generation, IEEE Transactions on Industry Applications, 2015. 
+X. Yang, Y. Yuan, X. Zhang and P. Palmer, [Shaping high-power IGBT switching transitions by active voltage control for reduced EMI generation](http://ieeexplore.ieee.org/document/6877720/?arnumber=6877720), IEEE Transactions on Industry Applications, 2015. 
 
 = biology
 
