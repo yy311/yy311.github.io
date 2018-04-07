@@ -63,9 +63,9 @@ html {
 .sidebar img {
   width: 125px;
   height: 125px;
+  border-radius: 50%;
   margin-left: auto;
   margin-right: auto;
-  border-radius: 50%;
 }
 
 @media (min-width: 48em) {
