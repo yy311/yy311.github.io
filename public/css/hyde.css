@@ -61,11 +61,12 @@ html {
 }
 
 .sidebar img {
-  width: 100px;
+  width: 125px;
   height: 125px;
   margin-left: auto;
   margin-right: auto;
 }
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
