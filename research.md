@@ -19,11 +19,11 @@ GPU cluster (Nvidia 1080)
 
 #### Group at Huazhong UST: 
 
-Postdocs: Dr. Xiuting Li (PhD Maths HUST, 2016-), Dr. Wei He (PhD Power HUST, 2017-)
+Postdocs: Dr. Xiuting Li (PhD Maths HUST, 2016-), Dr. Cheng Cheng (PhD Imperial College London, 2018-),  Dr. Wei He (PhD Power HUST, 2017-)
 
-PhDs: Ruijuan Chen, Zuowei Ping, Yunlong Dong, Guijun Ma, Junlin Li, Xiuchuan Tang, Tan Shen
+PhDs: Ruijuan Chen, Zuowei Ping, Yunlong Dong, Guijun Ma, Junlin Li, Xiuchuan Tang, Tan Shen, Yuqiang Wu, Wei Zhou (Co-supervised with  Prof. Hai-Tao Zhang), Weigao Sun (Co-supervised with Prof. Hai-Tao Zhang)
 
-Masters: Minglu Li, Xiaoquan Tang, Xiangdi Liu, Beitong Zhou, Guorui Shen, Jingjing Hong, Xueqi Dai, Linan Deng, Pengchao Hu, Peixin Tan, Xiankang Liu
+Masters: Minglu Li, Xiaoquan Tang, Xiangdi Liu, Beitong Zhou, Guorui Shen, Jingjing Hong, Xueqi Dai, Linan Deng, Pengchao Hu, Peixin Tan, Xiankang Liu, Yu Zhang, Wenqian Jiang, Ruishuang Chen, Ce Shi
 
 Long-term Visitors: Prof. Vassilis Vassiliodis (9.2017 - 10. 2017, Cambridge), Prof. Tao Yang(6.2017 - 7.2017, UNT), Prof. Jun Liu (5.2017 - 6.2017, Waterloo), Frank Jiang (9.2016 - 10.2016, UC Berkeley), Dr. Wei Pan (8.2016 - 9.2016, Imperial College), Yorie Nakahira (Caltech)
 
