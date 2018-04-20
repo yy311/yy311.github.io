@@ -23,13 +23,13 @@ Postdocs: Dr. Xiuting Li (PhD Maths HUST, 2016-), Dr. Cheng Cheng (PhD Imperial 
 
 PhDs: Ruijuan Chen, Zuowei Ping, Yunlong Dong, Guijun Ma, Junlin Li, Xiuchuan Tang, Tan Shen, Yuqiang Wu, Wei Zhou (Co-supervised with  Prof. Hai-Tao Zhang), Weigao Sun (Co-supervised with Prof. Hai-Tao Zhang)
 
-Masters: Minglu Li, Xiaoquan Tang, Xiangdi Liu, Beitong Zhou, Guorui Shen, Jingjing Hong, Xueqi Dai, Linan Deng, Pengchao Hu, Peixin Tan, Xiankang Liu, Yu Zhang, Wenqian Jiang, Ruishuang Chen, Ce Shi, Linan Deng
+Masters: Minglu Li, Xiaoquan Tang, Xiangdi Liu, Beitong Zhou, Guorui Shen, Jingjing Hong, Xueqi Dai, Linan Deng, Pengchao Hu, Peixin Tan, Xiankang Liu, Yu Zhang, Wenqian Jiang, Ruishuang Chen, Ce Shi, Wei Wang
 
 Long-term Visitors: Prof. Vassilis Vassiliodis (9.2017 - 10. 2017, Cambridge), Prof. Tao Yang(6.2017 - 7.2017, UNT), Prof. Jun Liu (5.2017 - 6.2017, Waterloo), Frank Jiang (9.2016 - 10.2016, UC Berkeley), Dr. Wei Pan (8.2016 - 9.2016, Imperial College), Yorie Nakahira (Caltech)
 
 #### Group Alumni: (and where they are now.)
 
-Class of 2017: Xuejun Wang (CMU), Yuzhen Liu(Tsinghua), Jiazhou Qin(UCSD), Haowei Xiang(UMICH)
+Class of 2017: Xuejun Wang (CMU), Yuzhen Liu(Tsinghua), Jiazhuo Qin(UCSD), Haowei Xiang(UMICH)
 
 #### Previously Co-supervised Students: (and where they are now.)
 
