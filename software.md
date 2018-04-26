@@ -4,7 +4,7 @@ layout: page
 
 You need [CVX](http://cvxr.com/cvx/) to run the following code examples.
 
-1. Matlab for Y. Yuan, et. al., XXXXX. [download]()
+1. Matlab code for Y. Yuan, et. al. Data-driven discovery of cyber-physical systems. [download]()
 
 2. Matlab code for Y. Yuan, M. Li and C. J. Tomlin, On the Powerball method. [download](http://hybrid.eecs.berkeley.edu/~yeyuan/pb.zip)
 
