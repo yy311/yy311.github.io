@@ -29,7 +29,9 @@ Long-term Visitors: Prof. Vassilis Vassiliodis (9.2017 - 10. 2017, Cambridge), P
 
 #### Group Alumni: (and where they are now.)
 
-Class of 2017: Xuejun Wang (CMU), Yuzhen Liu(Tsinghua), Jiazhuo Qin(UCSD), Haowei Xiang(UMICH)
+Class 2017: Xuejun Wang (CMU), Yuzhen Liu(Tsinghua), Jiazhuo Qin(UCSD), Haowei Xiang(UMICH)
+
+Class 2018:
 
 #### Previously Co-supervised Students: (and where they are now.)
 
