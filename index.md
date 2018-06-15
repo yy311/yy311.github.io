@@ -12,8 +12,7 @@ Huazhong University of Science and Technology </p>
 
 
 <b>News:</b>
-<!--<p><small>Jun. 2018 — Our paper “Distributed Finte-time Optimization” won the Best student paper prize at the 14th IEEE International Conference on Control and Automation'18.</small></p>-->
-
+<p><small>Jun. 2018 — Our paper “Distributed Finte-time Optimization” won the Best student paper prize at the 14th IEEE International Conference on Control and Automation'18.</small></p>
 
 <p><small>Aug. 2017 — Our paper “Event Detection and Localization in Distribution Grids with Phasor Measurement Units” won the "Best of the Best" paper prize at the IEEE Power Energy Society General Meeting'17.</small></p>
 
