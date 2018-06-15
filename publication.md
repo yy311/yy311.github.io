@@ -60,7 +60,7 @@ W. Kuan, A. Kasis, Y. Yuan, S. Mason, A. Lazar, R. Barker and J. Gonçalves,[ M
 
 <h3>Selected Conference Papers:</h3>
 
-L. Yao, Y. Yuan*, S. Sundaram and T. Yang, “Distributed finite-time optiization,” IEEE ICCA, 2018.
+L. Yao, Y. Yuan*, S. Sundaram and T. Yang, “Distributed finite-time optiization,” IEEE ICCA, 2018. (Best Student Paper Award)
 
 O. Ardakanian, Y. Yuan*, R. Dobbe, A. von Meier, S. Low and C. Tomlin, “Event detection and localization in distribution grids with phasor measurement units,” IEEE PES General Meeting, 2017. (Best of the Best Conference Paper Award)
 
