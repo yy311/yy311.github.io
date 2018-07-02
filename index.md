@@ -6,7 +6,7 @@ title: Home
 
 <!-- <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citation</a> -->
 
-<p>Professor of Control Theory, School of Automation,<br  /> 
+<p>Professor of Automatic Control, School of Automation and,<br  /> 
 State Key Lab of Digital Manufacturing Equipment and Technology,<br  /> 
 Huazhong University of Science and Technology </p>
 
