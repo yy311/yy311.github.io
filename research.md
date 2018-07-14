@@ -4,7 +4,7 @@ layout: page
 
 #### Current Research Interests: 
 
-On the unification of System Identification, Control, Optimization and Machine Learning with applications to the understanding and (re-)design of natural and man-made systems. In particular, I have been focusing on applications such as manufacturing, robotics, biology and power systems. 
+System Identification, Control, Optimization and Machine Learning with applications to the understanding and (re-)design of natural (biology and neuroscience) and man-made systems (manufacturing, robotics and power systems). 
 
 
 #### Testbed in my lab:
@@ -33,23 +33,9 @@ Class 2017: Xuejun Wang (CMU), Yuzhen Liu(Tsinghua), Jiazhuo Qin(UCSD), Haowei X
 
 Class 2018: Jiamu Sun (Waterloo)
 
-#### Previously Co-supervised Students: (and where they are now.)
+#### Previously Co-supervised Students: 
 
-Yiming Li (M.Phil., Cambridge, 2015-) 
-
-Zuogong Yue (Ph.D., LCSB, 2014-) Granger causality, dynamical structure functions.
-
-Dr. Wei Pan (Ph.D., Bioengineering, Imperial College, 2011-2015) Nonlinear identification using sparse Bayesian learning. DJI Shenzhen.
-
-Dr. Peyman Gifani (Ph.D., Control Engineering, Cambridge, 2011-2015) Engineering design principle in synthetic biology. University of Cambridge, Wellcome Trust Senisor internship.
-
-Dr. David Hayden (Ph.D., Control Engineering, Cambridge, 2011-2015) Network reconstruction using intrinsic noises. Machine Learning Researcher in London.
-
-Dr. Alberto Carignano (Ph.D., Control Engineering, Cambridge, 2011-2014) Modelling of Circadian Clocks. University of Washington, postdoc researcher.
-
-Dr. Xin Yang (Ph.D., Electrical Engineering, Cambridge, 2011-2014) Robust stability analysis and design for IGBT. NUDT lecturer.
-
-Dr. Neave O'Clery (Ph.D., Mathematics, Imperial College, 2011-2013) Graph Theory, Complex Networks. Fulbright researcher at Harvard University.
+Yiming Li (M.Phil., Cambridge, 2015-2016), Zuogong Yue (Ph.D., LCSB, 2014-2018), Dr. Wei Pan (Ph.D., Bioengineering, Imperial College, 2011-2015), Dr. Peyman Gifani (Ph.D., Control Engineering, Cambridge, 2011-2015), Dr. David Hayden (Ph.D., Control Engineering, Cambridge, 2011-2015), Dr. Alberto Carignano (Ph.D., Control Engineering, Cambridge, 2011-2014), Dr. Xin Yang (Ph.D., Electrical Engineering, Cambridge, 2011-2014), Dr. Neave O'Clery (Ph.D., Mathematics, Imperial College, 2011-2013).
 
 
 
