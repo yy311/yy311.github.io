@@ -7,8 +7,10 @@ title: Home
 <!-- <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citation</a> -->
 
 <p>Professor of Automatic Control, School of Automation and,<br  /> 
-State Key Lab of Digital Manufacturing Equipment and Technology,<br  /> 
+State Key Lab of Digital Manufacturing Equipment and Technology,<br  />
+Deputy Director, Ministry of Education Key Lab of Image Processing and Intelligent Control, <br  />
 Huazhong University of Science and Technology </p>
+
 
 
 <b>News:</b>
@@ -25,7 +27,7 @@ Lab: 116, South-1 Building (Nan-1 Lou) <br  />
 Email: yye@hust.edu.cn</small></p>
 
 <span class="footercued">
-Updated on 4/2017.<br />
+Updated on 7/2018.<br />
 <span>
 
 
