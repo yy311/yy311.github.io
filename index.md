@@ -14,7 +14,7 @@ Huazhong University of Science and Technology</p>
 <p> <font color="red">We are hiring postdocs and faculties, please contact me if you are interested.</font></p>
 
 <b>News:</b>
-<p><small>Jul. 2018 — Students' Most Favored Mentor Award, HUST.</small></p>
+<p><small>Jul. 2018 — Excellence in Mentoring Award, HUST.</small></p>
           
 <p><small>Jun. 2018 — Our paper “Distributed Finte-time Optimization” won the Best student paper prize at the 14th IEEE International Conference on Control and Automation'18.</small></p>
 
