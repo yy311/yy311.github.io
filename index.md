@@ -6,12 +6,12 @@ title: Home
 
 <!-- <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citation</a> -->
 
-<p>Professor of Automatic Control, School of Automation and,<br  /> 
+<p>Professor of Automatic Control, School of Automation and <br  /> 
 State Key Lab of Digital Manufacturing Equipment and Technology,<br  />
 Deputy Director, Ministry of Education Key Lab of Image Processing and Intelligent Control, <br  />
-Huazhong University of Science and Technology </p>
+Huazhong University of Science and Technology</p>
 
-<font color="red">We are hiring postdocs and faculties, please contact me if you are interested.</font>
+<p> <font color="red">We are hiring postdocs and faculties, please contact me if you are interested.</font></p>
 
 <b>News:</b>
 <p><small>Jul. 2018 — Students' Most Favored Mentor Award, HUST.</small></p>
