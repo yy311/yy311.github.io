@@ -3,16 +3,18 @@ layout: page
 ---
 <h4>Courses taught</h4>
 
-System Identification, Huazhong UST Spring 2017
+Online course: [Introduction to Machine Learning](https://www.dcxueyuan.com/classDetail/classIntroduce/25/page.html).
 
-Introduction to Data Science, Huazhong UST Spring 2017
+System Identification, Huazhong UST Spring 2017, Spring 2018.
+
+Introduction to Data Science, Huazhong UST Spring 2017, Spring 2018.
 
 <h4>TA </h4>
 
-T.A. of 3F1: Signals and Systems, University of Cambridge  Fall 2013
+3F1: Signals and Systems, University of Cambridge  Fall 2013
 Instructor: Prof. Rodolphe Sepulchre
 
-T.A.of 3F2: Systems and Control, University of Cambridge Spring 2012
+3F2: Systems and Control, University of Cambridge Spring 2012
 Instructor: Prof. Jan Maciejowski
 
 
