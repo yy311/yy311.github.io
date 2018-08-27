@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Since 2016, I put all my code into github: [download](https://github.com/HAIRLAB/CPSid)
+Since 2016, I put all my code into github: [link](https://github.com/HAIRLAB).
 
 You need [CVX](http://cvxr.com/cvx/) to run the following code examples:
 
