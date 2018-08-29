@@ -4,9 +4,9 @@ layout: page
 
 <h3>Working Papers: </h3>
 
-[On the powerball method for optimization](https://arxiv.org/abs/1603.07421), submitted, 2018. 
+[On the powerball method for optimization](https://arxiv.org/abs/1603.07421), 2016. 
 
-[On the inverse power flow problem](https://arxiv.org/abs/1610.06631), in preparation, 2017. 
+[On the inverse power flow problem](https://arxiv.org/abs/1610.06631), 2015. 
 
 <h3>Journal Papers: (By topics)</h3>
 
