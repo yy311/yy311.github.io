@@ -34,3 +34,18 @@ Updated on 7/2018.<br />
 
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=7Veh&d=yguR5_G3NUuhN_gFSGtzaYE7LKn1yFCyVuc9_ytJA_o"></script>
+
+<!-- Default Statcounter code for My website http://yy311.github.io/ -->
+<script type="text/javascript">
+var sc_project=11825762; 
+var sc_invisible=1; 
+var sc_security="1727e883"; 
+var sc_https=1; 
+var sc_remove_link=1; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js" async></script>
+<noscript><div class="statcounter"><img class="statcounter"
+src="//c.statcounter.com/11825762/0/1727e883/1/" alt="Web
+Analytics"></div></noscript>
+<!-- End of Statcounter Code -->
