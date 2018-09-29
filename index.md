@@ -6,10 +6,9 @@ title: Home
 
 <!-- <a href="https://scholar.google.com/citations?user=Jhj7LZUAAAAJ&hl=en">Citation</a> -->
 
-<p>Professor of Automatic Control, School of Automation and <br  /> 
-State Key Lab of Digital Manufacturing Equipment and Technology,<br  />
+<p>Professor, School of Automation and State Key Lab of Digital Manufacturing Equipment and Technology,<br  />
 Deputy Director, Ministry of Education Key Lab of Image Processing and Intelligent Control, <br  />
-Huazhong University of Science and Technology</p>
+Huazhong University of Science and Technology, Wuhan, China</p>
 
 
 <b>News:</b>
