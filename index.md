@@ -11,7 +11,6 @@ State Key Lab of Digital Manufacturing Equipment and Technology,<br  />
 Deputy Director, Ministry of Education Key Lab of Image Processing and Intelligent Control, <br  />
 Huazhong University of Science and Technology</p>
 
-<p> <small><font color="red">My lab is hiring postdocs and faculties as well as hosting visting researchers, please contact me if you are interested.</font></small></p>
 
 <b>News:</b>
 <p><small>Jul. 2018 — Excellence in Mentoring Award, HUST.</small></p>
