@@ -4,11 +4,11 @@ layout: page
 
 <h3>Working Papers: </h3>
 
-[Data-driven Discovery of Cyber-Physical Systems](https://arxiv.org/pdf/1810.00697.pdf), 2018. 
+[Data-driven Discovery of Cyber-Physical Systems](https://arxiv.org/pdf/1810.00697.pdf), since 2014. 
 
-[On the powerball method for optimization](https://arxiv.org/abs/1603.07421), 2016. 
+[On the powerball method for optimization](https://arxiv.org/abs/1603.07421), since 2016. 
 
-[On the inverse power flow problem](https://arxiv.org/abs/1610.06631), 2015. 
+[On the inverse power flow problem](https://arxiv.org/abs/1610.06631), since 2015. 
 
 <h3>Journal Papers: (By topics)</h3>
 
