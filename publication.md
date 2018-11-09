@@ -39,14 +39,11 @@ J. Wu, Y. Yuan, H. Zhang and L. Shi, [How can online schedules improve communica
 
 <h4>Applitions to Cyber-physical Systems:</h4>
 
-= mechanical systems
+= industrial systems
 
 Y. Yuan, H. Zhang, Y. Wu, T. Zhu and H. Ding, [Bayesian learning-based model predictive vibration control for thin-walled workpiece machining processes](http://ieeexplore.ieee.org/document/7676308/), IEEE/ASME Transactions on Mechatronics, Volume: 22, Issue: 1, Page 509 - 520, 2017. 
 
 H. Zhang, G. Ren, Y. Wu, H. Sun, J. Huang, Z. Yin and Y. Yuan, [Electrospinning sedimentary microstructure feedback control by tuning substrate linear machine velocity](http://ieeexplore.ieee.org/document/7927490/), IEEE Transactions on Industrial Electronics, to appear.
-
-
-= power 
 
 W. Pan, Y. Yuan*, H. Sandberg, J. Gonçalves and G. Stan, [Online fault diagnosis for nonlinear power systems](http://ac.els-cdn.com/S0005109815000941/1-s2.0-S0005109815000941-main.pdf?_tid=b5e10452-5cd8-11e5-aaba-00000aab0f02&acdnat=1442452333_2541d645986555cf7b4e93810a863942), Automatica, Volume 55, Pages 27-36, 2015. 
 
