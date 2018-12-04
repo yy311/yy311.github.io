@@ -3,7 +3,8 @@ layout: page
 ---
 
 <h3>Working Papers: </h3>
-[AI-based Diagnosis in Manufacturing](http://yy311.github.io/publication.html), 2016. 
+
+[AI-based Diagnosis in Manufacturing](https://yy311.github.io/publication.html), 2016. 
 
 [Data-driven Discovery of Cyber-Physical Systems](https://arxiv.org/pdf/1810.00697.pdf), 2014. 
 
