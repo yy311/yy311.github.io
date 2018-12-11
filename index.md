@@ -12,6 +12,8 @@ Huazhong University of Science and Technology, Wuhan, China</p>
 
 
 <b>News:</b>
+<p><small>Dec. 2018 — Our poster “Deep Learning Predicts the Grasping Locations for Dual-arm Manipulators” won the Best poster Award at the Annual Conference of Chinese Robotics Society.</small></p>
+
 <p><small>Jul. 2018 — Excellence in Mentoring Award, HUST.</small></p>
           
 <p><small>Jun. 2018 — Our paper “Distributed Finte-time Optimization” won the Best student paper prize at the 14th IEEE International Conference on Control and Automation'18.</small></p>
