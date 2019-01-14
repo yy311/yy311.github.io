@@ -12,7 +12,8 @@ Huazhong University of Science and Technology, Wuhan, China</p>
 
 
 <b>News:</b>
-<p><small>Dec. 2018 — Our poster “Deep Learning Predicts the Grasping Locations for Dual-arm Manipulators” won the Best poster Award at the Annual Conference of Chinese Robotics Society.</small></p>
+<p><small>Dec. 2018 — Our poster “Deep Learning Predicts the Grasping Locations for Dual-arm Manipulators” won the Best poster Award at the Annual Conference of Chinese Robotics Society. Our paper "Sparse Bayesian Learning-Based Adaptive Impedance Control in
+Physical Human-Robot Interaction" won the Best Paper Award at First International Symposium on Instrumentation, Control, Artificial Intelligence and Robotics</small></p>
 
 <p><small>Jul. 2018 — Excellence in Mentoring Award, HUST.</small></p>
           
