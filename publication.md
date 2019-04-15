@@ -6,14 +6,14 @@ layout: page
 
 [Data-driven discovery of cyber-physical systems](https://arxiv.org/pdf/1810.00697.pdf), 2014. 
 
-[On the powerball method for optimization](https://arxiv.org/abs/1603.07421), 2016. 
-
 [On the inverse power flow problem](https://arxiv.org/abs/1610.06631), 2015. 
 
 
 <h3>Journal Papers: (By topics)</h3>
 
 <h4>System Identification and Control Theory</h4>
+
+Y. Yuan*, M. Lu, J. Liu and C. Tomlin, [On the powerball method for optimization](https://arxiv.org/abs/1603.07421),  IEEE Control Systems Letters, to appear, 2019. 
 
 W. Pan, Y. Yuan*, L. Ljung, J. Gonçalves and G. Stan, [Identification of nonlinear state-space systems from heterogeneous datasets](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8055630), IEEE Transactions on Control of Network Systems, to appear, 2017.
 
