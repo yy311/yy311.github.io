@@ -19,7 +19,7 @@ W. Pan, Y. Yuan*, L. Ljung, J. Gonçalves and G. Stan, [Identification of nonli
 
 Y. Yuan, K. Glover and J. Gonçalves, [On minimal realisations of dynamical structure functions](http://arxiv.org/abs/1409.0072), Automatica, Volume 55, Pages 159-164, 2015. 
 
-Y. Yuan, G. Stan, S. Warnick and J. Gonçalves , [Robust dynamical network structure reconstruction](http://www.sciencedirect.com/science/article/pii/S0005109811001828), Special Issue on System Biology, Automatica, Volume 47, Issue 6, Page 1230-1235, 2011.
+Y. Yuan, G. Stan, S. Warnick and J. Gonçalves , [Robust dynamical network structure reconstruction](http://www.sciencedirect.com/science/article/pii/S0005109811001828), Automatica, Volume 47, Issue 6, Page 1230-1235, 2011.
 
 Y. Yuan, G. Stan, L. Shi, M. Barahona and J. Gonçalves, [Decentralised minimum-time consensus](http://www.sciencedirect.com/science/article/pii/S0005109813000794), Automatica, Volume 49, Issue 5, Page 1227-1235, 2013.
 
@@ -29,7 +29,7 @@ W. Pan, Y. Yuan, J. Gonçalves and G. Stan, [Bayesian approaches to the identif
 
 Y. Yuan, A. Rai, E. Yeung, G. Stan, S. Warnick and J. Goncalves, [A minimal realization technique for the dynamical structure function of a class of LTI systems](http://arxiv.org/abs/1209.3808), IEEE Transactions on Control of Network Systems, 2017.
 
-T. Charalambous, Y. Yuan*, T. Yang, W. Pan, C. Hadjicostis, M. Johansson, [Distributed finite-time average consensus in digraphs in the presence of time-delays](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7097006&punumber%3D6509490), in press, IEEE Transactions on Control of Network Systems.
+T. Charalambous, Y. Yuan*, T. Yang, W. Pan, C. Hadjicostis, M. Johansson, [Distributed finite-time average consensus in digraphs in the presence of time-delays](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7097006&punumber%3D6509490), IEEE Transactions on Control of Network Systems, 2017.
 
 L. Shi, Y. Yuan and J. Chen, [Finite horizon LQR control with limited controller-system communication](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6389717), IEEE Transactions on Automatic Control, Volume 58, Issue 7, Page 1835-1841, 2013.
 
@@ -52,7 +52,7 @@ X. Yang, Y. Yuan*, Z. Long, J. Gonçalves and P. Palmer, [Robust stability anal
 
 X. Yang, Y. Yuan, X. Zhang and P. Palmer, [Shaping high-power IGBT switching transitions by active voltage control for reduced EMI generation](http://ieeexplore.ieee.org/document/6877720/?arnumber=6877720), IEEE Transactions on Industry Applications, 2015. 
 
-= biology
+= natural systems
 
 E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, M. Wang, M. Berns, G. Coupland, R. Saini, M. Jaskolski, A. Webb, J. Gonçalves and S. Davis, [Early Flowering4 recruitment of Early Flowering3 in the nucleus sustains the Arabidopsis circadian clock](http://www.plantcell.org/content/early/2012/02/07/tpc.111.093807.abstract), the Plant Cell, Volume 24, No. 2, Page 428-443, 2012. (Impact Factor: 10.6)
 
@@ -63,8 +63,6 @@ W. Kuan, A. Kasis, Y. Yuan, S. Mason, A. Lazar, R. Barker and J. Gonçalves,[ M
 L. Yao, Y. Yuan*, S. Sundaram and T. Yang, “Distributed finite-time optiization,” IEEE ICCA, 2018. (Best Student Paper Award)
 
 O. Ardakanian, Y. Yuan*, R. Dobbe, A. von Meier, S. Low and C. Tomlin, “Event detection and localization in distribution grids with phasor measurement units,” IEEE PES General Meeting, 2017. (Best of the Best Conference Paper Award)
-
-Y. Yuan and Y. Mo, “Security in feedback control systems: controller design against known-plaintext attack,” in Proceedings of 54th IEEE Conference on Decision and Control, 2015.
 
 Y. Yuan, J. Liu, R. M. Murray and J. Goncalves, “Minimal-time dynamical consensus,” in Proceedings of IEEE American Control Conference, 2012.
 
