@@ -4,7 +4,7 @@ layout: page
 
 <h3>Working Papers: </h3>
 
-[Data-driven discovery of cyber-physical systems](https://arxiv.org/pdf/1810.00697.pdf), 2014. 
+[Data driven discovery of cyber physical systems](https://arxiv.org/pdf/1810.00697.pdf), 2014. 
 
 [Inverse power flow problem](https://arxiv.org/abs/1610.06631), 2015. 
 
