@@ -6,7 +6,7 @@ layout: page
 
 [Data-driven discovery of cyber-physical systems](https://arxiv.org/pdf/1810.00697.pdf), 2014. 
 
-[On the inverse power flow problem](https://arxiv.org/abs/1610.06631), 2015. 
+[Inverse power flow problem](https://arxiv.org/abs/1610.06631), 2015. 
 
 Machine discovery of partial differential equations from spatiotemporal data, 2016. 
 
