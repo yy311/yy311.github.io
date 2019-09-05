@@ -12,7 +12,7 @@ Machine discovery of partial differential equations from spatiotemporal data, 20
 
 <h4>System Identification and Control Theory</h4>
 
-Y. Yuan, X. Tang, W. Zhou, W. Pan, X. Li, H. Zhang, H. Ding and J. Goncalves. [Data driven discovery of cyber physical systems](https://arxiv.org/pdf/1810.00697.pdf). to appear, 2019. 
+Y. Yuan, X. Tang, W. Zhou, W. Pan, X. Li, H. Zhang, H. Ding and J. Goncalves. [Data driven discovery of cyber physical systems](https://arxiv.org/pdf/1810.00697.pdf), Nature Communications, to appear, 2019. 
 
 Y. Yuan*, M. Li, J. Liu and C. Tomlin, [On the powerball method for optimization](https://arxiv.org/abs/1603.07421),  IEEE Control Systems Letters, to appear, 2019. 
 
