@@ -6,7 +6,7 @@ layout: page
 
 [Inverse power flow problem](https://arxiv.org/abs/1610.06631), 2015. 
 
-Machine discovery of partial differential equations from spatiotemporal data, 2016. 
+[Machine discovery of partial differential equations from spatiotemporal data](https://arxiv.org/pdf/1909.06730.pdf), 2016. 
 
 <h3>Journal Papers: (By topics)</h3>
 
