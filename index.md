@@ -12,6 +12,8 @@ Huazhong University of Science and Technology, Wuhan, China.</p>
 
 
 <b>News:</b>
+<p><small>Sept. 2019 - Our paper "Data driven discovery of cyber physical systems" has been accepted by Nature Communications. </small></p>
+
 <p><small>Jun. 2019 - IEEE Trans. on Mechatronics CFP: <a href="https://engineering.purdue.edu/TMECH/focus_sections/flyers/2020Oct_FS-AISM_CFP.pdf">AI-based Monitoring in Smart Manufacturing (AISM)</a>. I start to serve an AE in <a href="http://sites.bu.edu/tcns/editorial-board/associate-editors">IEEE Transactions on Control of Network Systems</a>.</small></p>
           
 <p><small>Dec. 2018 — Our poster “Deep Learning Predicts the Grasping Locations for Dual-arm Manipulators” won the Best poster Award at the Annual Conference of Chinese Robotics Society. Our paper "Sparse Bayesian Learning-Based Adaptive Impedance Control in
