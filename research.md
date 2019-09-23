@@ -19,7 +19,7 @@ GPU cluster (Nvidia 1080)
 
 #### Group at Huazhong UST: 
 
-Postdocs: Dr. Xiuting Li (PhD Maths HUST, 2016-2019), Dr. Cheng Cheng (PhD Imperial College London, 2018-)
+Postdocs: Dr. Xiuting Li (PhD Maths HUST, 2016-), Dr. Cheng Cheng (PhD Imperial College London, 2018-)
 
 PhDs: Ruijuan Chen, Zuowei Ping, Yunlong Dong, Guijun Ma, Junlin Li, Xiuchuan Tang, Tan Shen, Yuqiang Wu, Yasen Wang, Jingyu Yang, Yi Shen, Wei Zhou (Co-supervised with  Prof. Hai-Tao Zhang), Weigao Sun (Co-supervised with Prof. Hai-Tao Zhang)
 
