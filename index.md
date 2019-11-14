@@ -30,10 +30,10 @@ Physical Human-Robot Interaction" won the Best Paper Award at First Internationa
 
 <p><small>Office: 315, South-1 Building (Nan-1 Lou) <br  />
 Lab: 116, South-1 Building (Nan-1 Lou) <br  />
-Email: yye@hust.edu.cn</small></p>
+Email: yye@hust.edu.cn, yeyuan_ref@163.com (for reference letters).</small></p>
 
 <span class="footercued">
-Updated on 7/2018.<br />
+Updated on 7/2019.<br />
 <span>
 
 
