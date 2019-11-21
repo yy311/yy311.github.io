@@ -43,7 +43,7 @@ J. Wu, Y. Yuan, H. Zhang and L. Shi, [How can online schedules improve communica
 
 = industrial systems
 
-Y. Yuan, G. Ma, C. Cheng, B. Zhou, H. Zhao, H. ZHang, H. Ding, [A General End-to-end Diagnosis Framework for Manufacturing Systems](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwz190/5637084), National Science Review, 2019. 
+Y. Yuan, G. Ma, C. Cheng, B. Zhou, H. Zhao, H. ZHang, H. Ding, [A general end-to-end diagnosis framework for manufacturing systems](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwz190/5637084), National Science Review, 2019. 
 
 Y. Yuan, H. Zhang, Y. Wu, T. Zhu and H. Ding, [Bayesian learning-based model predictive vibration control for thin-walled workpiece machining processes](http://ieeexplore.ieee.org/document/7676308/), IEEE/ASME Transactions on Mechatronics, Volume: 22, Issue: 1, Page 509 - 520, 2017. 
 
