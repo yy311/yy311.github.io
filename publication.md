@@ -2,6 +2,8 @@
 layout: page
 ---
 
+For a full list, please refer to my [google citation](https://scholar.google.co.uk/citations?hl=en&user=Jhj7LZUAAAAJ&view_op=list_works).
+
 <h3>Working Papers: </h3>
 
 [Inverse power flow problem](https://arxiv.org/abs/1610.06631), 2015. 
