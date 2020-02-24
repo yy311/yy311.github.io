@@ -28,5 +28,5 @@ pages_list:
   - name: Teaching
     loc: /teaching.html
   - name: Software
-    loc: /software.html
+    loc: https://github.com/HAIRLAB
   
