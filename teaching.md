@@ -3,11 +3,9 @@ layout: page
 ---
 <h4>Courses taught</h4>
 
-Online course: [Introduction to Machine Learning](https://www.dcxueyuan.com/classDetail/classIntroduce/25/page.html).
+System Identification, Huazhong UST Spring 2017, 2018, 2019.
 
-System Identification, Huazhong UST Spring 2017, Spring 2018.
-
-Introduction to Data Science, Huazhong UST Spring 2017, Spring 2018.
+Introduction to Data Science, Huazhong UST Spring 2017, 2018, 2019, 2020.
 
 <h4>TA </h4>
 
