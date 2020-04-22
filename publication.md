@@ -38,12 +38,14 @@ E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, M. Wang, M. Berns, G. Coupland, R. S
 
 <h3>Selected Conference Papers:</h3>
 
+Z. Zhou, J. Liu, W. Sun, R. Chen, C. Tomlin and Y. Yuan*, psSGD: pbSGD: Powered Stochastic Gradient Descent Methods for Accelerated Nonconvex Optimization, IJCAI, 2020. 
+
 L. Yao, Y. Yuan*, S. Sundaram and T. Yang, “Distributed finite-time optiization,” IEEE ICCA, 2018. (Best Student Paper Award)
 
-O. Ardakanian, Y. Yuan*, R. Dobbe, A. von Meier, S. Low and C. Tomlin, “Event detection and localization in distribution grids with phasor measurement units,” IEEE PES General Meeting, 2017. (Best of the Best Conference Paper Award)
+O. Ardakanian, Y. Yuan*, R. Dobbe, A. von Meier, S. Low and C. Tomlin, “Event detection and localization in distribution grids with phasor measurement units,” IEEE PES GM, 2017. (Best of the Best Conference Paper Award)
 
-Y. Yuan, J. Liu, R. M. Murray and J. Goncalves, “Minimal-time dynamical consensus,” in Proceedings of IEEE American Control Conference, 2012.
+Y. Yuan, J. Liu, R. M. Murray and J. Goncalves, “Minimal-time dynamical consensus,” ACC, 2012.
 
-Y. Yuan and L. Shi, “Minimum sensor duty cycle with guaranteed estimator performance,” IEEE International Conference on Information and Automation, 2012. (Best Paper Award, Finalist)
+Y. Yuan and L. Shi, “Minimum sensor duty cycle with guaranteed estimator performance,” IEEE ICIA, 2012. (Best Paper Award, Finalist)
 
  ^* Corresponding author.
