@@ -13,10 +13,7 @@ Huazhong University of Science and Technology, Wuhan, China.</p>
 
 <b>News:</b>
 
-<p><small>Mar. 2020 - Since Feb., my group and I stopped projects that we normally work on, have been working day and night with doctors in Tongji, Xiehe, Jinyintan Hospitals analyzing COVID-19 patients' clinical data. We hope results could be helpful for those who are battling Coronavirus all over the world. Sampled results: 
-          1. <a href="https://www.medrxiv.org/content/10.1101/2020.02.27.20028027v2">Prediction of criticality for in patients with severe Covid-19 infection</a>, 
-          2. <a href="https://www.medrxiv.org/content/10.1101/2020.03.09.20032219v1">Data-driven discovery of clinical routes for severity detection in COVID-19 pediatric cases
-</a>.</small></p>
+<p><small>Mar. 2020 - Since Feb., my group and I stopped projects that we normally work on, have been working day and night with doctors in Tongji, Union, Jinyintan Hospitals analyzing COVID-19 patients' clinical data. We hope results could be helpful for those who are battling Coronavirus all over the world. Sampled results: <a href="https://www.medrxiv.org/content/10.1101/2020.02.27.20028027v2">Prediction of criticality for in patients with severe Covid-19 infection</a>, </small></p>
           
 <p><small>Dec. 2018 — Our poster “Deep Learning Predicts the Grasping Locations for Dual-arm Manipulators” won the Best poster Award at the Annual Conference of Chinese Robotics Society.</small></p>
 
