@@ -38,7 +38,7 @@ E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, M. Wang, M. Berns, G. Coupland, R. S
 
 <h3>Selected Conference Papers:</h3>
 
-Z. Zhou, J. Liu, W. Sun, R. Chen, C. Tomlin and Y. Yuan*, psSGD: pbSGD: Powered Stochastic Gradient Descent Methods for Accelerated Nonconvex Optimization, IJCAI, 2020. 
+B. Zhou, J. Liu, W. Sun, R. Chen, C. Tomlin and Y. Yuan*, "pbSGD: Powered Stochastic Gradient Descent Methods for Accelerated Nonconvex Optimization," IJCAI, 2020. 
 
 L. Yao, Y. Yuan*, S. Sundaram and T. Yang, “Distributed finite-time optiization,” IEEE ICCA, 2018. (Best Student Paper Award)
 
