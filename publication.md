@@ -16,11 +16,11 @@ For a full list, please refer to my [google citation](https://scholar.google.co.
 
 Y. Yuan, X. Tang, W. Zhou, W. Pan, X. Li, H. Zhang, H. Ding and J. Goncalves. [Data driven discovery of cyber physical systems](https://www.nature.com/articles/s41467-019-12490-1), Nature Communications, 2019. [Code+data](https://github.com/HAIRLAB/CPSid)
 
-Y. Yuan, M. Li, J. Liu and C. Tomlin, [On the powerball method for optimization](https://arxiv.org/abs/1603.07421),  IEEE Control Systems Letters, 2019. 
-
 Y. Yuan, G. Stan, S. Warnick and J. Gonçalves , [Robust dynamical network structure reconstruction](http://www.sciencedirect.com/science/article/pii/S0005109811001828), Automatica, 2011.
 
 Y. Yuan, G. Stan, L. Shi, M. Barahona and J. Gonçalves, [Decentralised minimum-time consensus](http://www.sciencedirect.com/science/article/pii/S0005109813000794), Automatica, 2013.
+
+D. Hayden, Y. Yuan* and J. Gon ̧calves, Network identifiability from intrinsic noise, IEEE Transactions on Automatic Control, 2016.
 
 W. Pan, Y. Yuan, J. Gonçalves and G. Stan, [Bayesian approaches to the identification of nonlinear state-space systems](http://arxiv.org/pdf/1408.3549v5.pdf), IEEE Transactions on Automatic Control, 2016.
 
@@ -31,7 +31,13 @@ W. Pan, Y. Yuan, J. Gonçalves and G. Stan, [Bayesian approaches to the identif
 
 Y. Yuan, G. Ma, C. Cheng, B. Zhou, H. Zhao, H. ZHang, H. Ding, [A general end-to-end diagnosis framework for manufacturing systems](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwz190/5637084), National Science Review, 2019. [Code+data](https://github.com/HAIRLAB/NSR_krCNN)
 
-= natural systems
+C. Cheng, G. Ma, Y. Zhang, M. Sun, F. Teng, H. Ding and Y. Yuan*, A deep learning-based remaining useful life prediction approach for bearings, to appear, IEEE/ASME Transactions on Mechatronics, 2020.
+
+Y. Yuan, H. Zhang, Y. Wu, T. Zhu and H. Ding, Bayesian learning-based model predictive vibration control for thin-walled workpiece machining processes, IEEE/ASME Transactions on Mechatronics, 2017.
+
+= natural and healthcare systems
+
+H. Zhu, C. Cheng, ..., G. Wan, X. Yang* and Y. Yuan*, Automatic multi-label ECG diagnosis of impulse or conduction abnormalities with deep learning: a cohort study, Lancet Digital Health, 2020.
 
 E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, M. Wang, M. Berns, G. Coupland, R. Saini, M. Jaskolski, A. Webb, J. Gonçalves and S. Davis, [Early Flowering4 recruitment of Early Flowering3 in the nucleus sustains the Arabidopsis circadian clock](http://www.plantcell.org/content/early/2012/02/07/tpc.111.093807.abstract), the Plant Cell, 2012.
 
