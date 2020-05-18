@@ -13,7 +13,7 @@ Huazhong University of Science and Technology, Wuhan, China.</p>
 
 <b>News:</b>
 
-<p><small>Mar. 2020 - Since Feb., my group and I stopped projects that we normally work on, have been working day and night with doctors in Tongji, Union, Jinyintan Hospitals analyzing COVID-19 patients' clinical data. We hope results could be helpful for those who are battling Coronavirus all over the world. Sampled results: <a href="https://www.nature.com/articles/s42256-020-0180-7">An interpretable mortality prediction model for COVID-19 patients</a> (Nature Machine Intelligence, <a href="https://github.com/HAIRLAB/Pre_Surv_COVID_19">Python code</a>, <a href="https://www.silkworm.xin:8084/">web interface</a>), </small></p>
+<p><small>Mar. 2020 - Since Feb., my group and I stopped projects that we normally work on, have been working day and night with doctors in Tongji, Union, Jinyintan Hospitals analyzing COVID-19 patients' clinical data. We hope results could be helpful for those who are battling Coronavirus all over the world. Sampled results: <a href="https://www.nature.com/articles/s42256-020-0180-7">An interpretable mortality prediction model for COVID-19 patients</a> (Nature Machine Intelligence, <a href="https://github.com/HAIRLAB/Pre_Surv_COVID_19">Python code</a>, <a href="silkworm.xin:8084/">web interface</a>), </small></p>
           
 <p><small>Dec. 2018 — Our poster “Deep Learning Predicts the Grasping Locations for Dual-arm Manipulators” won the Best poster Award at the Annual Conference of Chinese Robotics Society.</small></p>
 
