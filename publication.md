@@ -29,7 +29,7 @@ W. Pan, Y. Yuan, J. Gonçalves and G. Stan, [Bayesian approaches to the identif
 
 = industrial systems
 
-Y. Yuan, G. Ma, C. Cheng, B. Zhou, H. Zhao, H. ZHang, H. Ding, [A general end-to-end diagnosis framework for manufacturing systems](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwz190/5637084), National Science Review, 2019. [Code+data](https://github.com/HAIRLAB/NSR_krCNN)
+Y. Yuan, G. Ma, C. Cheng, B. Zhou, H. Zhao, H. ZHang, H. Ding, [A general end-to-end diagnosis framework for manufacturing systems](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwz190/5637084), National Science Review, 2020. [Code+data](https://github.com/HAIRLAB/NSR_krCNN)
 
 C. Cheng, G. Ma, Y. Zhang, M. Sun, F. Teng, H. Ding and Y. Yuan*, A deep learning-based remaining useful life prediction approach for bearings, to appear, IEEE/ASME Transactions on Mechatronics, 2020.
 
@@ -37,7 +37,9 @@ Y. Yuan, H. Zhang, Y. Wu, T. Zhu and H. Ding, Bayesian learning-based model pred
 
 = natural and healthcare systems
 
-H. Zhu, C. Cheng, ..., G. Wan, X. Yang* and Y. Yuan*, Automatic multi-label ECG diagnosis of impulse or conduction abnormalities with deep learning: a cohort study, Lancet Digital Health, 2020.
+L. Yan, H. Zhang, J. Goncalves, ..., S. Li*, H. Xu* and Y. Yuan*, [An interpretable mortality prediction model for COVID-19 patients]( https://doi.org/10.1038/s42256-020-0180-7). Nature Machine Intelligence, 2020.
+
+H. Zhu, C. Cheng, ..., X. Yang* and Y. Yuan*, Automatic multi-label ECG diagnosis of impulse or conduction abnormalities with deep learning: a cohort study, Lancet Digital Health, 2020.
 
 E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, M. Wang, M. Berns, G. Coupland, R. Saini, M. Jaskolski, A. Webb, J. Gonçalves and S. Davis, [Early Flowering4 recruitment of Early Flowering3 in the nucleus sustains the Arabidopsis circadian clock](http://www.plantcell.org/content/early/2012/02/07/tpc.111.093807.abstract), the Plant Cell, 2012.
 
