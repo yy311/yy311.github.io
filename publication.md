@@ -31,9 +31,9 @@ W. Pan, Y. Yuan, J. Gonçalves and G. Stan, [Bayesian approaches to the identif
 
 Y. Yuan, G. Ma, C. Cheng, B. Zhou, H. Zhao, H. ZHang, H. Ding, [A general end-to-end diagnosis framework for manufacturing systems](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwz190/5637084), National Science Review, 2020. [Code+data](https://github.com/HAIRLAB/NSR_krCNN)
 
-C. Cheng, G. Ma, Y. Zhang, M. Sun, F. Teng, H. Ding and Y. Yuan*, A deep learning-based remaining useful life prediction approach for bearings, to appear, IEEE/ASME Transactions on Mechatronics, 2020.
+C. Cheng, G. Ma, Y. Zhang, M. Sun, F. Teng, H. Ding and Y. Yuan*, [A deep learning-based remaining useful life prediction approach for bearings](https://ieeexplore.ieee.org/document/8982045), IEEE/ASME Transactions on Mechatronics, 2020.
 
-Y. Yuan, H. Zhang, Y. Wu, T. Zhu and H. Ding, Bayesian learning-based model predictive vibration control for thin-walled workpiece machining processes, IEEE/ASME Transactions on Mechatronics, 2017.
+Y. Yuan, H. Zhang, Y. Wu, T. Zhu and H. Ding, [Bayesian learning-based model predictive vibration control for thin-walled workpiece machining processes](https://ieeexplore.ieee.org/document/7676308), IEEE/ASME Transactions on Mechatronics, 2017.
 
 = natural and healthcare systems
 
