@@ -37,7 +37,7 @@ Y. Yuan, H. Zhang, Y. Wu, T. Zhu and H. Ding, Bayesian learning-based model pred
 
 = natural and healthcare systems
 
-L. Yan, H. Zhang, J. Goncalves, ..., S. Li*, H. Xu* and Y. Yuan*, [An interpretable mortality prediction model for COVID-19 patients]( https://doi.org/10.1038/s42256-020-0180-7). Nature Machine Intelligence, 2020.
+L. Yan, H. Zhang, J. Goncalves, ..., S. Li*, H. Xu* and Y. Yuan*, [An interpretable mortality prediction model for COVID-19 patients]( https://doi.org/10.1038/s42256-020-0180-7), Nature Machine Intelligence, 2020.
 
 H. Zhu, C. Cheng, ..., X. Yang* and Y. Yuan*, Automatic multi-label ECG diagnosis of impulse or conduction abnormalities with deep learning: a cohort study, Lancet Digital Health, 2020.
 
