@@ -20,7 +20,7 @@ Y. Yuan, G. Stan, S. Warnick and J. Gonçalves , [Robust dynamical network stru
 
 Y. Yuan, G. Stan, L. Shi, M. Barahona and J. Gonçalves, [Decentralised minimum-time consensus](http://www.sciencedirect.com/science/article/pii/S0005109813000794), Automatica, 2013.
 
-D. Hayden, Y. Yuan* and J. Gon ̧calves, [Network identifiability from intrinsic noise, IEEE Transactions on Automatic Control](https://ieeexplore.ieee.org/document/7784731), 2016.
+D. Hayden, Y. Yuan* and J. Gon ̧calves, [Network identifiability from intrinsic noise](https://ieeexplore.ieee.org/document/7784731), IEEE Transactions on Automatic Control, 2016.
 
 W. Pan, Y. Yuan, J. Gonçalves and G. Stan, [Bayesian approaches to the identification of nonlinear state-space systems](http://arxiv.org/pdf/1408.3549v5.pdf), IEEE Transactions on Automatic Control, 2016.
 
