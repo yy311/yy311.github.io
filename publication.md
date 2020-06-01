@@ -16,13 +16,13 @@ For a full list, please refer to my [google citation](https://scholar.google.co.
 
 Y. Yuan, X. Tang, W. Zhou, W. Pan, X. Li, H. Zhang, H. Ding and J. Goncalves. [Data driven discovery of cyber physical systems](https://www.nature.com/articles/s41467-019-12490-1), Nature Communications, 2019. [Code+data](https://github.com/HAIRLAB/CPSid)
 
-Y. Yuan, G. Stan, S. Warnick and J. Gonçalves , [Robust dynamical network structure reconstruction](http://www.sciencedirect.com/science/article/pii/S0005109811001828), Automatica, 2011.
+Y. Yuan, G. Stan, S. Warnick and J. Goncalves , [Robust dynamical network structure reconstruction](http://www.sciencedirect.com/science/article/pii/S0005109811001828), Automatica, 2011.
 
-Y. Yuan, G. Stan, L. Shi, M. Barahona and J. Gonçalves, [Decentralised minimum-time consensus](http://www.sciencedirect.com/science/article/pii/S0005109813000794), Automatica, 2013.
+Y. Yuan, G. Stan, L. Shi, M. Barahona and J. Goncalves, [Decentralised minimum-time consensus](http://www.sciencedirect.com/science/article/pii/S0005109813000794), Automatica, 2013.
 
-D. Hayden, Y. Yuan* and J. Gon ̧calves, [Network identifiability from intrinsic noise](https://ieeexplore.ieee.org/document/7784731), IEEE Transactions on Automatic Control, 2016.
+D. Hayden, Y. Yuan* and J. Goncalves, [Network identifiability from intrinsic noise](https://ieeexplore.ieee.org/document/7784731), IEEE Transactions on Automatic Control, 2016.
 
-W. Pan, Y. Yuan, J. Gonçalves and G. Stan, [Bayesian approaches to the identification of nonlinear state-space systems](http://arxiv.org/pdf/1408.3549v5.pdf), IEEE Transactions on Automatic Control, 2016.
+W. Pan, Y. Yuan, J. Goncalves and G. Stan, [Bayesian approaches to the identification of nonlinear state-space systems](http://arxiv.org/pdf/1408.3549v5.pdf), IEEE Transactions on Automatic Control, 2016.
 
 
 <h4>Applitions to Cyber-physical Systems:</h4>
