@@ -39,7 +39,7 @@ Y. Yuan, H. Zhang, Y. Wu, T. Zhu and H. Ding, [Bayesian learning-based model pre
 
 L. Yan, H. Zhang, J. Goncalves, ..., S. Li*, H. Xu*, and Y. Yuan*, [An interpretable mortality prediction model for COVID-19 patients]( https://doi.org/10.1038/s42256-020-0180-7), Nature Machine Intelligence, 2020.
 
-H. Zhu, C. Cheng, ..., X. Yang*, and Y. Yuan*, Automatic multi-label ECG diagnosis of impulse or conduction abnormalities with deep learning: a cohort study, Lancet Digital Health, 2020.
+H. Zhu, C. Cheng, ..., X. Yang*, and Y. Yuan*, [Automatic multi-label ECG diagnosis of impulse or conduction abnormalities with deep learning: a cohort study](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30107-2/fulltext), Lancet Digital Health, 2020.
 
 E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, M. Wang, M. Berns, G. Coupland, R. Saini, M. Jaskolski, A. Webb, J. Gonçalves and S. Davis, [Early Flowering4 recruitment of Early Flowering3 in the nucleus sustains the Arabidopsis circadian clock](http://www.plantcell.org/content/early/2012/02/07/tpc.111.093807.abstract), the Plant Cell, 2012.
 
