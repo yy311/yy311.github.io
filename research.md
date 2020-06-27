@@ -33,6 +33,8 @@ Class 2018: Jiamu Sun(Waterloo)
 
 Class 2019: Man Huang, Qianhui Yu (Columbia), Yuan Li(USC), Liang Li, Liying Lu(HKU), Zili Cai(CMU) 
 
+Class 2020: Sen Zhao(JHU), Basi Teng(Cambridge), Yuxuan Zhao(UMICH), Hanzhe Zhang(Waterloo), Wei Huo, Yuxing Zhong(HKUST)
+
 #### Previously Co-supervised Students: 
 
 Yiming Li (M.Phil., Cambridge, 2015-2016), Zuogong Yue (Ph.D., LCSB, 2014-2018), Dr. Wei Pan (Ph.D., Bioengineering, Imperial College, 2011-2015), Dr. Peyman Gifani (Ph.D., Control Engineering, Cambridge, 2011-2015), Dr. David Hayden (Ph.D., Control Engineering, Cambridge, 2011-2015), Dr. Alberto Carignano (Ph.D., Control Engineering, Cambridge, 2011-2014), Dr. Xin Yang (Ph.D., Electrical Engineering, Cambridge, 2011-2014), Dr. Neave O'Clery (Ph.D., Mathematics, Imperial College, 2011-2013).
