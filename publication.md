@@ -24,6 +24,9 @@ D. Hayden, Y. Yuan* and J. Goncalves, [Network identifiability from intrinsic no
 
 W. Pan, Y. Yuan, J. Goncalves and G. Stan, [Bayesian approaches to the identification of nonlinear state-space systems](http://arxiv.org/pdf/1408.3549v5.pdf), IEEE Transactions on Automatic Control, 2016.
 
+Z. Yue, J. Thunberg, Johan, L. Ljung, Y. Yuan and J. Goncalves, System aliasing in dynamic network reconstruction: Issues on low sampling frequencies, to appear, IEEE Transactions on Automatic Control, 2020.
+
+J. Jun, Y. Yuan* and J. Goncalves, A full Bayesian approach to sparse network inference using heterogeneous datasets,	to appear, IEEE Transactions on Automatic Control, 2020.
 
 <h4>Applitions to Cyber-physical Systems:</h4>
 
@@ -34,6 +37,12 @@ Y. Yuan, G. Ma, C. Cheng, B. Zhou, H. Zhao, H. ZHang, H. Ding, [A general end-to
 C. Cheng, G. Ma, Y. Zhang, M. Sun, F. Teng, H. Ding and Y. Yuan*, [A deep learning-based remaining useful life prediction approach for bearings](https://ieeexplore.ieee.org/document/8982045), IEEE/ASME Transactions on Mechatronics, 2020.
 
 Y. Yuan, H. Zhang, Y. Wu, T. Zhu and H. Ding, [Bayesian learning-based model predictive vibration control for thin-walled workpiece machining processes](https://ieeexplore.ieee.org/document/7676308), IEEE/ASME Transactions on Mechatronics, 2017.
+
+G. Ma, Y. Zhang, C. Cheng, B. Zhou, P. Hu, Ye Yuan*, Remaining useful life prediction of lithium-ion batteries based on false nearest neighbors and a hybrid neural network, Applied Energy, 2019.
+
+O. Ardakanian, R. Dobbe, S. Low, A. von Meier, C. Tomlin and Y. Yuan*, On identification of distribution grids, IEEE Transactions on Control of Network Systems, 2019.
+
+H. Zhang, B. Hu, L. Li, Z. Chen, D. Wu, B. Xu, X. Huang, G. Gu and Y. Yuan*, Distributed Hammerstein modeling for cross-coupling effect of multi-axis piezoelectric micro-positioning stages, IEEE/ASME Transactions on Mechatronics, 2018.
 
 = natural and healthcare systems
 
@@ -46,7 +55,7 @@ E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, M. Wang, M. Berns, G. Coupland, R. S
 
 <h3>Selected Conference Papers:</h3>
 
-B. Zhou, J. Liu, W. Sun, R. Chen, C. Tomlin and Y. Yuan*, "pbSGD: Powered stochastic gradient descent methods for accelerated nonconvex optimization," IJCAI, 2020. 
+B. Zhou, J. Liu, W. Sun, R. Chen, C. Tomlin and Y. Yuan*, "[pbSGD: Powered stochastic gradient descent methods for accelerated nonconvex optimization](https://www.ijcai.org/Proceedings/2020/0451.pdf)," IJCAI, 2020. 
 
 L. Yao, Y. Yuan*, S. Sundaram and T. Yang, “Distributed finite-time optiization,” IEEE ICCA, 2018. (Best Student Paper Award)
 
