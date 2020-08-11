@@ -22,9 +22,13 @@ Y. Yuan, G. Stan, L. Shi, M. Barahona and J. Goncalves, [Decentralised minimum-t
 
 D. Hayden, Y. Yuan* and J. Goncalves, [Network identifiability from intrinsic noise](https://ieeexplore.ieee.org/document/7784731), IEEE Transactions on Automatic Control, 2016.
 
+Y. Dong, X. Tang and Y. Yuan*, Principled reward shaping for reinforcement learning via Lyapunov stability theory, to appear, Neurocomputing, 2020.
+
+Y. Yuan, M. Li, J. Liu and C. Tomlin, On the Powerball method: variants of descent methods for accelerated optimization, IEEE Control Systems Letters, 2019.
+
 W. Pan, Y. Yuan, J. Goncalves and G. Stan, [Bayesian approaches to the identification of nonlinear state-space systems](http://arxiv.org/pdf/1408.3549v5.pdf), IEEE Transactions on Automatic Control, 2016.
 
-Z. Yue, J. Thunberg, Johan, L. Ljung, Y. Yuan and J. Goncalves, System aliasing in dynamic network reconstruction: Issues on low sampling frequencies, to appear, IEEE Transactions on Automatic Control, 2020.
+Z. Yue, J. Thunberg, L. Ljung, Y. Yuan and J. Goncalves, System aliasing in dynamic network reconstruction: Issues on low sampling frequencies, to appear, IEEE Transactions on Automatic Control, 2020.
 
 J. Jun, Y. Yuan* and J. Goncalves, A full Bayesian approach to sparse network inference using heterogeneous datasets,	to appear, IEEE Transactions on Automatic Control, 2020.
 
