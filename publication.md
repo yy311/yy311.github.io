@@ -50,7 +50,7 @@ H. Zhang, B. Hu, L. Li, Z. Chen, D. Wu, B. Xu, X. Huang, G. Gu and Y. Yuan*, Dis
 
 = natural and healthcare systems
 
-L. Yan, H. Zhang, J. Goncalves, ..., S. Li, H. Xu, and Y. Yuan*, [An interpretable mortality prediction model for COVID-19 patients]( https://doi.org/10.1038/s42256-020-0180-7), Nature Machine Intelligence, 2020.
+L. Yan, H. Zhang, J. Goncalves, ..., S. Li, H. Xu, and Y. Yuan*, [An interpretable mortality prediction model for COVID-19 patients]( https://doi.org/10.1038/s42256-020-0180-7), Nature Machine Intelligence, 2020. [Code](https://github.com/HAIRLAB/Pre_Surv_COVID_19), [Web-interface](http://silkworm.xin:8084">web interface).
 
 H. Zhu, C. Cheng, ..., X. Yang, and Y. Yuan*, [Automatic multi-label ECG diagnosis of impulse or conduction abnormalities with deep learning: a cohort study](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30107-2/fulltext), Lancet Digital Health, 2020.
 
