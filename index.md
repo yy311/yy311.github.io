@@ -12,6 +12,8 @@ Huazhong University of Science and Technology, Wuhan, China.</p>
 
 
 <b>News:</b>
+
+<p><small>Oct. 2020 — Our paper won the Best Paper Award at the International Industrial Artificial Intelligence Conference.</small></p>
           
 <p><small>Dec. 2018 — Our poster “Deep Learning Predicts the Grasping Locations for Dual-arm Manipulators” won the Best poster Award at the Annual Conference of Chinese Robotics Society.</small></p>
 
