@@ -10,6 +10,8 @@ For a full list, please refer to my [google citation](https://scholar.google.co.
 
 [Machine discovery of partial differential equations from spatiotemporal data](https://arxiv.org/pdf/1909.06730.pdf), 2016. [Code+data](https://github.com/HAIRLAB/S3d)
 
+DeFed: A Principled Decentralized and Privacy-Preserving Federated Learning Algorithm, 2020.
+
 <h3>Selected Journal Papers: (By topics)</h3>
 
 <h4>System Identification and Control Theory</h4>
