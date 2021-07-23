@@ -18,6 +18,8 @@ Huazhong University of Science and Technology, Wuhan, China.</p>
 " won the Best Student Paper Award at the IEEE/ASME International Conference on Advanced Intelligent Mechatronics.</small></p>
 
 <p><small>Oct. 2020 — Our paper won the Best Paper Award at the International Industrial Artificial Intelligence Conference.</small></p>
+
+<p><small>Jul. 2020 — the IEEE TC-CPS Early Career Award (Finalist).</small></p>
           
 <p><small>Dec. 2018 — Our poster “Deep Learning Predicts the Grasping Locations for Dual-arm Manipulators” won the Best poster Award at the Annual Conference of Chinese Robotics Society.</small></p>
 
@@ -33,10 +35,10 @@ Huazhong University of Science and Technology, Wuhan, China.</p>
 
 <p><small>Office: 315, South-1 Building (Nan-1 Lou) <br  />
 Lab: 116, South-1 Building (Nan-1 Lou) <br  />
-Email: yye@hust.edu.cn, yeyuan_ref@163.com (for reference letters).</small></p>
+Email: yye@hust.edu.cn.</small></p>
 
 <span class="footercued">
-Updated on 7/2019.<br />
+Updated on 7/2021.<br />
 <span>
 
 
