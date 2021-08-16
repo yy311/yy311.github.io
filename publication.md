@@ -24,15 +24,10 @@ Y. Yuan, G. Stan, L. Shi, M. Barahona and J. Goncalves, [Decentralised minimum-t
 
 D. Hayden, Y. Yuan* and J. Goncalves, [Network identifiability from intrinsic noise](https://ieeexplore.ieee.org/document/7784731), IEEE Transactions on Automatic Control, 2016.
 
-Y. Dong, X. Tang and Y. Yuan*, Principled reward shaping for reinforcement learning via Lyapunov stability theory, to appear, Neurocomputing, 2020.
-
 Y. Yuan, M. Li, J. Liu and C. Tomlin, On the Powerball method: variants of descent methods for accelerated optimization, IEEE Control Systems Letters, 2019.
 
 W. Pan, Y. Yuan, J. Goncalves and G. Stan, [Bayesian approaches to the identification of nonlinear state-space systems](http://arxiv.org/pdf/1408.3549v5.pdf), IEEE Transactions on Automatic Control, 2016.
 
-Z. Yue, J. Thunberg, L. Ljung, Y. Yuan and J. Goncalves, System aliasing in dynamic network reconstruction: Issues on low sampling frequencies, to appear, IEEE Transactions on Automatic Control, 2020.
-
-J. Jun, Y. Yuan* and J. Goncalves, A full Bayesian approach to sparse network inference using heterogeneous datasets,	to appear, IEEE Transactions on Automatic Control, 2020.
 
 <h4>Applitions to Cyber-physical Systems:</h4>
 
@@ -43,12 +38,6 @@ Y. Yuan, G. Ma, C. Cheng, B. Zhou, H. Zhao, H. ZHang, H. Ding, [A general end-to
 C. Cheng, G. Ma, Y. Zhang, M. Sun, F. Teng, H. Ding and Y. Yuan*, [A deep learning-based remaining useful life prediction approach for bearings](https://ieeexplore.ieee.org/document/8982045), IEEE/ASME Transactions on Mechatronics, 2020.
 
 Y. Yuan, H. Zhang, Y. Wu, T. Zhu and H. Ding, [Bayesian learning-based model predictive vibration control for thin-walled workpiece machining processes](https://ieeexplore.ieee.org/document/7676308), IEEE/ASME Transactions on Mechatronics, 2017.
-
-G. Ma, Y. Zhang, C. Cheng, B. Zhou, P. Hu, Ye Yuan*, Remaining useful life prediction of lithium-ion batteries based on false nearest neighbors and a hybrid neural network, Applied Energy, 2019.
-
-O. Ardakanian, R. Dobbe, S. Low, A. von Meier, C. Tomlin and Y. Yuan*, On identification of distribution grids, IEEE Transactions on Control of Network Systems, 2019.
-
-H. Zhang, B. Hu, L. Li, Z. Chen, D. Wu, B. Xu, X. Huang, G. Gu and Y. Yuan*, Distributed Hammerstein modeling for cross-coupling effect of multi-axis piezoelectric micro-positioning stages, IEEE/ASME Transactions on Mechatronics, 2018.
 
 = natural and healthcare systems
 
