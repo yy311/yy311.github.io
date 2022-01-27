@@ -5,7 +5,9 @@ layout: page
 
 System Identification, Huazhong UST Spring 2017, 2018, 2019.
 
-Introduction to Data Science, Huazhong UST Spring 2017, 2018, 2019, 2020.
+Introduction to Data Science, Huazhong UST Spring 2017, 2018, 2019, 2020, 2021, 2022.
+
+Convex Optimization, Huazhong UST Spring 2022. 
 
 <h4>TA </h4>
 
