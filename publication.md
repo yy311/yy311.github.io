@@ -50,7 +50,11 @@ E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, ..., A. Webb, J. Gonçalves and S. 
 
 <h3>Selected Conference Papers:</h3>
 
-B. Zhou, J. Liu, W. Sun, R. Chen, C. Tomlin and Y. Yuan*, "[pbSGD: Powered stochastic gradient descent methods for accelerated nonconvex optimization](https://www.ijcai.org/Proceedings/2020/0451.pdf)," IJCAI, 2020. 
+Y. Shen, Y. Hong, W. Zhou, R. Tai, Y. Yuan* and H. Ding, “Manipulability and robustness optimization of the cable-Driven redundant soft manipulator,” IEEE Robio, 2021. (Best Student Paper Award, Finalist)
+
+Q. Tao, J. Wang, Z. Xu, T. Lin, Y. Yuan and F. Zhang, “Swing-reducing flight control system for an underactuated indoor miniature autonomous blimp,” IEEE/ASME International Conference on Advanced Intelligent Mechatronics, 2021. (Best Student Paper Award)
+
+B. Zhou, J. Liu, W. Sun, R. Chen, C. Tomlin and Y. Yuan*, “[pbSGD: Powered stochastic gradient descent methods for accelerated nonconvex optimization](https://www.ijcai.org/Proceedings/2020/0451.pdf),” IJCAI, 2020. 
 
 L. Yao, Y. Yuan*, S. Sundaram and T. Yang, “Distributed finite-time optiization,” IEEE ICCA, 2018. (Best Student Paper Award)
 
