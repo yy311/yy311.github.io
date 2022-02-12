@@ -25,7 +25,9 @@ Assitant: Mrs Qin Yang
 
 Postdocs: Dr. Xiuting Li (PhD Maths HUST, 2016-2020, first job: associate professor, HAU), Dr. Cheng Cheng (PhD Imperial College London, 2018-2020, first job: lecturer, HUST), Dr. Wei He (PHD HUST, 2017-2020, first job: lecturer, HUST),  Dr. Shaolin Ran (PhD Wuhan University of Technology, 2020-)
 
-PhDs: Ruijuan Chen, Zuowei Ping, Yunlong Dong, Guijun Ma, Junlin Li, Xiuchuan Tang, Tan Shen, Yuqiang Wu, Yasen Wang, Jingyu Yang, Yi Shen, Zhexuan Zeng, Feng Hua, Qianjun Liu, Zelin Deng, Xuechun Qiao, Wei Zhou (Co-supervised with  Prof. Hai-Tao Zhang), Weigao Sun (Co-supervised with Prof. Hai-Tao Zhang)
+PhDs:  (Ongoing) Yunlong Dong, Guijun Ma, Xiuchuan Tang, Tan Shen, Yuqiang Wu, Yasen Wang, Jingyu Yang, Yi Shen, Zhexuan Zeng, Feng Hua, Qianjun Liu, Zelin Deng, Xuechun Qiao, Xiaohua Li
+
+(Graduated): Ruijuan Chen (lecturer, Wuhan Textile University), Zuowei Ping (lecturer, Naval University off Engineerinng), Junlin Li (lecturer, Fuyang Normal University), Wei Zhou (Huawei, Co-supervised with  Prof. Hai-Tao Zhang), Weigao Sun (Huawei, Co-supervised with Prof. Hai-Tao Zhang)
 
 Masters & Undergraduate TA: Too many
 
@@ -45,7 +47,7 @@ Class 2021: Xiong Zeng(UMICH), Xiao Hu(UMICH)
 
 #### Previously Co-supervised Students: 
 
-Yiming Li (M.Phil., Cambridge, 2015-2016), Zuogong Yue (Ph.D., LCSB, 2014-2018), Dr. Wei Pan (Ph.D., Bioengineering, Imperial College, 2011-2015), Dr. Peyman Gifani (Ph.D., Control Engineering, Cambridge, 2011-2015), Dr. David Hayden (Ph.D., Control Engineering, Cambridge, 2011-2015), Dr. Alberto Carignano (Ph.D., Control Engineering, Cambridge, 2011-2014), Dr. Xin Yang (Ph.D., Electrical Engineering, Cambridge, 2011-2014), Dr. Neave O'Clery (Ph.D., Mathematics, Imperial College, 2011-2013).
+Yiming Li (M.Phil., Cambridge, 2015-2016), Dr. Zuogong Yue (Ph.D., LCSB, 2014-2018), Dr. Wei Pan (Ph.D., Bioengineering, Imperial College, 2011-2015), Dr. Peyman Gifani (Ph.D., Control Engineering, Cambridge, 2011-2015), Dr. David Hayden (Ph.D., Control Engineering, Cambridge, 2011-2015), Dr. Alberto Carignano (Ph.D., Control Engineering, Cambridge, 2011-2014), Dr. Xin Yang (Ph.D., Electrical Engineering, Cambridge, 2011-2014), Dr. Neave O'Clery (Ph.D., Mathematics, Imperial College, 2011-2013).
 
 
 
