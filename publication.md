@@ -10,7 +10,7 @@ For a full list, please refer to my [google citation](https://scholar.google.co.
 
 [Machine discovery of partial differential equations from spatiotemporal data](https://arxiv.org/pdf/1909.06730.pdf), 2016. [Code+data](https://github.com/HAIRLAB/S3d)
 
-[DeceFL: A principled decentralized federated learning framework](https://arxiv.org/abs/2107.07171), 2020.
+[DeceFL: A principled decentralized federated learning framework](https://arxiv.org/abs/2107.07171), 2020. [Code+data](https://github.com/HAIRLAB/DeceFL)
 
 [On almost sure convergence rates of stochastic gradient methods](https://arxiv.org/abs/2202.04295), 2022.
 
