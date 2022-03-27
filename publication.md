@@ -12,7 +12,7 @@ For a full list, please refer to my [google citation](https://scholar.google.co.
 
 [DeceFL: A principled decentralized federated learning framework](https://arxiv.org/abs/2107.07171), 2020. [Code+data](https://github.com/HAIRLAB/DeceFL)
 
-New: [On almost sure convergence rates of stochastic gradient methods](https://arxiv.org/abs/2202.04295), 2022.
+<h4>New:</h4> [On almost sure convergence rates of stochastic gradient methods](https://arxiv.org/abs/2202.04295), 2022.
 
 <!-- Sampling identifiability of nonlinear dynamical systems, 2022. 
  -->
