@@ -47,7 +47,7 @@ Class 2021: Xiong Zeng(UMICH), Xiao Hu(UMICH)
 
 Class 2022: Zhiwei Zheng (Berkeley)
 
-Since 2022, I do not take any new undergrads in my group as there are too many graduate students to supervise... 
+Since 2022, I rarely take any new undergrads in my lab as there are too many graduate students to supervise... 
 
 #### Previously Co-supervised Students: 
 
