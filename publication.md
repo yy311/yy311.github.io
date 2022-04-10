@@ -6,8 +6,6 @@ For a full list, please refer to my [google citation](https://scholar.google.co.
 
 <h3>Working Papers: </h3>
 
-[Inverse power flow problem](https://arxiv.org/abs/1610.06631), 2015. 
-
 [Machine discovery of partial differential equations from spatiotemporal data](https://arxiv.org/pdf/1909.06730.pdf), 2016. [Code+data](https://github.com/HAIRLAB/S3d)
 
 [DeceFL: A principled decentralized federated learning framework](https://arxiv.org/abs/2107.07171), 2020. [Code+data](https://github.com/HAIRLAB/DeceFL)
@@ -16,8 +14,6 @@ For a full list, please refer to my [google citation](https://scholar.google.co.
 
 [On almost sure convergence rates of stochastic gradient methods](https://arxiv.org/abs/2202.04295), 2022.
 
-<!-- Sampling identifiability of nonlinear dynamical systems, 2022. 
- -->
  
 <h3>Selected Journal Papers: (By topics)</h3>
 
@@ -45,6 +41,9 @@ Y. Yuan, G. Ma, C. Cheng, B. Zhou, H. Zhao, H. ZHang, H. Ding, [A general end-to
 C. Cheng, G. Ma, Y. Zhang, M. Sun, F. Teng, H. Ding and Y. Yuan*, [A deep learning-based remaining useful life prediction approach for bearings](https://ieeexplore.ieee.org/document/8982045), IEEE/ASME Transactions on Mechatronics, 2020.
 
 Y. Yuan, H. Zhang, Y. Wu, T. Zhu and H. Ding, [Bayesian learning-based model predictive vibration control for thin-walled workpiece machining processes](https://ieeexplore.ieee.org/document/7676308), IEEE/ASME Transactions on Mechatronics, 2017.
+
+Y. Yuan, S. Low, O. Ardakanian and C. Tomlin, [Inverse power flow problem](https://arxiv.org/abs/1610.06631), IEEE Transactions on Control of Network Systems, 2022. 
+
 
 = natural and healthcare systems
 
