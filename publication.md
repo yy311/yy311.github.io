@@ -12,9 +12,9 @@ For a full list, please refer to my [google citation](https://scholar.google.co.
 
 <p style="color:red">New:</p>   
 
-[On almost sure convergence rates of stochastic gradient methods](https://arxiv.org/abs/2202.04295), 2022.
+[On almost sure convergence rates of stochastic gradient methods](https://arxiv.org/abs/2202.04295), COLT, 2022.
 
-[A sampling theorem for exact identification of continuous-time nonlinear dynamical systems](https://arxiv.org/abs/2204.14021), 2022.
+[A sampling theorem for exact identification of continuous-time nonlinear dynamical systems](https://arxiv.org/abs/2204.14021), CDC, 2022.
  
 <h3>Selected Journal Papers: (By topics)</h3>
 
