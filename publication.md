@@ -12,8 +12,6 @@ For a full list, please refer to my [google citation](https://scholar.google.co.
 
 <p style="color:red">New:</p>   
 
-[On almost sure convergence rates of stochastic gradient methods](https://arxiv.org/abs/2202.04295), an abridged version has been accepted by COLT, 2022.
-
 [A sampling theorem for exact identification of continuous-time nonlinear dynamical systems](https://arxiv.org/abs/2204.14021), an abridged version has been submitted to CDC, 2022.
  
 <h3>Selected Journal Papers: (By topics)</h3>
@@ -56,6 +54,9 @@ E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, ..., A. Webb, J. Gonçalves and S. 
 
 
 <h3>Selected Conference Papers:</h3>
+
+J. Liu and Y. Yuan, [On almost sure convergence rates of stochastic gradient methods](https://arxiv.org/abs/2202.04295), COLT, 2022.
+
 
 Y. Shen, Y. Hong, W. Zhou, R. Tai, Y. Yuan* and H. Ding, “Manipulability and robustness optimization of the cable-driven redundant soft manipulator,” IEEE Robio, 2021. (Best Student Paper Award, Finalist)
 
