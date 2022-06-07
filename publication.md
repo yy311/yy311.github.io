@@ -30,6 +30,8 @@ Y. Yuan, M. Li, J. Liu and C. Tomlin, On the Powerball method: variants of desce
 
 W. Pan, Y. Yuan, J. Goncalves and G. Stan, [Bayesian approaches to the identification of nonlinear state-space systems](http://arxiv.org/pdf/1408.3549v5.pdf), IEEE Transactions on Automatic Control, 2016.
 
+Y. Wang, H. Fang, J. Jin, G. Ma, X. He, X. Dai, Z. Yue, C. Cheng, H. Zhang, D. Pu, D. Wu, Y. Yuan*, J. Gonçalves, J. Kurths, H. Ding, Data-driven discovery of stochastic differential equations, Engineering, 2022. 
+
 
 <h4>Applitions to Cyber-physical Systems:</h4>
 
