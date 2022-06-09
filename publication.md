@@ -8,8 +8,6 @@ For a full list, please refer to my [google citation](https://scholar.google.co.
 
 [Machine discovery of partial differential equations from spatiotemporal data](https://arxiv.org/pdf/1909.06730.pdf), 2016. [Code+data](https://github.com/HAIRLAB/S3d)
 
-<p style="color:red">New:</p>   
-
 [A sampling theorem for exact identification of continuous-time nonlinear dynamical systems](https://arxiv.org/abs/2204.14021), an abridged version has been submitted to CDC, 2022.
  
 <h3>Selected Journal Papers: (By topics)</h3>
