@@ -4,18 +4,18 @@ layout: page
 
 #### Current Research Interests: 
 
-System Identification, Control, Optimization and Machine Learning with applications to the understanding and (re-)design of natural (biology) and man-made systems (manufacturing, robotics and power systems). 
+System Identification, Control, Optimization and Machine Learning with applications to the understanding and (re-)design of natural (biomedicine) and man-made systems (manufacturing, robotics). 
 
 
 #### Testbed in my lab:
 
 Quadrotors (Vicon Motion Capture System, Crazyflie 2.0)
 
-Robots (UR3, Kinect)
+Robots (UR3, Kinect, ...)
 
 Hypersim 
 
-GPU cluster (Nvidia 1080)
+GPU cluster (Nvidia 1080, ...)
 
 #### Group at Huazhong UST: 
 
