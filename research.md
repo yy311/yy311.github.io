@@ -19,11 +19,11 @@ GPU cluster (Nvidia 1080)
 
 #### Group at Huazhong UST: 
 
-Faculty: Prof. Yong Zhang, Dr. Renzhi Lu, Dr. Junyang Jin, Dr. Cheng Cheng, Dr. Zuogong Yue, Mrs Xin He
+Faculty: Prof. Yong Zhang, Dr. Renzhi Lu, Dr. Junyang Jin, Dr. Cheng Cheng, Dr. Zuogong Yue, Dr. Liren Yang, Mrs Xin He
 
 Assitant: Mrs Qin Yang
 
-Postdocs: Dr. Xiuting Li (PhD Maths HUST, 2016-2020, first job: associate professor, HAU), Dr. Cheng Cheng (PhD Imperial College London, 2018-2020, first job: lecturer, HUST), Dr. Wei He (PHD HUST, 2017-2020, first job: lecturer, HUST),  Dr. Shaolin Ran (PhD Wuhan University of Technology, 2020-)
+Postdocs: Dr. Xiuting Li (PhD Maths HUST, 2016-2020, first job: associate professor, HAU), Dr. Cheng Cheng (PhD Imperial College London, 2018-2020, first job: lecturer, HUST), Dr. Wei He (PHD HUST, 2017-2020, first job: lecturer, HUST),  Dr. Shaolin Ran (PhD Wuhan University of Technology, 2020-), Dr. Shengjun Zhang (PhD University of North Texas, 2022-)
 
 PhDs:  (Ongoing) Yunlong Dong, Guijun Ma, Xiuchuan Tang, Tan Shen, Yuqiang Wu, Yasen Wang, Jingyu Yang, Yi Shen, Zhexuan Zeng, Feng Hua, Qianjun Liu, Zelin Deng, Xuechun Qiao, Xiaohua Li
 
