@@ -33,6 +33,8 @@ Y. Wang, H. Fang, J. Jin, G. Ma, X. He, X. Dai, Z. Yue, C. Cheng, H. Zhang, D. P
 
 = industrial systems
 
+G. Ma, S. Xu, B. Jiang, C. Cheng, X. Yang, Y. Shen, T. Yang, Y. Huang, H. Ding, Y. Yuan*, “Real-time personalized health status prediction of lithium-ion batteries using deep transfer learning”, Energy & Environmental Science, to appear, 2022.
+
 Y. Yuan, G. Ma, C. Cheng, B. Zhou, H. Zhao, H. ZHang, H. Ding, [A general end-to-end diagnosis framework for manufacturing systems](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwz190/5637084), National Science Review, 2020. [Code+data](https://github.com/HAIRLAB/NSR_krCNN)
 
 C. Cheng, G. Ma, Y. Zhang, M. Sun, F. Teng, H. Ding and Y. Yuan*, [A deep learning-based remaining useful life prediction approach for bearings](https://ieeexplore.ieee.org/document/8982045), IEEE/ASME Transactions on Mechatronics, 2020.
