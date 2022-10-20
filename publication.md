@@ -43,7 +43,7 @@ Y. Yuan, H. Zhang, Y. Wu, T. Zhu and H. Ding, [Bayesian learning-based model pre
 
 Y. Yuan, S. Low, O. Ardakanian and C. Tomlin, [Inverse power flow problem](https://arxiv.org/abs/1610.06631), IEEE Transactions on Control of Network Systems, 2022. 
 
-Y. Yuan, et. al., DeceFL: A Principled Decentralized Federated Learning Framework, National Science Open, subitted, 2022. 
+Y. Yuan, et. al., DeceFL: A Principled Decentralized Federated Learning Framework, National Science Open, submitted, 2022. 
 
 = natural and healthcare systems
 
