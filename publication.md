@@ -43,12 +43,11 @@ Y. Yuan, H. Zhang, Y. Wu, T. Zhu and H. Ding, [Bayesian learning-based model pre
 
 Y. Yuan, S. Low, O. Ardakanian and C. Tomlin, [Inverse power flow problem](https://arxiv.org/abs/1610.06631), IEEE Transactions on Control of Network Systems, 2022. 
 
+Y. Yuan, et. al., DeceFL: A Principled Decentralized Federated Learning Framework, National Science Open, subitted, 2022. 
 
 = natural and healthcare systems
 
 L. Yan, H. Zhang, J. Goncalves, ..., S. Li, H. Xu, and Y. Yuan*, [An interpretable mortality prediction model for COVID-19 patients]( https://doi.org/10.1038/s42256-020-0180-7), Nature Machine Intelligence, 2020. [Code](https://github.com/HAIRLAB/Pre_Surv_COVID_19), [Web-interface](http://silkworm.xin:8084">web interface).
-
-Y. Yuan, et. al. Development and validation of a prognostic risk score system for COVID-19 inpatients: A multi-center retrospective study in China, Engineering, 2022. 
 
 H. Zhu, C. Cheng, ..., X. Yang, and Y. Yuan*, [Automatic multi-label ECG diagnosis of impulse or conduction abnormalities with deep learning: a cohort study](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30107-2/fulltext), Lancet Digital Health, 2020.
 
@@ -58,7 +57,6 @@ E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, ..., A. Webb, J. Gonçalves and S. 
 <h3>Selected Conference Papers:</h3>
 
 J. Liu and Y. Yuan, [On almost sure convergence rates of stochastic gradient methods](https://arxiv.org/abs/2202.04295), COLT, 2022.
-
 
 Y. Shen, Y. Hong, W. Zhou, R. Tai, Y. Yuan* and H. Ding, “Manipulability and robustness optimization of the cable-driven redundant soft manipulator,” IEEE Robio, 2021. (Best Student Paper Award, Finalist)
 
