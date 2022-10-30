@@ -26,14 +26,14 @@ Y. Yuan, M. Li, J. Liu and C. Tomlin, On the Powerball method: variants of desce
 
 W. Pan, Y. Yuan, J. Goncalves and G. Stan, [Bayesian approaches to the identification of nonlinear state-space systems](http://arxiv.org/pdf/1408.3549v5.pdf), IEEE Transactions on Automatic Control, 2016.
 
-Y. Wang, H. Fang, J. Jin, G. Ma, X. He, X. Dai, Z. Yue, C. Cheng, H. Zhang, D. Pu, D. Wu, Y. Yuan*, J. Gonçalves, J. Kurths, H. Ding, Data-driven discovery of stochastic differential equations, Engineering, 2022. 
+Y. Wang, H. Fang, J. Jin, G. Ma, X. He, X. Dai, Z. Yue, C. Cheng, H. Zhang, D. Pu, D. Wu, Y. Yuan*, J. Gonçalves, J. Kurths, H. Ding, [Data-driven discovery of stochastic differential equations](https://www.sciencedirect.com/science/article/pii/S209580992200145X), Engineering, 2022. 
 
 
 <h4>Applitions to Cyber-physical Systems:</h4>
 
 = industrial systems
 
-G. Ma, S. Xu, B. Jiang, C. Cheng, X. Yang, Y. Shen, T. Yang, Y. Huang, H. Ding, Y. Yuan*, Real-time personalized health status prediction of lithium-ion batteries using deep transfer learning, Energy & Environmental Science, 2022.
+G. Ma, S. Xu, B. Jiang, C. Cheng, X. Yang, Y. Shen, T. Yang, Y. Huang, H. Ding, Y. Yuan*, [Real-time personalized health status prediction of lithium-ion batteries using deep transfer learning](https://pubs.rsc.org/en/content/articlelanding/2022/ee/d2ee01676a), Energy & Environmental Science, 2022.
 
 Y. Yuan, G. Ma, C. Cheng, B. Zhou, H. Zhao, H. ZHang, H. Ding, [A general end-to-end diagnosis framework for manufacturing systems](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwz190/5637084), National Science Review, 2020. [Code+data](https://github.com/HAIRLAB/NSR_krCNN)
 
@@ -43,7 +43,7 @@ Y. Yuan, H. Zhang, Y. Wu, T. Zhu and H. Ding, [Bayesian learning-based model pre
 
 Y. Yuan, S. Low, O. Ardakanian and C. Tomlin, [Inverse power flow problem](https://arxiv.org/abs/1610.06631), IEEE Transactions on Control of Network Systems, 2022. 
 
-Y. Yuan, J. Liu, D. Jin, Z. Yue, T. Yang, R. Chen, M. Wang, C. Sun, L. Xu, F. Hua, Y. Guo, X. Tang, X. He, X. Yi, D. Li, G. Wen, W. Yu, H.-T. Zhang, T. Chai, S. Sui and H. Ding, DeceFL: A Principled Fully Decentralized Federated Learning Framework, National Science Open, 2022.
+Y. Yuan, J. Liu, D. Jin, Z. Yue, T. Yang, R. Chen, M. Wang, C. Sun, L. Xu, F. Hua, Y. Guo, X. Tang, X. He, X. Yi, D. Li, G. Wen, W. Yu, H.-T. Zhang, T. Chai, S. Sui and H. Ding, [DeceFL: A principled fully decentralized federated learning framework](https://arxiv.org/abs/2107.07171), National Science Open, 2022.
 
 = natural and healthcare systems
 
