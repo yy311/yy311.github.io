@@ -15,6 +15,9 @@ Huazhong University of Science and Technology, Wuhan, China.</p>
 
 <b>News:</b>
 
+<p><small>Mar. 2023 — Our paper "A general end-to-end diagnosis framework for manufacturing systems" won the 2022 Best Paper Award of 
+        National Science Review</small></p>
+
 <p><small>Jul. 2021 — Our paper "Swing-Reducing Flight Control System for an Underactuated Indoor Miniature Autonomous Blimp
 " won the Best Student Paper Award at the IEEE/ASME International Conference on Advanced Intelligent Mechatronics.</small></p>
 
