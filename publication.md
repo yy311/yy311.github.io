@@ -6,9 +6,7 @@ For a full list, please refer to my [google citation](https://scholar.google.co.
 
 <h3>Working Papers: </h3>
 
-[Machine discovery of partial differential equations from spatiotemporal data](https://arxiv.org/pdf/1909.06730.pdf), 2016. [Code+data](https://github.com/HAIRLAB/S3d)
-
-[A sampling theorem for exact identification of continuous-time nonlinear dynamical systems](https://arxiv.org/abs/2204.14021), an abridged version has been submitted to CDC, 2022.
+[A sampling theorem for exact identification of continuous-time nonlinear dynamical systems](https://arxiv.org/abs/2204.14021), an abridged version appeared in CDC, 2022.
  
 <h3>Selected Journal Papers: (By topics)</h3>
 
@@ -27,6 +25,10 @@ Y. Yuan, M. Li, J. Liu and C. Tomlin, On the Powerball method: variants of desce
 W. Pan, Y. Yuan, J. Goncalves and G. Stan, [Bayesian approaches to the identification of nonlinear state-space systems](http://arxiv.org/pdf/1408.3549v5.pdf), IEEE Transactions on Automatic Control, 2016.
 
 Y. Wang, H. Fang, J. Jin, G. Ma, X. He, X. Dai, Z. Yue, C. Cheng, H. Zhang, D. Pu, D. Wu, Y. Yuan*, J. Gonçalves, J. Kurths, H. Ding, [Data-driven discovery of stochastic differential equations](https://www.sciencedirect.com/science/article/pii/S209580992200145X), Engineering, 2022. 
+
+Y. Yuan, X. Li, L. Li, F. Jiang, X. Tang, F. Zhang, J. Goncalves, H. U. Voss, H. Ding, and J. Kurths
+[Machine discovery of partial differential equations from spatiotemporal data](https://arxiv.org/pdf/1909.06730.pdf), Chaos, 2023. [Code+data](https://github.com/HAIRLAB/S3d)
+
 
 
 <h4>Applitions to Cyber-physical Systems:</h4>
