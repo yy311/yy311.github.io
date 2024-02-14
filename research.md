@@ -19,15 +19,15 @@ GPU cluster (Nvidia 1080, ...)
 
 #### Group at Huazhong UST: 
 
-Faculty: Prof. Yong Zhang, Dr. Renzhi Lu, Dr. Junyang Jin, Dr. Cheng Cheng, Dr. Zuogong Yue, Dr. Liren Yang, Mrs Xin He
+Faculty: Prof. Yong Zhang, Prof. Chao Deng, Dr. Renzhi Lu, Dr. Junyang Jin, Dr. Cheng Cheng, Dr. Zuogong Yue, Dr. Liren Yang
 
 Assitant: Mrs Qin Yang
 
-Postdocs: Dr. Xiuting Li (PhD Maths HUST, 2016-2020, first job: associate professor, HAU), Dr. Cheng Cheng (PhD Imperial College London, 2018-2020, first job: lecturer, HUST), Dr. Wei He (PHD HUST, 2017-2020, first job: lecturer, HUST),  Dr. Shaolin Ran (PhD Wuhan University of Technology, 2020-)
+Postdocs: Dr. Xiuting Li (PhD Maths HUST, 2016-2020, first job: associate professor, HAU), Dr. Cheng Cheng (PhD Imperial College London, 2018-2020, first job: lecturer, HUST), Dr. Wei He (PHD HUST, 2017-2020, first job: lecturer, HUST),  Dr. Shaolin Ran (PhD Wuhan University of Technology, 2020-2023), Dr. Guijun Ma
 
-PhDs:  (Ongoing) Guijun Ma, Tan Shen, Yuqiang Wu, Yasen Wang, Jingyu Yang, Yi Shen, Zhexuan Zeng, Feng Hua, Qianjun Liu, Zelin Deng, Xuechun Qiao, Xiaohua Li
+PhDs:  (Ongoing) Jingyu Yang, Yi Shen, Zhexuan Zeng, Feng Hua, Qianjun Liu, Zelin Deng, Chaoying Yang, Xuechun Qiao, Xiaohua Li, Xing Liu, Yinuo Jiang, Jiayu Fang 
 
-(Graduated): Ruijuan Chen (lecturer, Wuhan Textile University), Zuowei Ping (lecturer, Naval University off Engineerinng), Junlin Li (lecturer, Fuyang Normal University), Wei Zhou (Huawei, Co-supervised with  Prof. Hai-Tao Zhang), Weigao Sun (Huawei, Co-supervised with Prof. Hai-Tao Zhang),  Yunlong Dong (postdoc, Tsinghua), Xiuchuan Tang (postdoc, Tsinghua)
+(Graduated): Ruijuan Chen (lecturer, Wuhan Textile University), Zuowei Ping (lecturer, Naval University off Engineerinng), Junlin Li (lecturer, Fuyang Normal University), Wei Zhou (Huawei, Co-supervised with  Prof. Hai-Tao Zhang), Weigao Sun (Huawei, Co-supervised with Prof. Hai-Tao Zhang),  Yunlong Dong (postdoc, Tsinghua), Xiuchuan Tang (postdoc, Tsinghua), Guijun Ma (postdoc, HUST), Tan Shen (ASML), Yuqiang Wu (lecturer), Yasen Wang (researcher)
 
 Masters & Undergraduate TA: Too many
 
