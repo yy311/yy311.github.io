@@ -28,7 +28,7 @@ W. Pan, Y. Yuan, J. Goncalves and G. Stan, [Bayesian approaches to the identific
 
 Y. Wang, H. Fang, J. Jin, G. Ma, X. He, X. Dai, Z. Yue, C. Cheng, H. Zhang, D. Pu, D. Wu, Y. Yuan*, J. Gonçalves, J. Kurths, H. Ding, [Data-driven discovery of stochastic differential equations](https://www.sciencedirect.com/science/article/pii/S209580992200145X), Engineering, 2022. 
 
-Y. Yuan, X. Li, L. Li, F. Jiang, X. Tang, F. Zhang, J. Goncalves, H. U. Voss, H. Ding, and J. Kurths
+Y. Yuan, X. Li, L. Li, F. Jiang, X. Tang, F. Zhang, J. Goncalves, H. U. Voss, H. Ding, and J. Kurths,
 [Machine discovery of partial differential equations from spatiotemporal data](https://arxiv.org/pdf/1909.06730.pdf), Chaos, 2023. [Code+data](https://github.com/HAIRLAB/S3d)
 
 
