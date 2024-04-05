@@ -7,6 +7,8 @@ For a full list, please refer to my [google citation](https://scholar.google.co.
 <h3>Working Papers: </h3>
 
 [A sampling theorem for exact identification of continuous-time nonlinear dynamical systems](https://arxiv.org/abs/2204.14021), an abridged version appeared in CDC, 2022.
+
+Almost sure convergence rates analysis and saddle avoidance of stochastic gradient methods, an abridged version appeared in COLT, 2022.
  
 <h3>Selected Journal Papers: (By topics)</h3>
 
