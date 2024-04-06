@@ -12,7 +12,7 @@ Almost sure convergence rates analysis and saddle avoidance of stochastic gradie
  
 <h3>Selected Journal Papers: (By topics)</h3>
 
-<h4>System Identification and Control Theory</h4>
+<h4>System Identification and Optimization Theory</h4>
 
 Y. Yuan, X. Tang, W. Zhou, W. Pan, X. Li, H. Zhang, H. Ding and J. Goncalves. [Data driven discovery of cyber physical systems](https://www.nature.com/articles/s41467-019-12490-1), Nature Communications, 2019. [Code+data](https://github.com/HAIRLAB/CPSid)
 
