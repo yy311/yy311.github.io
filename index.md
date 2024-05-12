@@ -13,6 +13,9 @@ Huazhong University of Science and Technology, Wuhan, China.</p>
 
 <b>News:</b>
 
+<p><small>May 2024 - Our paper "Modeling and control of swing oscillation of underactuated indoor miniature autonomous blimps" won the Best Paper Award of 
+        Unmanned Systems. </small></p>
+
 <p><small>Mar. 2023 — Our paper "A general end-to-end diagnosis framework for manufacturing systems" won the 2022 Best Paper Award of 
         National Science Review.</small></p>
 
