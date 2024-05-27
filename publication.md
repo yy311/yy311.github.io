@@ -6,8 +6,6 @@ For a full list, please refer to my [google citation](https://scholar.google.co.
 
 <h3>Working Papers: </h3>
 
-[A sampling theorem for exact identification of continuous-time nonlinear dynamical systems](https://arxiv.org/abs/2204.14021), an abridged version appeared in CDC, 2022.
-
 Almost sure convergence rates analysis and saddle avoidance of stochastic gradient methods, an abridged version appeared in COLT, 2022.
  
 <h3>Selected Journal Papers: (By topics)</h3>
@@ -15,6 +13,8 @@ Almost sure convergence rates analysis and saddle avoidance of stochastic gradie
 <h4>System Identification and Optimization Theory</h4>
 
 Y. Yuan, X. Tang, W. Zhou, W. Pan, X. Li, H. Zhang, H. Ding and J. Goncalves. [Data driven discovery of cyber physical systems](https://www.nature.com/articles/s41467-019-12490-1), Nature Communications, 2019. [Code+data](https://github.com/HAIRLAB/CPSid)
+
+Z. Zeng, Z. Yue, A. Mauroy, J. Goncalves, Y. Yuan*, [A sampling theorem for exact identification of continuous-time nonlinear dynamical systems](https://arxiv.org/abs/2204.14021), to appear, IEEE Transactions on Automatic Control, 2024. 
 
 Y. Yuan, G. Stan, S. Warnick and J. Goncalves , [Robust dynamical network structure reconstruction](http://www.sciencedirect.com/science/article/pii/S0005109811001828), Automatica, 2011.
 
