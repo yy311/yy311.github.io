@@ -14,7 +14,9 @@ Almost sure convergence rates analysis and saddle avoidance of stochastic gradie
 
 Y. Yuan, X. Tang, W. Zhou, W. Pan, X. Li, H. Zhang, H. Ding and J. Goncalves. [Data driven discovery of cyber physical systems](https://www.nature.com/articles/s41467-019-12490-1), Nature Communications, 2019. [Code+data](https://github.com/HAIRLAB/CPSid)
 
-Z. Zeng, Z. Yue, A. Mauroy, J. Goncalves, Y. Yuan*, [A sampling theorem for exact identification of continuous-time nonlinear dynamical systems](https://arxiv.org/abs/2204.14021), to appear, IEEE Transactions on Automatic Control, 2024. 
+Z. Zeng, Z. Yue, A. Mauroy, J. Goncalves and Y. Yuan*, [A sampling theorem for exact identification of continuous-time nonlinear dynamical systems](https://arxiv.org/abs/2204.14021), to appear, IEEE Transactions on Automatic Control, 2024. 
+
+Z. Zeng, J. Liu and Y. Yuan*, A generalized Nyquist-Shannon sampling theorem using the Koopman operator, to appear, IEEE Transactions on Signal Processing, 2024. 
 
 Y. Yuan, G. Stan, S. Warnick and J. Goncalves , [Robust dynamical network structure reconstruction](http://www.sciencedirect.com/science/article/pii/S0005109811001828), Automatica, 2011.
 
