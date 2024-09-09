@@ -15,7 +15,7 @@ Y. Yuan, X. Tang, W. Zhou, W. Pan, X. Li, H. Zhang, H. Ding and J. Goncalves. [D
 
 Z. Zeng, Z. Yue, A. Mauroy, J. Goncalves and Y. Yuan*, [A sampling theorem for exact identification of continuous-time nonlinear dynamical systems](https://arxiv.org/abs/2204.14021), to appear, IEEE Transactions on Automatic Control, 2024. 
 
-J. Liu and Y. Yuan, Almost sure convergence rates analysis and saddle avoidance of stochastic gradient methods, Journal of Machine Learning Research, 2024.
+J. Liu* and Y. Yuan*, Almost sure convergence rates analysis and saddle avoidance of stochastic gradient methods, Journal of Machine Learning Research, 2024.
 
 Z. Zeng, J. Liu and Y. Yuan*, [A generalized Nyquist-Shannon sampling theorem using the Koopman operator](https://arxiv.org/abs/2303.01927), to appear, IEEE Transactions on Signal Processing, 2024. 
 
