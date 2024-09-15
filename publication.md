@@ -63,6 +63,8 @@ E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, ..., A. Webb, J. Gonçalves and S. 
 
 <h3>Selected Conference Papers:</h3>
 
+Y. Wang, J. Li, Z. Yue and Y. Yuan*, An iterative min-min optimization method for sparse Bayesian learning, ICML, 2024. 
+
 J. Liu and Y. Yuan, [On almost sure convergence rates of stochastic gradient methods](https://arxiv.org/abs/2202.04295), COLT, 2022.
 
 Y. Shen, Y. Hong, W. Zhou, R. Tai, Y. Yuan* and H. Ding, “Manipulability and robustness optimization of the cable-driven redundant soft manipulator,” IEEE Robio, 2021. (Best Student Paper Award, Finalist)
