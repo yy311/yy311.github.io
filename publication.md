@@ -5,6 +5,8 @@ layout: page
 For a full list, please refer to my [google citation](https://scholar.google.co.uk/citations?hl=en&user=Jhj7LZUAAAAJ&view_op=list_works).
 
 <h3>Working Papers: </h3>
+A robust inlier identification algorithm for point cloud registration via l0-minimization.
+
 
  
 <h3>Selected Journal Papers: (By topics)</h3>
