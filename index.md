@@ -13,6 +13,8 @@ Huazhong University of Science and Technology, Wuhan, China.</p>
 
 <b>News:</b>
 
+<p><small>Oct 2024 - Our paper won the Best Paper Award, Science China Technological Sciences. </small></p>
+
 <p><small>May 2024 - Our paper "Modeling and control of swing oscillation of underactuated indoor miniature autonomous blimps" won the Best Paper Award of 
         Unmanned Systems. </small></p>
 
@@ -43,7 +45,7 @@ Lab: 116, South-1 Building (Nan-1 Lou) <br  />
 Email: yye@hust.edu.cn.</small></p>
 
 <span class="footercued">
-Updated on 7/2021.<br />
+Updated on 3/2026.<br />
 <span>
 
 
