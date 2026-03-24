@@ -15,19 +15,19 @@ Flow-consistent identification of governing equations from sparsely sampled meas
 
 Y. Yuan, X. Tang, W. Zhou, W. Pan, X. Li, H. Zhang, H. Ding and J. Goncalves. [Data driven discovery of cyber physical systems](https://www.nature.com/articles/s41467-019-12490-1), Nature Communications, 2019. [Code+data](https://github.com/HAIRLAB/CPSid)
 
-Z. Zeng, Z. Yue, A. Mauroy, J. Goncalves and Y. Yuan*, [A sampling theorem for exact identification of continuous-time nonlinear dynamical systems](https://arxiv.org/abs/2204.14021), to appear, IEEE Transactions on Automatic Control, 2024. 
+Z. Zeng, Z. Yue, A. Mauroy, J. Goncalves and Y. Yuan*, [A sampling theorem for exact identification of continuous-time nonlinear dynamical systems](https://arxiv.org/abs/2204.14021), IEEE Transactions on Automatic Control, 2024. 
 
-J. Liu* and Y. Yuan*, Almost sure convergence rates analysis and saddle avoidance of stochastic gradient methods, Journal of Machine Learning Research, 2024.
+J. Liu* and Y. Yuan*, [Almost sure convergence rates analysis and saddle avoidance of stochastic gradient methods](https://www.jmlr.org/papers/v25/23-1436.html), Journal of Machine Learning Research, 2024.
 
 Z. Zeng, J. Liu and Y. Yuan*, [A generalized Nyquist-Shannon sampling theorem using the Koopman operator](https://arxiv.org/abs/2303.01927), IEEE Transactions on Signal Processing, 2024. 
 
-Y. Yuan, G. Stan, S. Warnick and J. Goncalves , [Robust dynamical network structure reconstruction](http://www.sciencedirect.com/science/article/pii/S0005109811001828), Automatica, 2011.
+Y. Yuan, G. Stan, S. Warnick and J. Goncalves, [Robust dynamical network structure reconstruction](http://www.sciencedirect.com/science/article/pii/S0005109811001828), Automatica, 2011.
 
 Y. Yuan, G. Stan, L. Shi, M. Barahona and J. Goncalves, [Decentralised minimum-time consensus](http://www.sciencedirect.com/science/article/pii/S0005109813000794), Automatica, 2013.
 
 D. Hayden, Y. Yuan* and J. Goncalves, [Network identifiability from intrinsic noise](https://ieeexplore.ieee.org/document/7784731), IEEE Transactions on Automatic Control, 2016.
 
-Y. Yuan, M. Li, J. Liu and C. Tomlin, On the Powerball method: variants of descent methods for accelerated optimization, IEEE Control Systems Letters, 2019.
+Y. Yuan, M. Li, J. Liu and C. Tomlin, [On the Powerball method: variants of descent methods for accelerated optimization](https://ieeexplore.ieee.org/document/8701500), IEEE Control Systems Letters, 2019.
 
 W. Pan, Y. Yuan, J. Goncalves and G. Stan, [Bayesian approaches to the identification of nonlinear state-space systems](http://arxiv.org/pdf/1408.3549v5.pdf), IEEE Transactions on Automatic Control, 2016.
 
@@ -56,11 +56,11 @@ Y. Yuan, J. Liu, D. Jin, Z. Yue, T. Yang, R. Chen, M. Wang, C. Sun, L. Xu, F. Hu
 
 = natural and healthcare systems
 
-L. Yan, H. Zhang, J. Goncalves, ..., S. Li, H. Xu, and Y. Yuan*, [An interpretable mortality prediction model for COVID-19 patients]( https://doi.org/10.1038/s42256-020-0180-7), Nature Machine Intelligence, 2020. [Code](https://github.com/HAIRLAB/Pre_Surv_COVID_19), [Web-interface](http://silkworm.xin:8084">web interface).
+L. Yan, H. Zhang, J. Goncalves, ..., S. Li*, H. Xu* and Y. Yuan*, [An interpretable mortality prediction model for COVID-19 patients]( https://doi.org/10.1038/s42256-020-0180-7), Nature Machine Intelligence, 2020. [Code](https://github.com/HAIRLAB/Pre_Surv_COVID_19), [Web-interface](http://silkworm.xin:8084">web interface).
 
-H. Zhu, ..., Y. Yuan* and X. Yang*, Four-channel ECG as a single source for early diagnosis of cardiac hypertrophy and dilation—a deep learning approach, The New England Journal of Medicine AI, 2024.
+H. Zhu, ..., Y. Yuan* and X. Yang*, [Four-channel ECG as a single source for early diagnosis of cardiac hypertrophy and dilation—a deep learning approach](https://ai.nejm.org/doi/abs/10.1056/AIoa2300297), The New England Journal of Medicine AI, 2024.
 
-H. Zhu, C. Cheng, ..., X. Yang, and Y. Yuan*, [Automatic multi-label ECG diagnosis of impulse or conduction abnormalities with deep learning: a cohort study](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30107-2/fulltext), Lancet Digital Health, 2020.
+H. Zhu, C. Cheng, ..., X. Yang* and Y. Yuan*, [Automatic multi-label ECG diagnosis of impulse or conduction abnormalities with deep learning: a cohort study](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30107-2/fulltext), Lancet Digital Health, 2020.
 
 E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, ..., A. Webb, J. Gonçalves and S. Davis, [Early Flowering4 recruitment of Early Flowering3 in the nucleus sustains the Arabidopsis circadian clock](http://www.plantcell.org/content/early/2012/02/07/tpc.111.093807.abstract), the Plant Cell, 2012.
 
