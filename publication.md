@@ -7,8 +7,7 @@ For a full list, please refer to my [google citation](https://scholar.google.co.
 <h3>Working Papers: </h3>
 [Flow-consistent identification of governing equations from sparsely sampled measurements](https://assets-eu.researchsquare.com/files/rs-8856625/v1_covered_84a31833-9519-4bb4-b299-84b57e751432.pdf?c=1776019230)
 
-
-
+Sampling-Induced Aliasing in Constant-Coefficient PDEs: Exact Identifiability and Stability
 
  
 <h3>Selected Journal Papers: (By topics)</h3>
