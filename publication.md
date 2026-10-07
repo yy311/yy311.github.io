@@ -7,10 +7,10 @@ For a full list, please refer to my [google citation](https://scholar.google.co.
 <h3>Working Papers: </h3>
 [Flow-consistent identification of governing equations from sparsely sampled measurements](https://assets-eu.researchsquare.com/files/rs-8856625/v1_covered_84a31833-9519-4bb4-b299-84b57e751432.pdf?c=1776019230)
 
-[Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models
+[Making latent evolution explicit: Operator-structured transitions for world action models
 ](https://arxiv.org/abs/2608.27259)
 
-[When Can World Models Recover Physical Laws?](https://arxiv.org/pdf/2610.06877)
+[When can world models recover physical laws?](https://arxiv.org/pdf/2610.06877)
  
 <h3>Selected Journal Papers: (By topics)</h3>
 
@@ -69,6 +69,8 @@ E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, ..., A. Webb, J. Gonçalves and S. 
 
 
 <h3>Selected Conference Papers:</h3>
+
+X. Lu, Y. Yuan* and J. Shi, Stable long-horizon PDE forecasting via latent structured spectral propagators, Neurips, 2026.
 
 Y. Jiang, X. Tang, C. Cheng adn Y. Yuan*, A robust inlier identification algorithm for point cloud registration via l0-minimization. Neurips, 2024.
 
