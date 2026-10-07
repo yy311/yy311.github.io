@@ -9,6 +9,8 @@ For a full list, please refer to my [google citation](https://scholar.google.co.
 
 [Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models
 ](https://arxiv.org/abs/2608.27259)
+
+[When Can World Models Recover Physical Laws?](https://arxiv.org/pdf/2610.06877)
  
 <h3>Selected Journal Papers: (By topics)</h3>
 
