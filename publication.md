@@ -70,7 +70,7 @@ E. Herrero, E. Kolmos, N. Bujdoso, Y. Yuan, ..., A. Webb, J. Gonçalves and S. 
 
 <h3>Selected Conference Papers:</h3>
 
-X. Lu, Y. Yuan* and J. Shi, Stable long-horizon PDE forecasting via latent structured spectral propagators, Neurips, 2026.
+X. Lu, Y. Yuan* and J. Shi, [Stable long-horizon PDE forecasting via latent structured spectral propagators](https://arxiv.org/abs/2605.10154), Neurips, 2026.
 
 Y. Jiang, X. Tang, C. Cheng adn Y. Yuan*, A robust inlier identification algorithm for point cloud registration via l0-minimization. Neurips, 2024.
 
