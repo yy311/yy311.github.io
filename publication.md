@@ -7,8 +7,7 @@ For a full list, please refer to my [google citation](https://scholar.google.co.
 <h3>Working Papers: </h3>
 [Flow-consistent identification of governing equations from sparsely sampled measurements](https://assets-eu.researchsquare.com/files/rs-8856625/v1_covered_84a31833-9519-4bb4-b299-84b57e751432.pdf?c=1776019230)
 
-[Making latent evolution explicit: Operator-structured transitions for world action models
-](https://arxiv.org/abs/2608.27259)
+[LEON: Operator-Structured Latent Evolution for World Modeling](https://arxiv.org/html/2608.27259v2)
 
 [When can world models recover physical laws?](https://arxiv.org/pdf/2610.06877)
  
